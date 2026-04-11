@@ -1,1 +1,0 @@
-2026-04-11 13:58:30 DEBUG:busco.run_BUSCO	Command line: /sw/arch/eb/software/BUSCO/5.8.2-gfbf-2024a/bin/busco -i /home/gretap/Genome_analysis/data/genome_assemblies/efaecium_spades_assembly.fasta -c 2 -m genome -l firmicutes_odb10 -o spades_f --out_path
