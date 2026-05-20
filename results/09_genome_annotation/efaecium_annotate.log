@@ -1,0 +1,392 @@
+[00:53:21] This is prokka 1.14.5
+[00:53:21] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[00:53:21] Homepage is https://github.com/tseemann/prokka
+[00:53:21] Local time is Sun Apr 12 00:53:21 2026
+[00:53:21] You are gretap
+[00:53:21] Operating system is linux
+[00:53:21] You have BioPerl 1.7.8
+[00:53:21] System has 96 cores.
+[00:53:21] Will use maximum of 2 cores.
+[00:53:21] Annotating as >>> Bacteria <<<
+[00:53:21] Re-using existing --outdir /home/gretap/Genome_analysis/results/09_genome_annotation
+[00:53:21] Using filename prefix: efaecium_annotate.XXX
+[00:53:21] Setting HMMER_NCPU=1
+[00:53:21] Writing log to: /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.log
+[00:53:21] Command: /sw/arch/eb/software/prokka/1.14.5-gompi-2024a/bin/prokka /home/gretap/Genome_analysis/data/polished_canu/1_pilon_canu.fasta --outdir /home/gretap/Genome_analysis/results/09_genome_annotation --force --prefix efaecium_annotate --locustag EFAEC --genus Enterococcus --species faecium --usegenus --cpus 2
+[00:53:21] Appending to PATH: /sw/arch/eb/software/prokka/1.14.5-gompi-2024a/bin/../binaries/linux
+[00:53:21] Appending to PATH: /sw/arch/eb/software/prokka/1.14.5-gompi-2024a/bin/../binaries/linux/../common
+[00:53:21] Appending to PATH: /sw/arch/eb/software/prokka/1.14.5-gompi-2024a/bin
+[00:53:21] Looking for 'aragorn' - found /sw/arch/eb/software/prokka/1.14.5-gompi-2024a/bin/../binaries/linux/aragorn
+[00:53:21] Determined aragorn version is 001002 from 'ARAGORN v1.2.38 Dean Laslett'
+[00:53:21] Looking for 'barrnap' - found /sw/arch/eb/software/barrnap/0.9-gompi-2024a/bin/barrnap
+[00:53:21] Determined barrnap version is 000009 from 'barrnap 0.9'
+[00:53:21] Looking for 'blastp' - found /sw/arch/eb/software/BLAST+/2.16.0-gompi-2024a/bin/blastp
+[00:53:27] Determined blastp version is 002016 from 'blastp: 2.16.0+'
+[00:53:27] Looking for 'cmpress' - found /sw/arch/eb/software/prokka/1.14.5-gompi-2024a/bin/../binaries/linux/cmpress
+[00:53:27] Determined cmpress version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[00:53:27] Looking for 'cmscan' - found /sw/arch/eb/software/prokka/1.14.5-gompi-2024a/bin/../binaries/linux/cmscan
+[00:53:27] Determined cmscan version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[00:53:27] Looking for 'egrep' - found /usr/bin/egrep
+[00:53:27] Looking for 'find' - found /usr/bin/find
+[00:53:27] Looking for 'grep' - found /usr/bin/grep
+[00:53:27] Looking for 'hmmpress' - found /sw/arch/eb/software/HMMER/3.4-gompi-2024a/bin/hmmpress
+[00:53:27] Determined hmmpress version is 003004 from '# HMMER 3.4 (Aug 2023); http://hmmer.org/'
+[00:53:27] Looking for 'hmmscan' - found /sw/arch/eb/software/HMMER/3.4-gompi-2024a/bin/hmmscan
+[00:53:27] Determined hmmscan version is 003004 from '# HMMER 3.4 (Aug 2023); http://hmmer.org/'
+[00:53:27] Looking for 'java' - found /sw/arch/eb/software/Java/17.0.15/bin/java
+[00:53:27] Looking for 'makeblastdb' - found /sw/arch/eb/software/BLAST+/2.16.0-gompi-2024a/bin/makeblastdb
+[00:53:33] Determined makeblastdb version is 002016 from 'makeblastdb: 2.16.0+'
+[00:53:33] Looking for 'minced' - found /sw/arch/eb/software/prokka/1.14.5-gompi-2024a/bin/../binaries/linux/../common/minced
+[00:53:33] Determined minced version is 002000 from 'minced 0.2.0'
+[00:53:33] Looking for 'parallel' - found /sw/arch/eb/software/parallel/20240722-GCCcore-13.3.0/bin/parallel
+[00:53:33] Determined parallel version is 20240722 from 'GNU parallel 20240722'
+[00:53:33] Looking for 'prodigal' - found /sw/arch/eb/software/prokka/1.14.5-gompi-2024a/bin/../binaries/linux/prodigal
+[00:53:33] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[00:53:33] Looking for 'prokka-genbank_to_fasta_db' - found /sw/arch/eb/software/prokka/1.14.5-gompi-2024a/bin/prokka-genbank_to_fasta_db
+[00:53:33] Looking for 'sed' - found /usr/bin/sed
+[00:53:33] Looking for 'tbl2asn' - found /sw/arch/eb/software/tbl2asn/20230713-GCCcore-13.3.0/bin/tbl2asn
+[00:53:33] Determined tbl2asn version is 025008 from 'tbl2asn 25.8   arguments:'
+[00:53:33] Using genetic code table 11.
+[00:53:33] Loading and checking input file: /home/gretap/Genome_analysis/data/polished_canu/1_pilon_canu.fasta
+[00:53:33] Wrote 9 contigs totalling 3135721 bp.
+[00:53:33] Predicting tRNAs and tmRNAs
+[00:53:33] Running: aragorn -l -gc11  -w \/home\/gretap\/Genome_analysis\/results\/09_genome_annotation\/efaecium_annotate\.fna
+[00:53:34] 1 tmRNA c[1021,1384] 91,129 AKNENNSYALAA*
+[00:53:34] 2 tRNA-Ser [30202,30289] 33 (cga)
+[00:53:34] 3 tRNA-Met [294071,294146] 36 (cat)
+[00:53:34] 4 tRNA-Gln [518051,518123] 34 (ctg)
+[00:53:34] 5 tRNA-Leu c[522493,522578] 36 (cag)
+[00:53:34] 6 tRNA-Leu [611616,611700] 35 (gag)
+[00:53:34] 7 tRNA-Leu c[774766,774852] 36 (caa)
+[00:53:34] 8 tRNA-Gln c[774868,774941] 34 (ttg)
+[00:53:34] 9 tRNA-His c[774949,775022] 34 (gtg)
+[00:53:34] 10 tRNA-Leu c[775083,775169] 36 (caa)
+[00:53:34] 11 tRNA-Cys c[775189,775259] 33 (gca)
+[00:53:34] 12 tRNA-Gln c[775304,775377] 34 (ttg)
+[00:53:34] 13 tRNA-His c[775387,775460] 34 (gtg)
+[00:53:34] 14 tRNA-Trp c[775463,775536] 33 (cca)
+[00:53:34] 15 tRNA-Tyr c[775542,775624] 36 (gta)
+[00:53:34] 16 tRNA-Phe c[775625,775700] 34 (gaa)
+[00:53:34] 17 tRNA-Asp c[775734,775809] 35 (gtc)
+[00:53:34] 18 tRNA-Val c[775817,775891] 35 (tac)
+[00:53:34] 19 tRNA-Glu c[775905,775978] 35 (ttc)
+[00:53:34] 20 tRNA-Ser c[775991,776082] 36 (gga)
+[00:53:34] 21 tRNA-Asn c[776120,776195] 36 (gtt)
+[00:53:34] 22 tRNA-Ala c[779621,779693] 34 (tgc)
+[00:53:34] 23 tRNA-Met c[908889,908962] 35 (cat)
+[00:53:34] 24 tRNA-Lys [960831,960903] 34 (ctt)
+[00:53:34] 25 tRNA-Glu c[1160966,1161039] 35 (ttc)
+[00:53:34] 26 tRNA-Ile c[1161049,1161124] 36 (gat)
+[00:53:34] 27 tRNA-Gly c[1161136,1161206] 33 (tcc)
+[00:53:34] 28 tRNA-Phe c[1161210,1161284] 35 (gaa)
+[00:53:34] 29 tRNA-Asp c[1161286,1161360] 35 (gtc)
+[00:53:34] 30 tRNA-Met c[1161377,1161452] 36 (cat)
+[00:53:34] 31 tRNA-Ser c[1161464,1161553] 37 (tga)
+[00:53:34] 32 tRNA-Glu c[1161575,1161648] 35 (ttc)
+[00:53:34] 33 tRNA-Ser c[1161668,1161757] 36 (gct)
+[00:53:34] 34 tRNA-Ile c[1161780,1161855] 36 (gat)
+[00:53:34] 35 tRNA-Gly c[1161868,1161938] 33 (tcc)
+[00:53:34] 36 tRNA-Asp c[1161940,1162015] 34 (gtc)
+[00:53:34] 37 tRNA-Met c[1162033,1162108] 36 (cat)
+[00:53:34] 38 tRNA-Ser c[1162120,1162209] 37 (tga)
+[00:53:34] 39 tRNA-Met c[1162232,1162307] 36 (cat)
+[00:53:34] 40 tRNA-Met c[1162319,1162394] 36 (cat)
+[00:53:34] 41 tRNA-Ala c[1162421,1162493] 34 (tgc)
+[00:53:34] 42 tRNA-Pro c[1162513,1162586] 35 (tgg)
+[00:53:34] 43 tRNA-Arg c[1162595,1162670] 36 (acg)
+[00:53:34] 44 tRNA-Leu c[1162680,1162765] 35 (taa)
+[00:53:34] 45 tRNA-Gly c[1162782,1162853] 33 (gcc)
+[00:53:34] 46 tRNA-Thr c[1162863,1162938] 35 (tgt)
+[00:53:34] 47 tRNA-Leu c[1162954,1163037] 36 (tag)
+[00:53:34] 48 tRNA-Lys c[1163043,1163117] 35 (ttt)
+[00:53:34] 49 tRNA-Val c[1163119,1163193] 35 (tac)
+[00:53:34] 50 tRNA-Ala c[1166623,1166695] 34 (tgc)
+[00:53:34] 51 tRNA-Arg c[1392719,1392795] 36 (acg)
+[00:53:34] 52 tRNA-Pro c[1392852,1392925] 35 (tgg)
+[00:53:34] 53 tRNA-Arg c[1392946,1393021] 36 (acg)
+[00:53:34] 54 tRNA-Leu c[1393031,1393116] 35 (taa)
+[00:53:34] 55 tRNA-Gly c[1393133,1393204] 33 (gcc)
+[00:53:34] 56 tRNA-Thr c[1393214,1393289] 35 (tgt)
+[00:53:34] 57 tRNA-Leu c[1393305,1393388] 36 (tag)
+[00:53:34] 58 tRNA-Lys c[1393394,1393468] 35 (ttt)
+[00:53:34] 59 tRNA-Val c[1393470,1393544] 35 (tac)
+[00:53:34] 60 tRNA-Arg [2110145,2110219] 35 (tct)
+[00:53:34] 61 tRNA-Arg [2164253,2164328] 36 (cct)
+[00:53:34] 62 tRNA-Met [2201607,2201680] 35 (cat)
+[00:53:34] 63 tRNA-Thr [2271947,2272019] 34 (cgt)
+[00:53:34] 64 tRNA-Asn [2360670,2360745] 36 (gtt)
+[00:53:34] 65 tRNA-Thr c[2363731,2363803] 34 (ggt)
+[00:53:34] 66 tRNA-Asn [2364016,2364091] 36 (gtt)
+[00:53:34] 67 tRNA-Gly [2417181,2417251] 33 (ccc)
+[00:53:34] 68 tRNA-Arg c[2488309,2488382] 35 (ccg)
+[00:53:34] 69 tRNA-Tyr [2518999,2519079] 35 (gta)
+[00:53:34] 70 tRNA-Gln [2519085,2519158] 34 (ttg)
+[00:53:34] 71 tRNA-Met [2763566,2763639] 35 (cat)
+[00:53:34] Found 71 tRNAs
+[00:53:34] Predicting Ribosomal RNAs
+[00:53:34] Running Barrnap with 2 threads
+[00:53:36] 1 tig00000001_pilon 776207 5S ribosomal RNA
+[00:53:36] 2 tig00000001_pilon 776416 23S ribosomal RNA
+[00:53:36] 3 tig00000001_pilon 779770 16S ribosomal RNA
+[00:53:36] 4 tig00000001_pilon 1067110 5S ribosomal RNA
+[00:53:36] 5 tig00000001_pilon 1067319 23S ribosomal RNA
+[00:53:36] 6 tig00000001_pilon 1070576 16S ribosomal RNA
+[00:53:36] 7 tig00000001_pilon 1163209 5S ribosomal RNA
+[00:53:36] 8 tig00000001_pilon 1163418 23S ribosomal RNA
+[00:53:36] 9 tig00000001_pilon 1166772 16S ribosomal RNA
+[00:53:36] 10 tig00000001_pilon 1393560 5S ribosomal RNA
+[00:53:36] 11 tig00000001_pilon 1393769 23S ribosomal RNA
+[00:53:36] 12 tig00000001_pilon 1397026 16S ribosomal RNA
+[00:53:36] 13 tig00000001_pilon 1819424 16S ribosomal RNA
+[00:53:36] 14 tig00000001_pilon 1821327 23S ribosomal RNA
+[00:53:36] 15 tig00000001_pilon 1824336 5S ribosomal RNA
+[00:53:36] 16 tig00000001_pilon 2355637 16S ribosomal RNA
+[00:53:36] 17 tig00000001_pilon 2357539 23S ribosomal RNA
+[00:53:36] 18 tig00000001_pilon 2360548 5S ribosomal RNA
+[00:53:36] Found 18 rRNAs
+[00:53:36] Skipping ncRNA search, enable with --rfam if desired.
+[00:53:36] Total of 88 tRNA + rRNA features
+[00:53:36] Searching for CRISPR repeats
+[00:53:37] Found 0 CRISPRs
+[00:53:37] Predicting coding sequences
+[00:53:37] Contigs total 3135721 bp, so using single mode
+[00:53:37] Running: prodigal -i \/home\/gretap\/Genome_analysis\/results\/09_genome_annotation\/efaecium_annotate\.fna -c -m -g 11 -p single -f sco -q
+[00:53:41] Found 3065 CDS
+[00:53:41] Connecting features back to sequences
+[00:53:41] Using custom Enterococcus database for annotation
+[00:53:41] Annotating CDS, please be patient.
+[00:53:41] Will use 2 CPUs for similarity searching.
+[00:53:42] There are still 3065 unannotated CDS left (started with 3065)
+[00:53:42] Will use blast to search against /sw/arch/eb/software/prokka/1.14.5-gompi-2024a/db/genus/Enterococcus with 2 CPUs
+[00:53:42] Running: cat \/home\/gretap\/Genome_analysis\/results\/09_genome_annotation\/efaecium_annotate\.Enterococcus\.tmp\.3310393\.faa | parallel --gnu --plain -j 2 --block 226476 --recstart '>' --pipe blastp -query - -db /sw/arch/eb/software/prokka/1.14.5-gompi-2024a/db/genus/Enterococcus -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \/home\/gretap\/Genome_analysis\/results\/09_genome_annotation\/efaecium_annotate\.Enterococcus\.tmp\.3310393\.blast 2> /dev/null
+[00:54:20] Modify product: site-specific tyrosine recombinase XerC-family => site-specific tyrosine recombinase XerC-family protein
+[00:54:21] Modify product: excisionase family DNA binding domain => excisionase family DNA binding domain protein
+[00:54:21] Modify product: Sporulation Regulator WhiA N terminal => hypothetical protein
+[00:54:21] Modify product: site-specific tyrosine recombinase XerC-family => site-specific tyrosine recombinase XerC-family protein
+[00:54:21] Modify product: site-specific tyrosine recombinase XerC-family => site-specific tyrosine recombinase XerC-family protein
+[00:54:21] Modify product: site-specific tyrosine recombinase XerC-family => site-specific tyrosine recombinase XerC-family protein
+[00:54:21] Modify product: site-specific tyrosine recombinase XerD-family => site-specific tyrosine recombinase XerD-family protein
+[00:54:21] Modify product: Class II Aldolase and Adducin N-terminal domain protein => hypothetical protein
+[00:54:21] Modify product: site-specific tyrosine recombinase XerC-family => site-specific tyrosine recombinase XerC-family protein
+[00:54:21] Modify product: radical SAM protein family => radical SAM protein family protein
+[00:54:21] Modify product: putative RNA-binding protein containing a PIN domain => putative RNA-binding protein containing a PIN domain protein
+[00:54:21] Modify product: site-specific tyrosine recombinase XerC-family => site-specific tyrosine recombinase XerC-family protein
+[00:54:21] Modify product: transcriptional regulator Spx-family => transcriptional regulator Spx-family protein
+[00:54:21] Modify product: site-specific tyrosine recombinase XerC-family => site-specific tyrosine recombinase XerC-family protein
+[00:54:22] Modify product: site-specific tyrosine recombinase XerC-family => site-specific tyrosine recombinase XerC-family protein
+[00:54:22] Modify product: site-specific tyrosine recombinase XerC-family => site-specific tyrosine recombinase XerC-family protein
+[00:54:22] Modify product: site-specific tyrosine recombinase XerC-family => site-specific tyrosine recombinase XerC-family protein
+[00:54:22] Modify product: BRO family, N-terminal domain-containing protein => hypothetical protein
+[00:54:22] Modify product: Transglutaminase-like superfamily => Transglutaminase-like superfamily protein
+[00:54:22] Modify product: Transposase IS66 family => Transposase IS66 family protein
+[00:54:22] Modify product: site-specific tyrosine recombinase XerC-family => site-specific tyrosine recombinase XerC-family protein
+[00:54:22] Modify product: Sortase family => Sortase family protein
+[00:54:22] Cleaned 22 /product names
+[00:54:22] Deleting unwanted file: /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.Enterococcus.tmp.3310393.faa
+[00:54:22] Deleting unwanted file: /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.Enterococcus.tmp.3310393.blast
+[00:54:22] There are still 763 unannotated CDS left (started with 3065)
+[00:54:22] Will use blast to search against /sw/arch/eb/software/prokka/1.14.5-gompi-2024a/db/kingdom/Bacteria/IS with 2 CPUs
+[00:54:22] Running: cat \/home\/gretap\/Genome_analysis\/results\/09_genome_annotation\/efaecium_annotate\.IS\.tmp\.3310393\.faa | parallel --gnu --plain -j 2 --block 35742 --recstart '>' --pipe blastp -query - -db /sw/arch/eb/software/prokka/1.14.5-gompi-2024a/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \/home\/gretap\/Genome_analysis\/results\/09_genome_annotation\/efaecium_annotate\.IS\.tmp\.3310393\.blast 2> /dev/null
+[00:54:45] Deleting unwanted file: /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.IS.tmp.3310393.faa
+[00:54:45] Deleting unwanted file: /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.IS.tmp.3310393.blast
+[00:54:45] There are still 756 unannotated CDS left (started with 3065)
+[00:54:45] Will use blast to search against /sw/arch/eb/software/prokka/1.14.5-gompi-2024a/db/kingdom/Bacteria/AMR with 2 CPUs
+[00:54:45] Running: cat \/home\/gretap\/Genome_analysis\/results\/09_genome_annotation\/efaecium_annotate\.AMR\.tmp\.3310393\.faa | parallel --gnu --plain -j 2 --block 35223 --recstart '>' --pipe blastp -query - -db /sw/arch/eb/software/prokka/1.14.5-gompi-2024a/db/kingdom/Bacteria/AMR -evalue 1e-300 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \/home\/gretap\/Genome_analysis\/results\/09_genome_annotation\/efaecium_annotate\.AMR\.tmp\.3310393\.blast 2> /dev/null
+[00:55:06] Deleting unwanted file: /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.AMR.tmp.3310393.faa
+[00:55:06] Deleting unwanted file: /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.AMR.tmp.3310393.blast
+[00:55:06] There are still 756 unannotated CDS left (started with 3065)
+[00:55:06] Will use blast to search against /sw/arch/eb/software/prokka/1.14.5-gompi-2024a/db/kingdom/Bacteria/sprot with 2 CPUs
+[00:55:06] Running: cat \/home\/gretap\/Genome_analysis\/results\/09_genome_annotation\/efaecium_annotate\.sprot\.tmp\.3310393\.faa | parallel --gnu --plain -j 2 --block 35223 --recstart '>' --pipe blastp -query - -db /sw/arch/eb/software/prokka/1.14.5-gompi-2024a/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \/home\/gretap\/Genome_analysis\/results\/09_genome_annotation\/efaecium_annotate\.sprot\.tmp\.3310393\.blast 2> /dev/null
+[00:55:41] Modify product: UPF0342 protein SA1663 => hypothetical protein
+[00:55:41] Modify product: Probable transcriptional regulatory protein HI_0315 => putative transcriptional regulatory protein
+[00:55:41] Modify product: UPF0701 protein YicC => hypothetical protein
+[00:55:41] Modify product: Uncharacterized protein YueI => putative protein YueI
+[00:55:41] Modify product: UPF0145 protein YbjQ => hypothetical protein
+[00:55:41] Modify product: Uncharacterized membrane protein YdfK => putative membrane protein YdfK
+[00:55:41] Modify product: Uncharacterized protein YjcQ => putative protein YjcQ
+[00:55:41] Modify product: Uncharacterized protein YqgQ => putative protein YqgQ
+[00:55:41] Modify product: UPF0340 protein YwlG => hypothetical protein
+[00:55:41] Modify product: UPF0398 protein YpsA => hypothetical protein
+[00:55:41] Modify product: UPF0291 protein SP_1473 => hypothetical protein
+[00:55:41] Modify product: UPF0358 protein EF_2458 => hypothetical protein
+[00:55:41] Modify product: UPF0223 protein BH2638 => hypothetical protein
+[00:55:41] Modify product: Uncharacterized membrane protein YuaF => putative membrane protein YuaF
+[00:55:41] Modify product: UPF0316 protein SA1727 => hypothetical protein
+[00:55:41] Modify product: UPF0346 protein YozE => hypothetical protein
+[00:55:41] Modify product: UPF0302 protein BA_1542/GBAA_1542/BAS1430 => hypothetical protein
+[00:55:41] Modify product: Uncharacterized protein PA2218 => putative protein
+[00:55:41] Modify product: Deacetylase EF_0837 => Deacetylase
+[00:55:41] Modify product: Probable transcriptional regulatory protein YeeN => putative transcriptional regulatory protein YeeN
+[00:55:41] Modify product: Uncharacterized protein YkuJ => putative protein YkuJ
+[00:55:41] Modify product: UPF0374 protein SP_1903 => hypothetical protein
+[00:55:41] Modify product: Nucleoid-associated protein SP_1102 => Nucleoid-associated protein
+[00:55:41] Modify product: Uncharacterized protein Spy1535 => putative protein
+[00:55:41] Modify product: UPF0356 protein M6_Spy1605 => hypothetical protein
+[00:55:41] Modify product: UPF0297 protein EF_1202 => hypothetical protein
+[00:55:41] Modify product: UPF0473 protein SP_0194 => hypothetical protein
+[00:55:41] Modify product: UPF0154 protein SA1178 => hypothetical protein
+[00:55:41] Modify product: Uncharacterized response regulatory protein SACOL0201 => putative response regulatory protein
+[00:55:41] Modify product: Uncharacterized HTH-type transcriptional regulator YurK => putative HTH-type transcriptional regulator YurK
+[00:55:41] Cleaned 30 /product names
+[00:55:41] Deleting unwanted file: /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.sprot.tmp.3310393.faa
+[00:55:41] Deleting unwanted file: /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.sprot.tmp.3310393.blast
+[00:55:41] There are still 688 unannotated CDS left (started with 3065)
+[00:55:41] Will use hmmer3 to search against /sw/arch/eb/software/prokka/1.14.5-gompi-2024a/db/hmm/HAMAP.hmm with 2 CPUs
+[00:55:41] Running: cat \/home\/gretap\/Genome_analysis\/results\/09_genome_annotation\/efaecium_annotate\.HAMAP\.hmm\.tmp\.3310393\.faa | parallel --gnu --plain -j 2 --block 31469 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /sw/arch/eb/software/prokka/1.14.5-gompi-2024a/db/hmm/HAMAP.hmm /dev/stdin > \/home\/gretap\/Genome_analysis\/results\/09_genome_annotation\/efaecium_annotate\.HAMAP\.hmm\.tmp\.3310393\.hmmer3 2> /dev/null
+[00:56:00] Deleting unwanted file: /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.HAMAP.hmm.tmp.3310393.faa
+[00:56:00] Deleting unwanted file: /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.HAMAP.hmm.tmp.3310393.hmmer3
+[00:56:00] Labelling remaining 677 proteins as 'hypothetical protein'
+[00:56:00] Possible /pseudo 'ISEnfa3, transposase' at tig00000001_pilon position 66112
+[00:56:00] Possible /pseudo 'ribosomal-protein-alanine acetyltransferase' at tig00000001_pilon position 89947
+[00:56:00] Possible /pseudo 'Phosphonoacetaldehyde hydrolase' at tig00000001_pilon position 99710
+[00:56:00] Possible /pseudo 'D-xylulose 5-phosphate/D-fructose 6-phosphate phosphoketolase' at tig00000001_pilon position 122124
+[00:56:00] Possible /pseudo 'ABC transporter permease' at tig00000001_pilon position 215906
+[00:56:00] Possible /pseudo 'Na(+), Li(+), K(+)/H(+) antiporter subunit B' at tig00000001_pilon position 217639
+[00:56:00] Possible /pseudo 'iron-containing alcohol dehydrogenase' at tig00000001_pilon position 284006
+[00:56:00] Possible /pseudo 'glycosyl transferase family protein' at tig00000001_pilon position 297060
+[00:56:00] Possible /pseudo 'ABC transporter permease' at tig00000001_pilon position 343379
+[00:56:00] Possible /pseudo 'von Willebrand factor type A domain-containing protein' at tig00000001_pilon position 384755
+[00:56:00] Possible /pseudo 'LPXTG-motif protein cell wall anchor domain protein' at tig00000001_pilon position 388734
+[00:56:00] Possible /pseudo 'dihydroorotate dehydrogenase, electron transfer subunit' at tig00000001_pilon position 423253
+[00:56:00] Possible /pseudo 'ABC transporter permease' at tig00000001_pilon position 496379
+[00:56:00] Possible /pseudo 'amino acid/peptide transporter' at tig00000001_pilon position 514000
+[00:56:00] Possible /pseudo 'ABC transporter permease' at tig00000001_pilon position 592056
+[00:56:00] Possible /pseudo 'ABC transporter ATP-binding protein' at tig00000001_pilon position 622695
+[00:56:00] Possible /pseudo 'acetyl-CoA acetyltransferase/hydroxymethylglutaryl-CoA reductase, degradative' at tig00000001_pilon position 713072
+[00:56:00] Possible /pseudo 'glycosyl transferase family protein' at tig00000001_pilon position 833916
+[00:56:00] Possible /pseudo 'Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase' at tig00000001_pilon position 875565
+[00:56:00] Possible /pseudo 'glycosyl transferase family protein' at tig00000001_pilon position 896454
+[00:56:00] Possible /pseudo 'glycosyl transferase family protein' at tig00000001_pilon position 897281
+[00:56:00] Possible /pseudo 'ISEfa8, transposase' at tig00000001_pilon position 907922
+[00:56:00] Possible /pseudo 'YycH protein' at tig00000001_pilon position 954987
+[00:56:00] Possible /pseudo 'ABC-2 family transporter protein' at tig00000001_pilon position 993878
+[00:56:00] Possible /pseudo 'IS1251-like transposase' at tig00000001_pilon position 1010207
+[00:56:00] Possible /pseudo 'DNA-3-methyladenine glycosylase' at tig00000001_pilon position 1040654
+[00:56:00] Possible /pseudo 'ABC transporter permease' at tig00000001_pilon position 1085383
+[00:56:00] Possible /pseudo 'ABC transporter permease' at tig00000001_pilon position 1117205
+[00:56:00] Possible /pseudo 'B-type Cna protein' at tig00000001_pilon position 1132205
+[00:56:00] Possible /pseudo 'ABC transporter ATP-binding protein' at tig00000001_pilon position 1139501
+[00:56:00] Possible /pseudo 'ABC transporter ATP-binding protein' at tig00000001_pilon position 1152951
+[00:56:00] Possible /pseudo 'major facilitator superfamily transporter' at tig00000001_pilon position 1248611
+[00:56:00] Possible /pseudo 'nitroreductase family protein' at tig00000001_pilon position 1252272
+[00:56:00] Possible /pseudo 'C-5 cytosine-specific DNA methylase' at tig00000001_pilon position 1288487
+[00:56:00] Possible /pseudo 'transposase' at tig00000001_pilon position 1320317
+[00:56:00] Possible /pseudo 'ABC transporter permease' at tig00000001_pilon position 1356032
+[00:56:00] Possible /pseudo 'peptidase, U32 family' at tig00000001_pilon position 1388475
+[00:56:00] Possible /pseudo 'translation-associated GTPase' at tig00000001_pilon position 1407208
+[00:56:00] Possible /pseudo 'ABC transporter permease' at tig00000001_pilon position 1467279
+[00:56:00] Possible /pseudo 'purine nucleoside phosphorylase' at tig00000001_pilon position 1470359
+[00:56:00] Possible /pseudo 'peptide ABC transporter ATP-binding protein' at tig00000001_pilon position 1516659
+[00:56:00] Possible /pseudo 'ABC transporter permease' at tig00000001_pilon position 1518592
+[00:56:00] Possible /pseudo 'iron ABC transporter system permease' at tig00000001_pilon position 1531862
+[00:56:00] Possible /pseudo 'ISEnfa3, transposase' at tig00000001_pilon position 1593599
+[00:56:00] Possible /pseudo 'mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase' at tig00000001_pilon position 1615559
+[00:56:00] Possible /pseudo 'calcium-translocating P-type ATPase' at tig00000001_pilon position 1621495
+[00:56:00] Possible /pseudo 'gluconate 5-dehydrogenase' at tig00000001_pilon position 1641415
+[00:56:00] Possible /pseudo 'ISEfa8, transposase' at tig00000001_pilon position 1668367
+[00:56:00] Possible /pseudo 'ISEf1, transposase' at tig00000001_pilon position 1677776
+[00:56:00] Possible /pseudo 'ATP-dependent DNA helicase IV' at tig00000001_pilon position 1736425
+[00:56:00] Possible /pseudo 'Na+/H+ antiporter' at tig00000001_pilon position 1756514
+[00:56:00] Possible /pseudo 'von Willebrand factor domain-containing protein' at tig00000001_pilon position 1880065
+[00:56:00] Possible /pseudo 'LPXTG-motif protein cell wall anchor domain protein' at tig00000001_pilon position 1885408
+[00:56:00] Possible /pseudo 'Helix-turn-helix domain protein' at tig00000001_pilon position 1935883
+[00:56:00] Possible /pseudo 'helix-turn-helix domain-containing protein' at tig00000001_pilon position 1938793
+[00:56:00] Possible /pseudo 'helix-turn-helix domain-containing protein' at tig00000001_pilon position 2057585
+[00:56:00] Possible /pseudo 'N-acetylmuramoyl-L-alanine amidase' at tig00000001_pilon position 2200935
+[00:56:00] Possible /pseudo 'ISEfa8, transposase' at tig00000001_pilon position 2202683
+[00:56:00] Possible /pseudo 'ABC transporter ATP-binding protein/permease' at tig00000001_pilon position 2240644
+[00:56:00] Possible /pseudo 'ABC transporter ATP-binding protein/permease' at tig00000001_pilon position 2240898
+[00:56:00] Possible /pseudo 'PTS system, mannitol-specific IICB component' at tig00000001_pilon position 2246814
+[00:56:00] Possible /pseudo 'acetyltransferase' at tig00000001_pilon position 2264098
+[00:56:00] Possible /pseudo 'ABC transporter ATP-binding protein' at tig00000001_pilon position 2294050
+[00:56:00] Possible /pseudo 'ABC transporter ATP-binding protein/permease' at tig00000001_pilon position 2310325
+[00:56:00] Possible /pseudo 'SIS domain-containing protein' at tig00000001_pilon position 2319676
+[00:56:00] Possible /pseudo 'ISEfa8, transposase' at tig00000001_pilon position 2361981
+[00:56:00] Possible /pseudo 'ABC transporter ATP-binding protein/permease' at tig00000001_pilon position 2387792
+[00:56:00] Possible /pseudo 'ABC transporter permease' at tig00000001_pilon position 2401610
+[00:56:00] Possible /pseudo 'ISEnfa3, transposase' at tig00000001_pilon position 2496700
+[00:56:00] Possible /pseudo 'phosphate ABC transporter ATP-binding protein' at tig00000001_pilon position 2535915
+[00:56:00] Possible /pseudo 'YibE/F-like protein' at tig00000001_pilon position 2538629
+[00:56:00] Possible /pseudo 'copper-translocating P-type ATPase' at tig00000001_pilon position 2645643
+[00:56:00] Possible /pseudo 'ISEnfa3, transposase' at tig00000001_pilon position 2656279
+[00:56:00] Possible /pseudo 'ISEnfa3, transposase' at tig00000001_pilon position 2658806
+[00:56:00] Possible /pseudo 'ISEfa8, transposase' at tig00000001_pilon position 2720183
+[00:56:00] Possible /pseudo 'LysR family transcriptional regulator' at tig00000001_pilon position 2751739
+[00:56:00] Possible /pseudo 'ISEf1, transposase' at tig00000001_pilon position 2762164
+[00:56:00] Possible /pseudo 'ISL3 family transposase' at tig00000002_pilon position 863
+[00:56:00] Possible /pseudo 'ISEfa8, transposase' at tig00000002_pilon position 110818
+[00:56:00] Possible /pseudo 'ISEnfa3, transposase' at tig00000002_pilon position 111899
+[00:56:00] Possible /pseudo 'IS256 family transposase' at tig00000002_pilon position 114011
+[00:56:00] Possible /pseudo 'ABC transporter permease' at tig00000002_pilon position 136034
+[00:56:00] Possible /pseudo 'ABC transporter, permease protein' at tig00000002_pilon position 143226
+[00:56:00] Possible /pseudo 'ISEfa8, transposase' at tig00000002_pilon position 159121
+[00:56:00] Possible /pseudo 'ISEfa8, transposase' at tig00000002_pilon position 161737
+[00:56:00] Possible /pseudo 'peptidase, M23 family' at tig00000004_pilon position 9244
+[00:56:00] Possible /pseudo 'ATPase' at tig00000004_pilon position 11104
+[00:56:00] Possible /pseudo 'replication protein' at tig00000005_pilon position 826
+[00:56:00] Possible /pseudo 'peptidase, M23 family' at tig00000006_pilon position 647
+[00:56:00] Possible /pseudo 'peptidase, M23 family' at tig00000006_pilon position 1215
+[00:56:00] Possible /pseudo 'HNH endonuclease domain protein' at tig00000006_pilon position 8621
+[00:56:00] Possible /pseudo 'ABC transporter ATP-binding protein' at tig00000009_pilon position 713
+[00:56:00] Found 540 unique /gene codes.
+[00:56:00] Fixed 2 duplicate /gene - gatA_1 gatA_2
+[00:56:00] Fixed 5 duplicate /gene - rep_1 rep_2 rep_3 rep_4 rep_5
+[00:56:00] Fixed 2 duplicate /gene - arnC_1 arnC_2
+[00:56:00] Fixed 2 duplicate /gene - traE1_1 traE1_2
+[00:56:00] Fixed 2 duplicate /gene - yoeB_1 yoeB_2
+[00:56:00] Fixed 2 duplicate /gene - repB_1 repB_2
+[00:56:00] Fixed 2 duplicate /gene - ssb_1 ssb_2
+[00:56:00] Fixed 3 duplicate /gene - repA_1 repA_2 repA_3
+[00:56:00] Fixed 2 duplicate /gene - pglH_1 pglH_2
+[00:56:00] Fixed 11 duplicate /gene - xerC_1 xerC_2 xerC_3 xerC_4 xerC_5 xerC_6 xerC_7 xerC_8 xerC_9 xerC_10 xerC_11
+[00:56:00] Fixed 2 duplicate /gene - rmlB_1 rmlB_2
+[00:56:00] Fixed 2 duplicate /gene - vanHB_1 vanHB_2
+[00:56:00] Fixed 2 duplicate /gene - tuf_1 tuf_2
+[00:56:00] Fixed 2 duplicate /gene - clpX_1 clpX_2
+[00:56:00] Fixed 2 duplicate /gene - dfrD_1 dfrD_2
+[00:56:00] Fixed 2 duplicate /gene - vanB_1 vanB_2
+[00:56:00] Fixed 2 duplicate /gene - scrR_1 scrR_2
+[00:56:00] Fixed 4 duplicate /gene - prgN_1 prgN_2 prgN_3 prgN_4
+[00:56:00] Fixed 3 duplicate /gene - bin3_1 bin3_2 bin3_3
+[00:56:00] Fixed 2 duplicate /gene - artM_1 artM_2
+[00:56:00] Fixed 2 duplicate /gene - uxuA_1 uxuA_2
+[00:56:00] Fixed 2 duplicate /gene - cbiO_1 cbiO_2
+[00:56:00] Fixed 2 duplicate /gene - umpB_1 umpB_2
+[00:56:00] Fixed 2 duplicate /gene - ligA_1 ligA_2
+[00:56:00] Fixed 2 duplicate /gene - prsA_1 prsA_2
+[00:56:00] Fixed 2 duplicate /gene - vanR_1 vanR_2
+[00:56:00] Fixed 2 duplicate /gene - yopX_1 yopX_2
+[00:56:00] Fixed 27 colliding /gene names.
+[00:56:00] Adding /locus_tag identifiers
+[00:56:00] Assigned 3154 locus_tags to CDS and RNA features.
+[00:56:00] Writing outputs to /home/gretap/Genome_analysis/results/09_genome_annotation/
+[00:56:00] Generating annotation statistics file
+[00:56:00] Generating Genbank and Sequin files
+[00:56:00] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.5 from https://github.com/tseemann/prokka' -Z \/home\/gretap\/Genome_analysis\/results\/09_genome_annotation\/efaecium_annotate\.err -i \/home\/gretap\/Genome_analysis\/results\/09_genome_annotation\/efaecium_annotate\.fsa 2> /dev/null
+[00:56:04] Deleting unwanted file: /home/gretap/Genome_analysis/results/09_genome_annotation/errorsummary.val
+[00:56:04] Deleting unwanted file: /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.dr
+[00:56:04] Deleting unwanted file: /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.fixedproducts
+[00:56:04] Deleting unwanted file: /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.ecn
+[00:56:04] Deleting unwanted file: /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.val
+[00:56:04] Repairing broken .GBK output that tbl2asn produces...
+[00:56:04] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < \/home\/gretap\/Genome_analysis\/results\/09_genome_annotation\/efaecium_annotate\.gbf > \/home\/gretap\/Genome_analysis\/results\/09_genome_annotation\/efaecium_annotate\.gbk
+[00:56:04] Deleting unwanted file: /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.gbf
+[00:56:04] Output files:
+[00:56:04] /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.gff
+[00:56:04] /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.txt
+[00:56:04] /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.ffn
+[00:56:04] /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.sqn
+[00:56:04] /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.err
+[00:56:04] /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.gbk
+[00:56:04] /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.fsa
+[00:56:04] /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.log
+[00:56:04] /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.tsv
+[00:56:04] /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.fna
+[00:56:04] /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.faa
+[00:56:04] /home/gretap/Genome_analysis/results/09_genome_annotation/efaecium_annotate.tbl
+[00:56:04] Annotation finished successfully.
+[00:56:04] Walltime used: 2.72 minutes
+[00:56:04] If you use this result please cite the Prokka paper:
+[00:56:04] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[00:56:04] Type 'prokka --citation' for more details.
+[00:56:04] Share and enjoy!

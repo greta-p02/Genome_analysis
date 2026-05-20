@@ -1,0 +1,152 @@
+To execute Pilon run: java -Xmx8G -jar $EBROOTPILON/pilon.jar
+Adjust the memory value according to the size of your input files
+Pilon version 1.24 Thu Jan 28 13:00:45 2021 -0500
+--threads argument no longer supported; ignoring!
+Genome: /home/gretap/Genome_analysis/data/genome_assemblies/efaecium_pacbio_assembly.contigs.fasta
+Fixing snps, indels, gaps, local
+Input genome size: 3135564
+Scanning BAMs
+/home/gretap/Genome_analysis/results/05_mapping_illumina_to_canu/canu_sorted.bam: 3334353 reads, 0 filtered, 3215669 mapped, 3163059 proper, 38992 stray, FR 100% 466+/-15, max 509
+Processing tig00000001:1-2763566
+frags /home/gretap/Genome_analysis/results/05_mapping_illumina_to_canu/canu_sorted.bam: coverage 66
+Total Reads: 2646314, Coverage: 66, minDepth: 7
+Confirmed 2763320 of 2763566 bases (99.99%)
+Corrected 0 snps; 0 ambiguous bases; corrected 98 small insertions totaling 100 bases, 10 small deletions totaling 12 bases
+# Attempting to fix local continuity breaks
+# fix break: tig00000001:908538-908847 0 -0 +0 NoSolution
+# fix break: tig00000001:1010151-1010223 0 -0 +0 NoSolution
+# fix break: tig00000001:2200811-2200869 0 -0 +0 NoSolution
+# fix break: tig00000001:2201622-2201948 0 -0 +0 NoSolution
+# fix break: tig00000001:2356168-2356227 0 -0 +0 NoSolution
+# fix break: tig00000001:2762108-2762149 0 -0 +0 NoSolution
+tig00000001:1-2763566 log:
+Finished processing tig00000001:1-2763566
+Processing tig00000002:1-216000
+frags /home/gretap/Genome_analysis/results/05_mapping_illumina_to_canu/canu_sorted.bam: coverage 75
+Total Reads: 239942, Coverage: 75, minDepth: 8
+Confirmed 215904 of 216000 bases (99.96%)
+Corrected 3 snps; 0 ambiguous bases; corrected 30 small insertions totaling 31 bases, 3 small deletions totaling 3 bases
+# Attempting to fix local continuity breaks
+tig00000002:1-216000 log:
+Finished processing tig00000002:1-216000
+Processing tig00000003:1-28873
+frags /home/gretap/Genome_analysis/results/05_mapping_illumina_to_canu/canu_sorted.bam: coverage 133
+Total Reads: 56677, Coverage: 133, minDepth: 13
+Confirmed 28150 of 28873 bases (97.50%)
+Corrected 11 snps; 0 ambiguous bases; corrected 16 small insertions totaling 17 bases, 3 small deletions totaling 3 bases
+# Attempting to fix local continuity breaks
+# fix break: tig00000003:27317-27544 0 -0 +0 NoSolution
+# fix break: tig00000003:27796-27985 0 -0 +0 NoSolution
+# fix break: tig00000003:28308-28373 0 -0 +0 NoSolution
+tig00000003:1-28873 log:
+Finished processing tig00000003:1-28873
+Processing tig00000004:1-14734
+frags /home/gretap/Genome_analysis/results/05_mapping_illumina_to_canu/canu_sorted.bam: coverage 88
+Total Reads: 18726, Coverage: 88, minDepth: 9
+Confirmed 12093 of 14734 bases (82.08%)
+Corrected 19 snps; 0 ambiguous bases; corrected 9 small insertions totaling 9 bases, 6 small deletions totaling 7 bases
+# Attempting to fix local continuity breaks
+fix break: tig00000004:1232-1406 845 -562 +563 BreakFix
+# fix break: tig00000004:9221-9297 0 -0 +0 NoSolution
+# fix break: tig00000004:9740-9784 0 -0 +0 NoSolution
+# fix break: tig00000004:10127-11165 0 -0 +0 NoSolution
+# fix break: tig00000004:11416-11943 0 -0 +0 NoSolution
+# fix break: tig00000004:12255-12311 0 -0 +0 NoSolution
+# fix break: tig00000004:12638-12673 0 -0 +0 NoSolution
+# fix break: tig00000004:12910-13901 0 -0 +0 NoSolution
+# fix break: tig00000004:14145-14240 0 -0 +0 NoSolution
+tig00000004:1-14734 log:
+Finished processing tig00000004:1-14734
+Processing tig00000005:1-40013
+frags /home/gretap/Genome_analysis/results/05_mapping_illumina_to_canu/canu_sorted.bam: coverage 204
+Total Reads: 131018, Coverage: 204, minDepth: 20
+Confirmed 39362 of 40013 bases (98.37%)
+Corrected 0 snps; 0 ambiguous bases; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+# Attempting to fix local continuity breaks
+# fix break: tig00000005:654-785 0 -0 +0 NoSolution
+# fix break: tig00000005:25867-27171 0 -0 +0 NoSolution
+# fix break: tig00000005:28297-29200 0 -0 +0 NoSolution
+# fix break: tig00000005:36015-36033 0 -0 +0 NoSolution
+# fix break: tig00000005:36793-36811 0 -0 +0 NoSolution
+tig00000005:1-40013 log:
+Finished processing tig00000005:1-40013
+Processing tig00000006:1-15015
+frags /home/gretap/Genome_analysis/results/05_mapping_illumina_to_canu/canu_sorted.bam: coverage 110
+Total Reads: 23939, Coverage: 110, minDepth: 11
+Confirmed 14366 of 15015 bases (95.68%)
+Corrected 3 snps; 0 ambiguous bases; corrected 10 small insertions totaling 10 bases, 5 small deletions totaling 5 bases
+# Attempting to fix local continuity breaks
+# fix break: tig00000006:1203-1285 0 -0 +0 NoSolution
+# fix break: tig00000006:8646-8692 0 -0 +0 NoSolution
+fix break: tig00000006:13658 13597 -63 +61 BreakFix
+fix break: tig00000006:14611-14715 14249 -598 +600 BreakFix
+tig00000006:1-15015 log:
+Finished processing tig00000006:1-15015
+Processing tig00000007:1-16044
+frags /home/gretap/Genome_analysis/results/05_mapping_illumina_to_canu/canu_sorted.bam: coverage 69
+Total Reads: 16067, Coverage: 69, minDepth: 7
+Confirmed 15251 of 16044 bases (95.06%)
+Corrected 1 snps; 0 ambiguous bases; corrected 9 small insertions totaling 9 bases, 4 small deletions totaling 4 bases
+# Attempting to fix local continuity breaks
+# fix break: tig00000007:4245-4311 0 -0 +0 NoSolution
+# fix break: tig00000007:11392-11404 0 -0 +0 NoSolution
+# fix break: tig00000007:11674-11944 0 -0 +0 NoSolution
+# fix break: tig00000007:12151-12330 0 -0 +0 NoSolution
+# fix break: tig00000007:14034-14068 0 -0 +0 NoSolution
+tig00000007:1-16044 log:
+Finished processing tig00000007:1-16044
+Processing tig00000008:1-24836
+frags /home/gretap/Genome_analysis/results/05_mapping_illumina_to_canu/canu_sorted.bam: coverage 140
+Total Reads: 51858, Coverage: 140, minDepth: 14
+Confirmed 24808 of 24836 bases (99.89%)
+Corrected 0 snps; 0 ambiguous bases; corrected 21 small insertions totaling 23 bases, 6 small deletions totaling 7 bases
+# Attempting to fix local continuity breaks
+tig00000008:1-24836 log:
+Finished processing tig00000008:1-24836
+Processing tig00000009:1-16483
+frags /home/gretap/Genome_analysis/results/05_mapping_illumina_to_canu/canu_sorted.bam: coverage 169
+Total Reads: 43950, Coverage: 169, minDepth: 17
+Confirmed 15352 of 16483 bases (93.14%)
+Corrected 0 snps; 0 ambiguous bases; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+# Attempting to fix local continuity breaks
+# fix break: tig00000009:697-807 0 -0 +0 NoSolution
+# fix break: tig00000009:1320-1374 0 -0 +0 NoSolution
+# fix break: tig00000009:3728-4095 0 -0 +0 NoSolution TandemRepeat 22
+# fix break: tig00000009:12943-13421 0 -0 +0 NoSolution TandemRepeat 22
+# fix break: tig00000009:15134-15193 0 -0 +0 NoSolution
+tig00000009:1-16483 log:
+Finished processing tig00000009:1-16483
+Writing tig00000001:1-2763566 changes to /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canu.changes
+Writing updated tig00000001_pilon to /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canu.fasta
+Writing tig00000002:1-216000 changes to /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canu.changes
+Writing updated tig00000002_pilon to /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canu.fasta
+Writing tig00000003:1-28873 changes to /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canu.changes
+Writing updated tig00000003_pilon to /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canu.fasta
+Writing tig00000004:1-14734 changes to /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canu.changes
+Writing updated tig00000004_pilon to /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canu.fasta
+Writing tig00000005:1-40013 changes to /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canu.changes
+Writing updated tig00000005_pilon to /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canu.fasta
+Writing tig00000006:1-15015 changes to /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canu.changes
+Writing updated tig00000006_pilon to /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canu.fasta
+Writing tig00000007:1-16044 changes to /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canu.changes
+Writing updated tig00000007_pilon to /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canu.fasta
+Writing tig00000008:1-24836 changes to /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canu.changes
+Writing updated tig00000008_pilon to /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canu.fasta
+Writing tig00000009:1-16483 changes to /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canu.changes
+Writing updated tig00000009_pilon to /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canu.fasta
+Mean frags coverage: 71
+Mean total coverage: 71
+Creating Pilon track in file /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canuPilon.bed
+Creating Changes track in file /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canuChanges.wig
+Creating Unconfirmed track in file /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canuUnconfirmed.wig
+Creating Copy Number track in file /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canuCopyNumber.wig
+Creating Coverage track in file /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canuCoverage.wig
+Creating Bad Coverage track in file /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canuBadCoverage.wig
+Creating Pct Bad track in file /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canuPctBad.wig
+Creating Delta Coverage track in file /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canuDeltaCoverage.wig
+Creating Dip Coverage track in file /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canuDipCoverage.wig
+Creating Physical Coverage track in file /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canuPhysicalCoverage.wig
+Creating Clipped Alignments track in file /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canuClippedAlignments.wig
+Creating Weighted Qual track in file /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canuWeightedQual.wig
+Creating Weighted MQ track in file /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canuWeightedMq.wig
+Creating GC track in file /home/gretap/Genome_analysis/results/06_polishing_pacbio/first_run/1_pilon_canuGC.wig

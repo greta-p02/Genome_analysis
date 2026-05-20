@@ -1,0 +1,3155 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+EFAEC_00001	CDS	303				hypothetical protein
+EFAEC_00002	tmRNA	364	ssrA			transfer-messenger RNA, SsrA
+EFAEC_00003	CDS	774		3.-.-.-		HAD superfamily hydrolase
+EFAEC_00004	CDS	351				integral membrane protein
+EFAEC_00005	CDS	717				response regulator receiver domain-containing protein
+EFAEC_00006	CDS	1449		2.7.13.3		sensor histidine kinase
+EFAEC_00007	CDS	510				hypothetical protein
+EFAEC_00008	CDS	726				hypothetical protein
+EFAEC_00009	CDS	2121		3.1.6.-		sulfatase
+EFAEC_00010	CDS	1179		2.1.1.198		SAM-dependent methyltransferase
+EFAEC_00011	CDS	759		4.2.1.10		3-dehydroquinate dehydratase
+EFAEC_00012	CDS	486				YbaK/ebsC protein
+EFAEC_00013	CDS	1254				HI0933-like protein
+EFAEC_00014	CDS	1350		1.4.1.4		NADP-specific glutamate dehydrogenase
+EFAEC_00015	CDS	1347	pgi	5.3.1.9		glucose-6-phosphate isomerase
+EFAEC_00016	CDS	1296		2.7.7.-		ISL3 family transposase
+EFAEC_00017	CDS	387				hypothetical protein
+EFAEC_00018	CDS	1446		2.7.7.-		ISEfa7, transposase
+EFAEC_00019	CDS	783		2.7.7.-		ISEfm1, transposase
+EFAEC_00020	CDS	960				Integrase core domain protein
+EFAEC_00021	CDS	150				hypothetical protein
+EFAEC_00022	CDS	213				hypothetical protein
+EFAEC_00023	CDS	111				hypothetical protein
+EFAEC_00024	CDS	1800		3.1.4.46		glycerophosphodiester phosphodiesterase family protein
+EFAEC_00025	CDS	597				hypothetical protein
+EFAEC_00026	CDS	954				Integrase
+EFAEC_00027	CDS	345		4.1.1.44		carboxymuconolactone decarboxylase family protein
+EFAEC_00028	CDS	420				hypothetical protein
+EFAEC_00029	CDS	351				hypothetical protein
+EFAEC_00030	CDS	1332				hypothetical protein
+EFAEC_00031	CDS	567				TetR family transcriptional regulator
+EFAEC_00032	tRNA	88				tRNA-Ser(cga)
+EFAEC_00033	CDS	1206	xerC_1			site-specific tyrosine recombinase XerC-family protein
+EFAEC_00034	CDS	441				hypothetical protein
+EFAEC_00035	CDS	654				hypothetical protein
+EFAEC_00036	CDS	423				hypothetical protein
+EFAEC_00037	CDS	375				hypothetical protein
+EFAEC_00038	CDS	183				hypothetical protein
+EFAEC_00039	CDS	321				hypothetical protein
+EFAEC_00040	CDS	171				hypothetical protein
+EFAEC_00041	CDS	153				hypothetical protein
+EFAEC_00042	CDS	483				hypothetical protein
+EFAEC_00043	CDS	699				phage anti-repressor protein
+EFAEC_00044	CDS	342				hypothetical protein
+EFAEC_00045	CDS	672				phage protein
+EFAEC_00046	CDS	687				hypothetical protein
+EFAEC_00047	CDS	750				hypothetical protein
+EFAEC_00048	CDS	270				hypothetical protein
+EFAEC_00049	CDS	165				hypothetical protein
+EFAEC_00050	CDS	306				hypothetical protein
+EFAEC_00051	CDS	291				hypothetical protein
+EFAEC_00052	CDS	357				prophage pi3 protein 33
+EFAEC_00053	CDS	246				hypothetical protein
+EFAEC_00054	CDS	420	yopX_1			putative phage protein YopX
+EFAEC_00055	CDS	567				hypothetical protein
+EFAEC_00056	CDS	135				hypothetical protein
+EFAEC_00057	CDS	690				hypothetical protein
+EFAEC_00058	CDS	477				phage protein
+EFAEC_00059	CDS	297	yjcQ			putative protein YjcQ
+EFAEC_00060	CDS	387				hypothetical protein
+EFAEC_00061	CDS	387				hypothetical protein
+EFAEC_00062	CDS	381				phage protein
+EFAEC_00063	CDS	453				Phage terminase, small subunit
+EFAEC_00064	CDS	1728				Phage terminase protein, large subunit
+EFAEC_00065	CDS	1230				phage portal protein
+EFAEC_00066	CDS	570				phage major capsid protein, HK97 family
+EFAEC_00067	CDS	1362				major capsid protein
+EFAEC_00068	CDS	279				hypothetical protein
+EFAEC_00069	CDS	327				phage protein
+EFAEC_00070	CDS	339				hypothetical protein
+EFAEC_00071	CDS	366				hypothetical protein
+EFAEC_00072	CDS	627				phi13 family phage major tail protein
+EFAEC_00073	CDS	465				phage protein
+EFAEC_00074	CDS	2310				phage tail tape measure protein TP901
+EFAEC_00075	CDS	720				hypothetical protein
+EFAEC_00076	CDS	2706				phage minor structural protein
+EFAEC_00077	CDS	1719				hypothetical protein
+EFAEC_00078	CDS	783				hypothetical protein
+EFAEC_00079	CDS	2067				hypothetical protein
+EFAEC_00080	CDS	447				hypothetical protein
+EFAEC_00081	CDS	138				hypothetical protein
+EFAEC_00082	CDS	294				hypothetical protein
+EFAEC_00083	CDS	198				holin
+EFAEC_00084	CDS	1020		3.5.1.28		N-acetylmuramoyl-L-alanine amidase
+EFAEC_00085	CDS	807		2.7.7.-		ISEnfa3, transposase
+EFAEC_00086	CDS	537		2.7.7.-		ISEnfa3, transposase
+EFAEC_00087	CDS	582		3.5.1.24		choloylglycine hydrolase family protein
+EFAEC_00088	CDS	1179		2.7.7.-		ISEf1, transposase
+EFAEC_00089	CDS	342		3.5.1.24		choloylglycine hydrolase family protein
+EFAEC_00090	CDS	1446		2.7.7.-		ISEfa7, transposase
+EFAEC_00091	CDS	1896		6.3.5.4		asparagine synthetase B
+EFAEC_00092	CDS	447				hypothetical protein
+EFAEC_00093	CDS	150				50S ribosomal protein L33
+EFAEC_00094	CDS	519	dfrD_1	1.5.1.3		Dihydrofolate reductase
+EFAEC_00095	CDS	957				periplasmic binding protein
+EFAEC_00096	CDS	807	fhuC			ferrichrome transport ATP-binding protein FhuC
+EFAEC_00097	CDS	990	fhuB			ferrichrome transport system permease FhuB
+EFAEC_00098	CDS	1005	fhuG			ferrichrome transport system permease FhuG
+EFAEC_00099	CDS	543		6.3.3.2		5-formyltetrahydrofolate cyclo-ligase
+EFAEC_00100	CDS	699		3.4.21.105		peptidase, S54 family protein
+EFAEC_00101	CDS	213	yqgQ		COG4483	putative protein YqgQ
+EFAEC_00102	CDS	963		2.7.1.2		glucokinase
+EFAEC_00103	CDS	396				rhodanese family protein
+EFAEC_00104	CDS	366				hypothetical protein
+EFAEC_00105	CDS	1812		1.-.-.-		FAD(NAD)-dependent oxidoreductase
+EFAEC_00106	CDS	168				hypothetical protein
+EFAEC_00107	CDS	990		5.1.3.2		UDP-glucose 4-epimerase
+EFAEC_00108	CDS	1485		2.7.7.12		galactose-1-phosphate uridylyltransferase
+EFAEC_00109	CDS	981				LacI family transcriptional regulator
+EFAEC_00110	CDS	825	yeaZ			universal bacterial protein YeaZ
+EFAEC_00111	CDS	543		2.3.1.128		ribosomal-protein-alanine acetyltransferase
+EFAEC_00112	CDS	465		2.3.1.128		ribosomal-protein-alanine acetyltransferase
+EFAEC_00113	CDS	1017	gcp	3.4.24.57		O-sialoglycoprotein endopeptidase
+EFAEC_00114	CDS	702				cyclic nucleotide-binding domain-containing protein
+EFAEC_00115	CDS	1230	arcA	3.5.3.6		arginine deiminase
+EFAEC_00116	CDS	1020	arcB	2.1.3.3		ornithine carbamoyltransferase
+EFAEC_00117	CDS	948	arcC	2.7.2.2		Carbamate kinase
+EFAEC_00118	CDS	1692	argS	6.1.1.19		arginyl-tRNA synthetase
+EFAEC_00119	CDS	546		3.11.1.1		Phosphonoacetaldehyde hydrolase
+EFAEC_00120	CDS	129		3.11.1.1		Phosphonoacetaldehyde hydrolase
+EFAEC_00121	CDS	1092		2.6.1.37		2-aminoethylphosphonate--pyruvate transaminase
+EFAEC_00122	CDS	480				arginine repressor protein
+EFAEC_00123	CDS	783	rpsB			30S ribosomal protein S2
+EFAEC_00124	CDS	882	tsf			translation elongation factor Ts
+EFAEC_00125	CDS	723	pyrH	2.7.4.22		uridylate kinase
+EFAEC_00126	CDS	558	frr			ribosome recycling factor
+EFAEC_00127	CDS	813	uppS	2.5.1.31		undecaprenyl diphosphate synthase
+EFAEC_00128	CDS	801		2.7.7.41		phosphatidate cytidylyltransferase
+EFAEC_00129	CDS	1269	eep	3.4.24.-		membrane-associated zinc metalloprotease
+EFAEC_00130	CDS	1710	proS	6.1.1.15		prolyl-tRNA synthetase
+EFAEC_00131	CDS	4359		2.7.7.7		DNA polymerase III PolC-type
+EFAEC_00132	CDS	474	rimP			ribosome maturation protein RimP
+EFAEC_00133	CDS	1176	nusA			transcription termination factor NusA
+EFAEC_00134	CDS	294	ylxR			cytosolic protein YlxR
+EFAEC_00135	CDS	312				50S ribosomal protein L7Ae
+EFAEC_00136	CDS	2307	infB			translation initiation factor IF-2
+EFAEC_00137	CDS	348	rbfA			ribosome-binding factor A
+EFAEC_00138	CDS	468		4.1.2.-		phosphoketolase
+EFAEC_00139	CDS	990		4.1.2.-		D-xylulose 5-phosphate/D-fructose 6-phosphate phosphoketolase
+EFAEC_00140	CDS	885		4.1.2.-		D-xylulose 5-phosphate/D-fructose 6-phosphate phosphoketolase
+EFAEC_00141	CDS	924		5.4.99.-		tRNA pseudouridine synthase B
+EFAEC_00142	CDS	942	ribF	2.7.1.26		riboflavin biosynthesis protein RibF
+EFAEC_00143	CDS	786	gdh	1.1.1.47		glucose 1-dehydrogenase, Gdh
+EFAEC_00144	CDS	852				sugar transport protein
+EFAEC_00145	CDS	453				excisionase family DNA binding domain protein
+EFAEC_00146	CDS	369	fra		COG5646	Intracellular iron chaperone frataxin
+EFAEC_00147	CDS	483				YbaK/prolyl-tRNA synthetase-associated domain protein
+EFAEC_00148	CDS	1011		3.4.16.-		L,D-carboxypeptidase A
+EFAEC_00149	CDS	714				hypothetical protein
+EFAEC_00150	CDS	591				DJ-1/PfpI family protein
+EFAEC_00151	CDS	228				hypothetical protein
+EFAEC_00152	CDS	1167		1.3.99.-		putative oxygen-independent coproporphyrinogen III oxidase
+EFAEC_00153	CDS	1044	hrcA			heat-inducible transcription repressor HrcA
+EFAEC_00154	CDS	564	grpE			co-chaperone GrpE
+EFAEC_00155	CDS	1830	dnaK			chaperone protein DnaK
+EFAEC_00156	CDS	1167	dnaJ			chaperone protein DnaJ
+EFAEC_00157	CDS	630				Sugar diacid utilization regulator
+EFAEC_00158	CDS	738	artM_1	3.6.3.-		amino acid ABC transporter ATP-binding protein
+EFAEC_00159	CDS	1503				amino acid ABC transporter amino acid-binding/permease
+EFAEC_00160	CDS	1995	uvrB	3.1.25.-		excinuclease ABC subunit B
+EFAEC_00161	CDS	2817	uvrA	3.1.25.-		excinuclease ABC subunit A
+EFAEC_00162	CDS	1266		6.3.4.16		carbamoyl phosphate synthase-like protein
+EFAEC_00163	CDS	732		5.1.1.13		Aspartate racemase
+EFAEC_00164	CDS	885				ATP-binding protein
+EFAEC_00165	CDS	999			COG0391	Putative gluconeogenesis factor
+EFAEC_00166	CDS	936				hypothetical protein
+EFAEC_00167	CDS	201				hypothetical protein
+EFAEC_00168	CDS	627				hypothetical protein
+EFAEC_00169	CDS	582				hypothetical protein
+EFAEC_00170	CDS	954				Integrase
+EFAEC_00171	CDS	252				hypothetical protein
+EFAEC_00172	CDS	258				hypothetical protein
+EFAEC_00173	CDS	588				hypothetical protein
+EFAEC_00174	CDS	558				hypothetical protein
+EFAEC_00175	CDS	522		5.3.4.1		bifunctional disulfide isomerase/thiol-disulfide oxidase
+EFAEC_00176	CDS	3693		1.2.7.-		pyruvate flavodoxin oxidoreductase subunit alpha
+EFAEC_00177	CDS	888	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+EFAEC_00178	CDS	1170				YbbR-like protein
+EFAEC_00179	CDS	1356	glmM	5.4.2.10		phosphoglucosamine mutase
+EFAEC_00180	CDS	1806		2.6.1.16		glucosamine--fructose-6-phosphate aminotransferase
+EFAEC_00181	CDS	291				hypothetical protein
+EFAEC_00182	CDS	1026	sppA	3.4.21.-		signal peptide peptidase SppA
+EFAEC_00183	CDS	660				RDD family protein
+EFAEC_00184	CDS	933				hypothetical protein
+EFAEC_00185	CDS	1290	tig			trigger factor
+EFAEC_00186	CDS	1251	clpX_1			ATP-dependent protease ATP-binding protein ClpX
+EFAEC_00187	CDS	588	ysxC			ribosome biogenesis GTP-binding protein YsxC
+EFAEC_00188	CDS	156				hypothetical protein
+EFAEC_00189	CDS	1329				hypothetical protein
+EFAEC_00190	CDS	210				hypothetical protein
+EFAEC_00191	CDS	753				DeoR-like helix-turn-helix protein
+EFAEC_00192	CDS	915		2.7.1.56		hexose kinase, 1-phosphofructokinase family protein
+EFAEC_00193	CDS	1932		2.7.1.69		PTS system fructose-specific transporter subunit IIABC
+EFAEC_00194	CDS	1560				voltage-gated cchloride transporter, chloride channel family protein
+EFAEC_00195	CDS	2235		3.6.1.-		ATP-dependent DNA helicase
+EFAEC_00196	CDS	2037	ligA_1	6.5.1.2		NAD-dependent DNA ligase
+EFAEC_00197	CDS	306	gatC	6.3.5.-		aspartyl/glutamyl-tRNA amidotransferase subunit C
+EFAEC_00198	CDS	1473	gatA_1	6.3.5.-		glutamyl-tRNA(Gln) amidotransferase subunit A
+EFAEC_00199	CDS	1431	gatB	6.3.5.-		aspartyl/glutamyl-tRNA amidotransferase subunit B
+EFAEC_00200	CDS	1056		2.7.1.107		Diacylglycerol kinase
+EFAEC_00201	CDS	1374		2.1.1.190		23S rRNA (uracil-5-)-methyltransferase
+EFAEC_00202	CDS	129				hypothetical protein
+EFAEC_00203	CDS	1014		3.1.-.-		esterase
+EFAEC_00204	CDS	1035				LacI family transcriptional regulator
+EFAEC_00205	CDS	2226		3.2.1.22		alpha-galactosidase
+EFAEC_00206	CDS	1884		3.2.1.23		Beta-galactosidase large subunit
+EFAEC_00207	CDS	975		3.2.1.23		Beta-galactosidase small subunit
+EFAEC_00208	CDS	1023		2.5.1.54		phospho-2-dehydro-3-deoxyheptonate aldolase
+EFAEC_00209	CDS	1065		4.2.3.4		3-dehydroquinate synthase
+EFAEC_00210	CDS	1167	aroC	4.2.3.5		chorismate synthase
+EFAEC_00211	CDS	1092		1.3.1.12		prephenate dehydrogenase
+EFAEC_00212	CDS	1296	aroA	2.5.1.19		3-phosphoshikimate 1-carboxyvinyltransferase
+EFAEC_00213	CDS	510		2.7.1.71		shikimate kinase
+EFAEC_00214	CDS	837		4.2.1.51		prephenate dehydratase
+EFAEC_00215	CDS	1737		2.7.13.3		sensor histidine kinase
+EFAEC_00216	CDS	876				AraC family transcriptional regulator
+EFAEC_00217	CDS	579				response regulator receiver domain-containing protein
+EFAEC_00218	CDS	1287				extracellular solute-binding protein
+EFAEC_00219	CDS	870				ABC transporter permease
+EFAEC_00220	CDS	870				ABC transporter permease
+EFAEC_00221	CDS	684	umpB_1			Na(+), Li(+), K(+)/H(+) antiporter subunit B
+EFAEC_00222	CDS	774	umpB_2			Na(+), Li(+), K(+)/H(+) antiporter subunit B
+EFAEC_00223	CDS	399				hypothetical protein
+EFAEC_00224	CDS	672				hypothetical protein
+EFAEC_00225	CDS	441				hypothetical protein
+EFAEC_00226	CDS	669		5.4.2.1		phosphoglycerate mutase
+EFAEC_00227	CDS	624		3.1.3.18		phosphoglycolate phosphatase
+EFAEC_00228	CDS	387				hypothetical protein
+EFAEC_00229	CDS	1392				sodium/dicarboxylate symporter family protein
+EFAEC_00230	CDS	369				glyoxalase family protein
+EFAEC_00231	CDS	132				hypothetical protein
+EFAEC_00232	CDS	942				rhodanese-like domain-containing protein
+EFAEC_00233	CDS	732		3.1.-.-		metallophosphoesterase
+EFAEC_00234	CDS	2181				RNA binding protein S1
+EFAEC_00235	CDS	483				SprT-like family protein
+EFAEC_00236	CDS	762	ydcF		COG1434	Protein YdcF
+EFAEC_00237	CDS	1335	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+EFAEC_00238	CDS	486				MaoC like domain-containing protein
+EFAEC_00239	CDS	684				Inhibitor of apoptosis-promoting Bax1
+EFAEC_00240	CDS	2646		2.7.7.7		DNA polymerase I
+EFAEC_00241	CDS	837	mutM	3.2.2.23		Formamidopyrimidine-DNA glycosylase
+EFAEC_00242	CDS	630		2.7.1.24		Dephospho-CoA kinase
+EFAEC_00243	CDS	333				hypothetical protein
+EFAEC_00244	CDS	492	nrdR			transcriptional repressor NrdR
+EFAEC_00245	CDS	1374				replication initiation and membrane attachment protein
+EFAEC_00246	CDS	927	dnaI			primosomal protein DnaI
+EFAEC_00247	CDS	441				hypothetical protein
+EFAEC_00248	CDS	1296		2.7.7.-		ISL3 family transposase
+EFAEC_00249	CDS	702		2.1.1.198		SAM-dependent methyltransferase family protein
+EFAEC_00250	CDS	1122				NIF3-related protein
+EFAEC_00251	CDS	1233	pepT	3.4.11.4		peptidase T
+EFAEC_00252	CDS	909		2.7.1.107		diacylglycerol kinase catalytic subunit
+EFAEC_00253	CDS	273				membrane protein
+EFAEC_00254	CDS	1047				integral membrane protein
+EFAEC_00255	CDS	2610	clpB			ATP-dependent chaperone protein ClpB
+EFAEC_00256	CDS	672				hypothetical protein
+EFAEC_00257	CDS	495		2.4.2.6		Nucleoside 2-deoxyribosyltransferase
+EFAEC_00258	CDS	1221		2.3.1.-		GNAT family acetyltransferase
+EFAEC_00259	CDS	1836	lepA	3.6.5.-		GTP-binding protein LepA
+EFAEC_00260	CDS	1128	xerC_2			site-specific tyrosine recombinase XerC-family protein
+EFAEC_00261	CDS	954				Integrase
+EFAEC_00262	CDS	1179		2.7.7.-		ISEf1, transposase
+EFAEC_00263	CDS	414				alpha crystallin family heat shock protein
+EFAEC_00264	CDS	486				hypothetical protein
+EFAEC_00265	CDS	216				hypothetical protein
+EFAEC_00266	CDS	801		1.1.1.-		short chain dehydrogenase/reductase family oxidoreductase
+EFAEC_00267	CDS	1869				PRD domain-containing protein
+EFAEC_00268	CDS	492				glucitol operon activator protein
+EFAEC_00269	CDS	555		2.7.1.69		PTS system, glucitol/sorbitol-specific IIC component
+EFAEC_00270	CDS	996		2.7.1.69		PTS system glucitol/sorbitol-specific transporter subunit IIBC
+EFAEC_00271	CDS	1251		2.7.7.-		IS116/IS110/IS902 family transposase
+EFAEC_00272	CDS	399		2.7.1.-		PTS system glucitol/sorbitol-specific transporter subunit IIA
+EFAEC_00273	CDS	711		4.1.2.-		fructose-6-phosphate aldolase
+EFAEC_00274	CDS	888	prsA_1	5.2.1.8		foldase protein PrsA_1
+EFAEC_00275	CDS	840		3.4.-.-		CAAX amino terminal protease family protein
+EFAEC_00276	CDS	975				LPXTG-motif protein cell wall anchor domain protein
+EFAEC_00277	CDS	357				hypothetical protein
+EFAEC_00278	CDS	1158				hypothetical protein
+EFAEC_00279	CDS	441				transcriptional regulator Spx
+EFAEC_00280	CDS	507		3.-.-.-		isochorismatase family hydrolase
+EFAEC_00281	CDS	1905				LPXTG-motif protein cell wall anchor domain protein
+EFAEC_00282	CDS	1002		3.1.-.-		esterase
+EFAEC_00283	CDS	207				hypothetical protein
+EFAEC_00284	CDS	849				phosphosugar isomerase transcriptional regulator
+EFAEC_00285	CDS	903		1.1.1.44		6-phosphogluconate dehydrogenase
+EFAEC_00286	CDS	1002		1.1.1.290		4-phosphoerythronate dehydrogenase
+EFAEC_00287	CDS	273		1.-.-.-		iron-containing alcohol dehydrogenase
+EFAEC_00288	CDS	798		1.1.1.1		iron-containing alcohol dehydrogenase
+EFAEC_00289	CDS	834		2.7.1.69		PTS system, mannose/fructose/sorbose-specific IIC component
+EFAEC_00290	CDS	858		2.7.1.69		PTS system, mannose/fructose/sorbose-specific IID component
+EFAEC_00291	CDS	510		2.7.1.69		PTS system, mannose/fructose/sorbose-specific IIB component
+EFAEC_00292	CDS	402				hypothetical protein
+EFAEC_00293	CDS	423				hypothetical protein
+EFAEC_00294	CDS	444		2.7.1.-		PTS system, mannose/fructose/sorbose-specific IIA component
+EFAEC_00295	CDS	1086	uxuA_1	4.2.1.8		D-mannonate dehydratase, UxuA_1
+EFAEC_00296	CDS	714		3.-.-.-		HAD superfamily hydrolase
+EFAEC_00297	CDS	150				hypothetical protein
+EFAEC_00298	CDS	201	cspA			major cold shock protein CspA
+EFAEC_00299	CDS	99				hypothetical protein
+EFAEC_00300	CDS	366				Pyrimidine dimer DNA glycosylase
+EFAEC_00301	CDS	246				toxin-antitoxin system, antitoxin component, Xre domain protein
+EFAEC_00302	CDS	255				hypothetical protein
+EFAEC_00303	CDS	306				hypothetical protein
+EFAEC_00304	tRNA	76				tRNA-Met(cat)
+EFAEC_00305	CDS	498				Isochorismatase family protein
+EFAEC_00306	CDS	810		3.-.-.-		HAD superfamily hydrolase
+EFAEC_00307	CDS	858		2.4.-.-		glycosyl transferase family protein
+EFAEC_00308	CDS	903		2.4.-.-		glycosyl transferase family protein
+EFAEC_00309	CDS	351				hypothetical protein
+EFAEC_00310	CDS	939				Mg2+ cation transporter
+EFAEC_00311	CDS	894		1.1.1.-		short chain dehydrogenase/reductase family oxidoreductase
+EFAEC_00312	CDS	564				hypothetical protein
+EFAEC_00313	CDS	189				small integral membrane protein
+EFAEC_00314	CDS	903				hypothetical protein
+EFAEC_00315	CDS	243				transglycosylase
+EFAEC_00316	CDS	372				hypothetical protein
+EFAEC_00317	CDS	228	yozG			helix-turn-helix domain-containing protein
+EFAEC_00318	CDS	474				hypothetical protein
+EFAEC_00319	CDS	174				hypothetical protein
+EFAEC_00320	CDS	567				hypothetical protein
+EFAEC_00321	CDS	189				small integral membrane protein
+EFAEC_00322	CDS	558				alkaline shock protein 23 family protein
+EFAEC_00323	CDS	243				integral membrane protein
+EFAEC_00324	CDS	1296		2.7.7.-		ISL3 family transposase
+EFAEC_00325	CDS	1215				ammonium transporter family protein
+EFAEC_00326	CDS	1428				amino acid permease family protein
+EFAEC_00327	CDS	927		3.5.1.2		glutaminase
+EFAEC_00328	CDS	1461				M protein trans-acting positive regulator
+EFAEC_00329	CDS	1764		2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+EFAEC_00330	CDS	357				ASCH protein
+EFAEC_00331	CDS	684		5.1.3.9		N-acetylmannosamine-6-phosphate 2-epimerase
+EFAEC_00332	CDS	615		1.5.1.30		Flavin reductase-like domain protein
+EFAEC_00333	CDS	207				hypothetical protein
+EFAEC_00334	CDS	1164				FtsW/RodA/SpoVE family cell cycle protein
+EFAEC_00335	CDS	756				cell envelope-related function transcriptional attenuator common domain protein
+EFAEC_00336	CDS	2040		2.4.1.129		penicillin binding protein transpeptidase domain protein
+EFAEC_00337	CDS	1152	napA			transporter, monovalent cation:proton antiporter-2 family protein
+EFAEC_00338	CDS	531				hypothetical protein
+EFAEC_00339	CDS	351				hypothetical protein
+EFAEC_00340	CDS	1530		1.8.1.-		alkyl hydroperoxide reductase, F subunit
+EFAEC_00341	CDS	564	ahpC	1.11.1.15		alkyl hydroperoxide reductase subunit C
+EFAEC_00342	CDS	663				GntR family transcriptional regulator
+EFAEC_00343	CDS	1647		1.1.1.67		mannitol dehydrogenase protein
+EFAEC_00344	CDS	1083	uxuA_2	4.2.1.8		mannonate dehydratase
+EFAEC_00345	CDS	1554				M protein trans-acting positive regulator
+EFAEC_00346	CDS	1290				LPXTG-motif protein cell wall anchor domain protein
+EFAEC_00347	CDS	1038				permease
+EFAEC_00348	CDS	441	marR			DNA-binding transcriptional repressor MarR
+EFAEC_00349	CDS	411				peroxiredoxin, Ohr family protein
+EFAEC_00350	CDS	435				MerR family transcriptional regulator
+EFAEC_00351	CDS	771				integral membrane protein
+EFAEC_00352	CDS	1767		3.2.1.1		alpha amylase
+EFAEC_00353	CDS	1260				extracellular solute-binding protein
+EFAEC_00354	CDS	1302				ABC transporter permease
+EFAEC_00355	CDS	852	mdxG			ABC transporter permease
+EFAEC_00356	CDS	816				integral membrane protein
+EFAEC_00357	CDS	1167		2.1.1.79		cyclopropane-fatty-acyl-phospholipid synthase
+EFAEC_00358	CDS	648				lysis protein
+EFAEC_00359	CDS	945	pyrDA	1.3.98.1		dihydroorotate dehydrogenase 1A
+EFAEC_00360	CDS	1452		3.5.1.4		amidase
+EFAEC_00361	CDS	837				family 3 extracellular solute-binding protein
+EFAEC_00362	CDS	660				amino acid ABC transporter, amino acid-binding/permease
+EFAEC_00363	CDS	690				hypothetical protein
+EFAEC_00364	CDS	957				hypothetical protein
+EFAEC_00365	CDS	513		2.3.1.-		GNAT family acetyltransferase
+EFAEC_00366	CDS	549		2.7.4.8		guanylate kinase
+EFAEC_00367	CDS	1182	nupC			Na dependent nucleoside transporter, NupC family
+EFAEC_00368	CDS	1509		3.4.24.-		ATP-dependent Zn protease
+EFAEC_00369	CDS	192				hypothetical protein
+EFAEC_00370	CDS	918				hypothetical protein
+EFAEC_00371	CDS	1074				hypothetical protein
+EFAEC_00372	CDS	519				hypothetical protein
+EFAEC_00373	CDS	393				hypothetical protein
+EFAEC_00374	CDS	936				cation diffusion facilitator family transporter
+EFAEC_00375	CDS	780				putative azaleucine resistance protein AzlC
+EFAEC_00376	CDS	318				branched-chain amino acid transport protein
+EFAEC_00377	CDS	1611				polysaccharide biosynthesis family protein
+EFAEC_00378	CDS	849				EDD domain-containing protein, DegV family
+EFAEC_00379	CDS	480				hypothetical protein
+EFAEC_00380	CDS	2229	clpX_2			ATP-dependent protease ATP-binding subunit ClpX
+EFAEC_00381	CDS	1644		3.2.1.1		alpha amylase
+EFAEC_00382	CDS	546				hypothetical protein
+EFAEC_00383	CDS	486	hmpT		COG4720	Thiamine precursor transporter HmpT
+EFAEC_00384	CDS	813		2.7.4.7		phosphomethylpyrimidine kinase
+EFAEC_00385	CDS	1542				AMP-binding family protein
+EFAEC_00386	CDS	1032	xerC_3			site-specific tyrosine recombinase XerC-family protein
+EFAEC_00387	CDS	987	ysnF			Stress response protein YsnF
+EFAEC_00388	CDS	1341	vicK	2.7.13.3		sensory box histidine kinase VicK
+EFAEC_00389	CDS	675				response regulator receiver domain-containing protein
+EFAEC_00390	CDS	1074				efflux ABC transporter permease
+EFAEC_00391	CDS	687		3.6.3.-		ABC transporter ATP-binding protein
+EFAEC_00392	CDS	648				TetR/AcrR family transcriptional regulator
+EFAEC_00393	CDS	1392				M protein trans-acting positive regulator
+EFAEC_00394	CDS	792				von Willebrand factor type A domain-containing protein
+EFAEC_00395	CDS	2559				von Willebrand factor type A domain-containing protein
+EFAEC_00396	CDS	1422				LPXTG-motif protein cell wall anchor domain protein
+EFAEC_00397	CDS	1878				LPXTG-motif protein cell wall anchor domain protein
+EFAEC_00398	CDS	843		3.4.-.-		peptidase C60
+EFAEC_00399	CDS	876				RpiR family transcriptional regulator
+EFAEC_00400	CDS	1032		1.-.-.-		oxidoreductase family, NAD-binding Rossmann fold protein
+EFAEC_00401	CDS	306				hypothetical protein
+EFAEC_00402	CDS	2016		2.7.1.-		PTS system ascorbate-specific transporter subunit IIA
+EFAEC_00403	CDS	285		2.7.1.69		PTS system ascorbate-specific transporter subunit IIB
+EFAEC_00404	CDS	1374		2.7.1.69		PTS system ascorbate-specific transporter subunit IIC
+EFAEC_00405	CDS	2016		3.2.1.40		alpha-L-rhamnosidase
+EFAEC_00406	CDS	1209				major facilitator superfamily transporter
+EFAEC_00407	CDS	945				AraC family transcriptional regulator
+EFAEC_00408	CDS	174				hypothetical protein
+EFAEC_00409	CDS	945	ldhB	1.1.1.27		L-lactate dehydrogenase
+EFAEC_00410	CDS	399				toxin-antitoxin system, toxin component, Fic family
+EFAEC_00411	CDS	237				putative addiction module antidote
+EFAEC_00412	CDS	318				hypothetical protein
+EFAEC_00413	CDS	2229		5.99.1.2		DNA topoisomerase III
+EFAEC_00414	CDS	411		2.1.1.64		3-demethylubiquinone-9 3-methyltransferase
+EFAEC_00415	CDS	1164				transcriptional regulator, PSR protein
+EFAEC_00416	CDS	855		1.1.1.25		shikimate 5-dehydrogenase
+EFAEC_00417	CDS	771				ABC transporter ATP-binding protein
+EFAEC_00418	CDS	882				amino acid or sugar ABC transport system, permease protein
+EFAEC_00419	CDS	1050				ABC transporter substrate binding protein
+EFAEC_00420	CDS	624				hypothetical protein
+EFAEC_00421	CDS	954				Integrase
+EFAEC_00422	CDS	1707				fibronectin-binding protein A
+EFAEC_00423	CDS	903				LysR family transcriptional regulator
+EFAEC_00424	CDS	705		4.2.1.1		carbonic anhydrase
+EFAEC_00425	CDS	642				HD domain-containing protein
+EFAEC_00426	CDS	630	pyrE	2.4.2.10		orotate phosphoribosyltransferase
+EFAEC_00427	CDS	717		4.1.1.23		Orotidine 5'-phosphate decarboxylase
+EFAEC_00428	CDS	933	pyrDB	1.3.98.1		Dihydroorotate dehydrogenase 1B
+EFAEC_00429	CDS	354		1.3.98.1		dihydroorotate dehydrogenase, electron transfer subunit
+EFAEC_00430	CDS	447		1.3.98.1		dihydroorotate dehydrogenase, electron transfer subunit
+EFAEC_00431	CDS	3186	carB	6.3.5.5		carbamoyl-phosphate synthase large subunit
+EFAEC_00432	CDS	1077	carA	6.3.5.5		carbamoyl-phosphate synthase small subunit
+EFAEC_00433	CDS	1281	pyrC	3.5.2.3		Dihydroorotase
+EFAEC_00434	CDS	927	pyrB	2.1.3.2		aspartate carbamoyltransferase
+EFAEC_00435	CDS	1284				uracil permease
+EFAEC_00436	CDS	540	pyrR	2.4.2.9		pyrimidine operon regulatory protein/uracil phosphoribosyltransferase PyrR
+EFAEC_00437	CDS	912		5.4.99.-		RluA family pseudouridine synthase
+EFAEC_00438	CDS	465	lspA	3.4.23.36		lipoprotein signal peptidase
+EFAEC_00439	CDS	699				CBS domain pair protein
+EFAEC_00440	CDS	387				hypothetical protein
+EFAEC_00441	CDS	1671	fhs2	6.3.4.3		Formate--tetrahydrofolate ligase
+EFAEC_00442	CDS	234				cold shock domain-containing protein
+EFAEC_00443	CDS	432				EbsA
+EFAEC_00444	CDS	414		3.1.26.4		ribonuclease HI
+EFAEC_00445	CDS	1149				cation diffusion facilitator family transporter
+EFAEC_00446	CDS	597				integral membrane protein
+EFAEC_00447	CDS	2643	alaS	6.1.1.7		alanyl-tRNA synthetase
+EFAEC_00448	CDS	432		2.3.1.-		GNAT family acetyltransferase
+EFAEC_00449	CDS	1350		3.6.1.-		DEAD/DEAH box helicase
+EFAEC_00450	CDS	1164				VanZ/RDD domain protein
+EFAEC_00451	CDS	324				hypothetical protein
+EFAEC_00452	CDS	1350				amino acid permease
+EFAEC_00453	CDS	954		5.1.3.-		NAD-dependent nucleoside-diphosphate-sugar epimerase
+EFAEC_00454	CDS	1191		2.3.1.47		Putative 8-amino-7-oxononanoate synthase/2-amino-3-ketobutyrate coenzyme A ligase
+EFAEC_00455	CDS	225				hypothetical protein
+EFAEC_00456	CDS	684				HD domain-containing protein
+EFAEC_00457	CDS	1497		3.4.17.19		carboxypeptidase Taq metallopeptidase
+EFAEC_00458	CDS	1167		2.1.1.37		putative methylase
+EFAEC_00459	CDS	420				cell division protein DivIVA
+EFAEC_00460	CDS	540				hypothetical protein
+EFAEC_00461	CDS	648		3.1.22.-		recombination protein U
+EFAEC_00462	CDS	2382		2.4.2.-		penicillin-binding protein 1A
+EFAEC_00463	CDS	1296		2.7.7.-		ISL3 family transposase
+EFAEC_00464	CDS	498				hypothetical protein
+EFAEC_00465	CDS	678		4.2.99.18		endonuclease III
+EFAEC_00466	CDS	699				DnaD and phage-associated domain protein
+EFAEC_00467	CDS	1185				major facilitator superfamily transporter
+EFAEC_00468	CDS	444				MarR family transcriptional regulator
+EFAEC_00469	CDS	288				hypothetical protein
+EFAEC_00470	CDS	1353	nox	1.6.99.3		NADH oxidase
+EFAEC_00471	CDS	447	perR			Fur family transcriptional regulator
+EFAEC_00472	CDS	927		2.5.1.47		cysteine synthase A
+EFAEC_00473	CDS	888		3.5.1.28		N-acetylmuramoyl-L-alanine amidase
+EFAEC_00474	CDS	954				Integrase
+EFAEC_00475	CDS	1998	tkt	2.2.1.1		transketolase
+EFAEC_00476	CDS	252				hypothetical protein
+EFAEC_00477	CDS	624	lexA	3.4.21.88		LexA repressor
+EFAEC_00478	CDS	219				hypothetical protein
+EFAEC_00479	CDS	513	apt	2.4.2.7		adenine phosphoribosyltransferase
+EFAEC_00480	CDS	2298	recJ	3.1.-.-		single-stranded-DNA-specific exonuclease RecJ
+EFAEC_00481	CDS	435				hypothetical protein
+EFAEC_00482	CDS	789		1.1.1.-		short chain dehydrogenase/reductase family oxidoreductase
+EFAEC_00483	CDS	942	rnz	3.1.26.11		Ribonuclease Z
+EFAEC_00484	CDS	588				hypothetical protein
+EFAEC_00485	CDS	1314	obg	3.6.5.-		Obg family GTPase CgtA
+EFAEC_00486	CDS	1011		1.2.1.12		glyceraldehyde 3-phosphate dehydrogenase
+EFAEC_00487	CDS	936		3.4.14.11		x-Pro dipeptidyl-peptidase
+EFAEC_00488	CDS	960			COG2826	IS30 family transposase IS6770
+EFAEC_00489	CDS	1095				alpha3-beta1 integrin-binding family protein
+EFAEC_00490	CDS	762		5.2.1.8		cyclophilin type peptidyl-prolyl cis-trans isomerase
+EFAEC_00491	CDS	441	fabZ1	4.2.1.-		(3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase
+EFAEC_00492	CDS	756	fabI	1.3.1.9		Enoyl-[acyl-carrier-protein] reductase
+EFAEC_00493	CDS	1014	ilvE	2.6.1.42		branched-chain amino acid aminotransferase
+EFAEC_00494	CDS	921				transporter, small conductance mechanosensitive ion channel family protein
+EFAEC_00495	CDS	501				CBS domain pair protein
+EFAEC_00496	CDS	519		3.1.-.-		phosphodiesterase
+EFAEC_00497	CDS	1356		2.7.7.56		Ribonuclease PH/Ham1 protein
+EFAEC_00498	CDS	834	murI	5.1.1.3		glutamate racemase
+EFAEC_00499	CDS	657				ABC transporter permease
+EFAEC_00500	CDS	648				ABC transporter permease
+EFAEC_00501	CDS	816				putative adhesin/ABC transporter aspartate/glutamate-binding protein
+EFAEC_00502	CDS	738	glnQ	3.6.3.-		ABC transporter ATP-binding protein
+EFAEC_00503	CDS	1011	trpS	6.1.1.2		Tryptophanyl-tRNA synthetase II
+EFAEC_00504	CDS	2421	pheT	6.1.1.20		phenylalanyl-tRNA synthetase subunit beta
+EFAEC_00505	CDS	1044	pheS	6.1.1.20		phenylalanyl-tRNA synthetase subunit alpha
+EFAEC_00506	CDS	342				HxlR-like helix-turn-helix
+EFAEC_00507	CDS	3723		3.6.1.-		ATP-dependent helicase/nuclease subunit A
+EFAEC_00508	CDS	3528		3.6.1.-		ATP-dependent helicase/deoxyribonuclease subunit B
+EFAEC_00509	CDS	1296		2.7.7.-		ISL3 family transposase
+EFAEC_00510	CDS	831				amino acid/peptide transporter
+EFAEC_00511	CDS	639				amino acid/peptide transporter
+EFAEC_00512	CDS	597		1.6.99.-		nitroreductase family protein
+EFAEC_00513	CDS	483				hypothetical protein
+EFAEC_00514	CDS	198				hypothetical protein
+EFAEC_00515	CDS	759				hypothetical protein
+EFAEC_00516	CDS	429				hypothetical protein
+EFAEC_00517	tRNA	73				tRNA-Gln(ctg)
+EFAEC_00518	CDS	372				hypothetical protein
+EFAEC_00519	CDS	186				hypothetical protein
+EFAEC_00520	CDS	189				hypothetical protein
+EFAEC_00521	CDS	264				hypothetical protein
+EFAEC_00522	CDS	258				hypothetical protein
+EFAEC_00523	CDS	192				hypothetical protein
+EFAEC_00524	CDS	321				hypothetical protein
+EFAEC_00525	CDS	435	uspA			universal stress protein UspA
+EFAEC_00526	CDS	639	lysM			peptidoglycan-binding protein LysM
+EFAEC_00527	tRNA	86				tRNA-Leu(cag)
+EFAEC_00528	CDS	501		2.3.1.-		GNAT family acetyltransferase
+EFAEC_00529	CDS	345				metal-sulfur cluster biosynthetic enzyme
+EFAEC_00530	CDS	939				integral membrane protein
+EFAEC_00531	CDS	492		5.3.1.24		N-(5'phosphoribosyl)anthranilate isomerase family protein
+EFAEC_00532	CDS	2376				DEAD_2 helicase
+EFAEC_00533	CDS	627				Metallo-beta-lactamase superfamily protein
+EFAEC_00534	CDS	705		5.4.2.1		phosphoglycerate mutase family protein
+EFAEC_00535	CDS	834	uppP	3.6.1.27		undecaprenyl-diphosphatase
+EFAEC_00536	CDS	1929		3.6.3.3		cadmium-translocating P-type ATPase
+EFAEC_00537	CDS	456				hypothetical protein
+EFAEC_00538	CDS	270				hypothetical protein
+EFAEC_00539	CDS	255	rpsT			30S ribosomal protein S20
+EFAEC_00540	CDS	1047		2.7.7.7		DNA polymerase III subunit delta
+EFAEC_00541	CDS	2274				DNA internalization-related competence protein ComEC/Rec2
+EFAEC_00542	CDS	540		3.5.-.-		ComE operon protein 2
+EFAEC_00543	CDS	219				hypothetical protein
+EFAEC_00544	CDS	246				hypothetical protein
+EFAEC_00545	CDS	618	comEA			competence protein, ComEA
+EFAEC_00546	CDS	1044				PDZ domain protein
+EFAEC_00547	CDS	492	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase, CoaD
+EFAEC_00548	CDS	561		2.1.1.-		RsmD family RNA methyltransferase
+EFAEC_00549	CDS	339				hypothetical protein
+EFAEC_00550	CDS	447				hypothetical protein
+EFAEC_00551	CDS	1125				hypothetical protein
+EFAEC_00552	CDS	3429		6.4.1.1		pyruvate carboxylase
+EFAEC_00553	CDS	1164	ftsW			cell cycle protein FtsW
+EFAEC_00554	CDS	303				hypothetical protein
+EFAEC_00555	CDS	1773	recQ			ATP-dependent DNA helicase RecQ
+EFAEC_00556	CDS	1830	typA			GTP-binding protein TypA/BipA
+EFAEC_00557	CDS	759		3.1.3.25		inositol monophosphatase family protein
+EFAEC_00558	CDS	276				hypothetical protein
+EFAEC_00559	CDS	1407	pdhD	1.8.1.4		Dihydrolipoyl dehydrogenase
+EFAEC_00560	CDS	1644		2.3.1.61		dihydrolipoamide S-succinyltransferase
+EFAEC_00561	CDS	978	pdhB	1.2.4.1		transketolase
+EFAEC_00562	CDS	1110	pdhA	1.2.4.1		pyruvate dehydrogenase E1 component subunit alpha
+EFAEC_00563	CDS	1425				GntR family transcriptional regulator
+EFAEC_00564	CDS	978	guaC	1.7.1.7		guanosine 5'-monophosphate oxidoreductase
+EFAEC_00565	CDS	1206				amino acid or sugar ABC transport system, permease protein
+EFAEC_00566	CDS	1527	araG	3.6.3.17		ABC transporter ATP-binding protein
+EFAEC_00567	CDS	1089	chvE			multiple sugar-binding periplasmic receptor ChvE family protein
+EFAEC_00568	CDS	1017				LacI family transcriptional regulator
+EFAEC_00569	CDS	1452		2.7.13.3		sensor histidine kinase
+EFAEC_00570	CDS	1566				AraC family transcriptional regulator
+EFAEC_00571	CDS	915		1.1.1.-		oxidoreductase, aldo/keto reductase family protein
+EFAEC_00572	CDS	1275		6.3.4.13		Phosphoribosylamine--glycine ligase
+EFAEC_00573	CDS	1536	purH	2.1.2.3		bifunctional purine biosynthesis protein PurH
+EFAEC_00574	CDS	579		2.1.2.2		Phosphoribosylglycinamide formyltransferase
+EFAEC_00575	CDS	1053		6.3.3.1		Phosphoribosylformylglycinamidine cyclo-ligase
+EFAEC_00576	CDS	1440		2.4.2.14		Amidophosphoribosyltransferase
+EFAEC_00577	CDS	2223	purL	6.3.5.3		Phosphoribosylformylglycinamidine synthase II
+EFAEC_00578	CDS	672	purQ	6.3.5.3		Phosphoribosylformylglycinamidine synthase I
+EFAEC_00579	CDS	255		6.3.5.3		phosphoribosylformylglycinamidine synthase subunit PurS
+EFAEC_00580	CDS	729	purC	6.3.2.6		Phosphoribosylaminoimidazole-succinocarboxamide synthase
+EFAEC_00581	CDS	378				hypothetical protein
+EFAEC_00582	CDS	1296	purB	4.3.2.2		Adenylosuccinate lyase
+EFAEC_00583	CDS	1125		4.1.1.21		phosphoribosylaminoimidazole carboxylase, ATPase subunit
+EFAEC_00584	CDS	489	purE	4.1.1.21		phosphoribosylaminoimidazole carboxylase catalytic subunit
+EFAEC_00585	CDS	1308				xanthine permease
+EFAEC_00586	CDS	582	xpt	2.4.2.22		xanthine phosphoribosyltransferase
+EFAEC_00587	CDS	1293		1.-.-.-		oxidoreductase family, NAD-binding Rossmann fold protein
+EFAEC_00588	CDS	624				hypothetical protein
+EFAEC_00589	CDS	837				ABC transporter permease
+EFAEC_00590	CDS	888				ABC transporter permease
+EFAEC_00591	CDS	1284				extracellular solute-binding protein
+EFAEC_00592	CDS	684				hypothetical protein
+EFAEC_00593	CDS	618		3.5.1.28		N-acetylmuramoyl-L-alanine amidase
+EFAEC_00594	CDS	825		3.4.16.4		serine-type D-Ala-D-Ala carboxypeptidase
+EFAEC_00595	CDS	561				hypothetical protein
+EFAEC_00596	CDS	948		1.-.-.-		oxidoreductase family, NAD-binding Rossmann fold protein
+EFAEC_00597	CDS	957				membrane spanning protein
+EFAEC_00598	CDS	603				membrane protein
+EFAEC_00599	CDS	1500	yuaG			SPFH domain / Band 7 family protein
+EFAEC_00600	CDS	525	yuaF			putative membrane protein YuaF
+EFAEC_00601	CDS	873		2.7.13.3		two-component sensor histidine kinase
+EFAEC_00602	CDS	786		2.7.13.3		sensory box histidine kinase
+EFAEC_00603	CDS	717				response regulator receiver domain-containing protein
+EFAEC_00604	CDS	1020		1.1.1.29		D-isomer specific 2-hydroxyacid dehydrogenase
+EFAEC_00605	CDS	1059				auxin efflux carrier
+EFAEC_00606	CDS	1149		3.5.1.25		N-acetylglucosamine-6-phosphate deacetylase
+EFAEC_00607	CDS	837				helix-turn-helix domain-containing protein
+EFAEC_00608	CDS	1221	alaT	2.6.1.-		aminotransferase AlaT
+EFAEC_00609	CDS	162				hypothetical protein
+EFAEC_00610	tRNA	85				tRNA-Leu(gag)
+EFAEC_00611	CDS	579				hypothetical protein
+EFAEC_00612	CDS	387				hypothetical protein
+EFAEC_00613	CDS	1179		2.7.7.-		ISEf1, transposase
+EFAEC_00614	CDS	327				hypothetical protein
+EFAEC_00615	CDS	243	fosX			fosfomycin resistance protein FosX domain protein
+EFAEC_00616	CDS	291				hypothetical protein
+EFAEC_00617	CDS	693	smc			Chromosome partition protein Smc
+EFAEC_00618	CDS	624				LysM domain-containing protein
+EFAEC_00619	CDS	723		3.1.21.-		TatD family hydrolase
+EFAEC_00620	CDS	738		3.6.3.-		ABC transporter ATPase
+EFAEC_00621	CDS	993				ABC-type transporter, periplasmic component
+EFAEC_00622	CDS	744				ABC transporter permease
+EFAEC_00623	CDS	1323		1.-.-.-		pyridine nucleotide-disulfide oxidoreductase
+EFAEC_00624	CDS	309				ABC transporter ATP-binding protein
+EFAEC_00625	CDS	693				ABC transporter ATP-binding protein
+EFAEC_00626	CDS	1539				glycine betaine/carnitine/choline ABC transporter
+EFAEC_00627	CDS	288				hypothetical protein
+EFAEC_00628	CDS	669				integral membrane protein
+EFAEC_00629	CDS	741				hypothetical protein
+EFAEC_00630	CDS	948				LacI family transcriptional regulator
+EFAEC_00631	CDS	765		3.1.-.-		putative lipase/esterase
+EFAEC_00632	CDS	390				hypothetical protein
+EFAEC_00633	CDS	543				hypothetical protein
+EFAEC_00634	CDS	615				hypothetical protein
+EFAEC_00635	CDS	894				hypothetical protein
+EFAEC_00636	CDS	927	ppaC	3.6.1.1		manganese-dependent inorganic pyrophosphatase
+EFAEC_00637	CDS	762		1.97.1.4		pyruvate formate-lyase activating enzyme
+EFAEC_00638	CDS	2232		2.3.1.54		formate acetyltransferase
+EFAEC_00639	CDS	2451	parC	5.99.1.-		DNA topoisomerase IV subunit A
+EFAEC_00640	CDS	2046	parE	5.99.1.-		DNA topoisomerase IV subunit B
+EFAEC_00641	CDS	435				CoA-binding protein
+EFAEC_00642	CDS	639	plsY	2.3.1.15		acyl-phosphate glycerol 3-phosphate acyltransferase
+EFAEC_00643	CDS	876		5.1.3.3		aldose 1-epimerase
+EFAEC_00644	CDS	792	codY			GTP-sensing transcriptional pleiotropic repressor CodY
+EFAEC_00645	CDS	1401	hslU	3.4.25.-		ATP-dependent carboxylate-amine ligase
+EFAEC_00646	CDS	549	hslV	3.4.25.-		ATP-dependent protease HslVU, peptidase subunit
+EFAEC_00647	CDS	906	xerC_4			site-specific tyrosine recombinase XerC-family protein
+EFAEC_00648	CDS	1326		2.1.1.74		glucose inhibited division protein
+EFAEC_00649	CDS	2079	topA	5.99.1.2		DNA topoisomerase I
+EFAEC_00650	CDS	858	dprA			DNA processing protein DprA
+EFAEC_00651	CDS	768		3.1.26.4		ribonuclease HII
+EFAEC_00652	CDS	861	ylqF			ribosome biogenesis GTP-binding protein YlqF
+EFAEC_00653	CDS	399				glyoxalase family protein
+EFAEC_00654	CDS	543				membrane protein
+EFAEC_00655	CDS	552		3.4.21.89		signal peptidase I
+EFAEC_00656	CDS	228				hypothetical protein
+EFAEC_00657	CDS	519	msrA	1.8.4.11		methionine sulfoxide reductase MsrA
+EFAEC_00658	CDS	714				hypothetical protein
+EFAEC_00659	CDS	897		3.1.1.47		GDSL-like lipase/acylhydrolase
+EFAEC_00660	CDS	843				DegV family protein
+EFAEC_00661	CDS	654				hemolysin III family channel protein
+EFAEC_00662	CDS	528	dfrD_2	1.5.1.3		dihydrofolate reductase
+EFAEC_00663	CDS	948	thyA	2.1.1.45		thymidylate synthase
+EFAEC_00664	CDS	1887				ABC transporter ATP-binding protein
+EFAEC_00665	CDS	2079				Na+/H+ antiporter
+EFAEC_00666	CDS	276				hypothetical protein
+EFAEC_00667	CDS	456				hypothetical protein
+EFAEC_00668	CDS	1209		2.7.7.-		tRNA nucleotidyltransferase/poly(A) polymerase family protein
+EFAEC_00669	CDS	333		3.6.1.-		MazG nucleotide pyrophosphohydrolase domain-containing protein
+EFAEC_00670	CDS	876				integral membrane protein
+EFAEC_00671	CDS	582				hypothetical protein
+EFAEC_00672	CDS	1260				tetratricopeptide repeat protein
+EFAEC_00673	CDS	1047				hypothetical protein
+EFAEC_00674	CDS	276	hupA			DNA-binding protein HU
+EFAEC_00675	CDS	1311	der	3.6.-.-		ribosome-associated GTPase EngA
+EFAEC_00676	CDS	1230				30S ribosomal protein S1
+EFAEC_00677	CDS	681	cmk	2.7.4.14		cytidylate kinase
+EFAEC_00678	CDS	636				LysM domain-containing protein
+EFAEC_00679	CDS	1404		3.6.1.-		RecQ familyATP-dependent DNA helicase
+EFAEC_00680	CDS	1032				hypothetical protein
+EFAEC_00681	CDS	222				ferredoxin
+EFAEC_00682	CDS	738		3.1.-.-		hydrolase
+EFAEC_00683	CDS	1341		3.4.13.-		Putative dipeptidase
+EFAEC_00684	CDS	1524				C4-dicarboxylate anaerobic carrier
+EFAEC_00685	CDS	612				membrane protein
+EFAEC_00686	CDS	717		5.4.99.-		16S rRNA pseudouridine synthase A
+EFAEC_00687	CDS	570	scpB			segregation and condensation protein B
+EFAEC_00688	CDS	798				segregation and condensation protein A
+EFAEC_00689	CDS	372	ribT	2.3.1.-		Protein RibT
+EFAEC_00690	CDS	888	xerD			site-specific tyrosine recombinase XerD-family protein
+EFAEC_00691	CDS	171				hypothetical protein
+EFAEC_00692	CDS	468	fur			transcriptional regulator, FUR family
+EFAEC_00693	CDS	864	cvfB			Conserved virulence factor B
+EFAEC_00694	CDS	2103	mapZ			Mid-cell-anchored protein Z
+EFAEC_00695	CDS	1296		2.7.7.-		ISL3 family transposase
+EFAEC_00696	CDS	1110	rpoD			RNA polymerase sigma factor RpoD
+EFAEC_00697	CDS	1842		2.7.7.-		DNA primase
+EFAEC_00698	CDS	2316		3.6.3.-		cation transporter E1-E2 family ATPase
+EFAEC_00699	CDS	861				membrane protein
+EFAEC_00700	CDS	342				hypothetical protein
+EFAEC_00701	CDS	720		3.1.1.-		alpha/beta hydrolase
+EFAEC_00702	CDS	2592		6.1.1.6		ysyl-tRNA synthetase
+EFAEC_00703	CDS	1188	tuf_1			translation elongation factor Tu
+EFAEC_00704	CDS	357				hypothetical protein
+EFAEC_00705	CDS	1005				hypothetical protein
+EFAEC_00706	CDS	852		1.1.1.-		oxidoreductase, aldo/keto reductase family protein
+EFAEC_00707	CDS	246				hypothetical protein
+EFAEC_00708	CDS	705				hypothetical protein
+EFAEC_00709	CDS	1263		2.3.1.9		acetyl-CoA acetyltransferase/hydroxymethylglutaryl-CoA reductase, degradative
+EFAEC_00710	CDS	1221		2.3.1.9		acetyl-CoA acetyltransferase/hydroxymethylglutaryl-CoA reductase, degradative
+EFAEC_00711	CDS	1155		2.3.3.10		hydroxymethylglutaryl-CoA synthase
+EFAEC_00712	CDS	753		2.1.1.-		methyltransferase
+EFAEC_00713	CDS	2667		3.6.3.8		calcium-translocating P-type ATPase
+EFAEC_00714	CDS	1452		2.7.8.-		cardiolipin synthetase
+EFAEC_00715	CDS	816		2.7.1.49		phosphomethylpyrimidine kinase
+EFAEC_00716	CDS	276				hypothetical protein
+EFAEC_00717	CDS	456				transcriptional regulator Spx
+EFAEC_00718	CDS	750				hypothetical protein
+EFAEC_00719	CDS	327				PadR family transcriptional regulator
+EFAEC_00720	CDS	441				universal stress protein
+EFAEC_00721	CDS	1398		3.2.1.85		6-phospho-beta-glucosidase
+EFAEC_00722	CDS	1272		2.7.1.69		PTS system lactose/cellobiose-specific transporter subunit IIC
+EFAEC_00723	CDS	720				GntR family transcriptional regulator
+EFAEC_00724	CDS	975				glyoxalase family protein
+EFAEC_00725	CDS	606		3.1.1.1		phospholipase/carboxylesterase
+EFAEC_00726	CDS	753				hypothetical protein
+EFAEC_00727	CDS	261				hypothetical protein
+EFAEC_00728	CDS	1362		2.7.1.69		PTS system galactitol-specific transporter subunit IIC
+EFAEC_00729	CDS	300		2.7.1.69		PTS system galactitol-specific transporter subunit IIB
+EFAEC_00730	CDS	459	gatA_2		COG1762	PTS system galactitol-specific EIIA component
+EFAEC_00731	CDS	792				DeoR-like helix-turn-helix protein
+EFAEC_00732	CDS	954		2.7.1.144		tagatose-6-phosphate kinase
+EFAEC_00733	CDS	975			COG1073	putative protein
+EFAEC_00734	CDS	435				MerR family transcriptional regulator
+EFAEC_00735	CDS	1023				hypothetical protein
+EFAEC_00736	CDS	423	arsC	1.20.4.4	COG0394	Arsenate reductase
+EFAEC_00737	CDS	1923				transcriptional antiterminator bglG
+EFAEC_00738	CDS	1941	manP		COG1299	PTS system mannose-specific EIIBCA component
+EFAEC_00739	CDS	741	dgaF	4.1.2.14		2-dehydro-3-deoxy-phosphogluconate aldolase
+EFAEC_00740	CDS	1092	dgaE	4.3.1.29		D-glucosaminate-6-phosphate ammonia lyase
+EFAEC_00741	CDS	1107		3.1.1.-	COG3964	Deacetylase
+EFAEC_00742	CDS	678				hypothetical protein
+EFAEC_00743	CDS	780				hypothetical protein
+EFAEC_00744	CDS	351				hypothetical protein
+EFAEC_00745	CDS	357				hypothetical protein
+EFAEC_00746	CDS	1251		2.7.7.-		IS116/IS110/IS902 family transposase
+EFAEC_00747	CDS	333				PRD domain-containing protein
+EFAEC_00748	CDS	1863				transcriptional antiterminator bglG
+EFAEC_00749	CDS	954				Integrase
+EFAEC_00750	CDS	195				hypothetical protein
+EFAEC_00751	CDS	300				hypothetical protein
+EFAEC_00752	CDS	435		2.3.1.-		GNAT family acetyltransferase
+EFAEC_00753	CDS	711		5.1.3.4		L-ribulose-5-phosphate 4-epimerase
+EFAEC_00754	CDS	861		5.1.3.22		L-xylulose 5-phosphate 3-epimerase
+EFAEC_00755	CDS	639		4.1.1.85		3-keto-L-gulonate-6-phosphate decarboxylase
+EFAEC_00756	CDS	300		2.7.1.69		PTS system ascorbate-specific transporter subunit IIB
+EFAEC_00757	CDS	1485		2.7.1.69		PTS system ascorbate-specific transporter subunit IIC
+EFAEC_00758	CDS	462		2.7.1.-		PTS system ascorbate-specific transporter subunit IIA
+EFAEC_00759	CDS	1068	ulaG	3.1.1.-		L-ascorbate 6-phosphate lactonase, UlaG
+EFAEC_00760	CDS	771				DeoR-like helix-turn-helix protein
+EFAEC_00761	CDS	828				helix-turn-helix domain-containing protein
+EFAEC_00762	CDS	1236		2.4.1.-		glycosyl transferase, MGT family
+EFAEC_00763	CDS	261				hypothetical protein
+EFAEC_00764	CDS	1302		2.7.1.69		PTS system transporter subunit IIC
+EFAEC_00765	CDS	459		2.7.1.69		PTS system, IICBA component
+EFAEC_00766	CDS	1329		3.2.1.-		glycosyl hydrolase family protein
+EFAEC_00767	CDS	1413		2.7.1.69		PTS system, N-acetylglucosamine-specific IIABC component
+EFAEC_00768	CDS	765				protein YebG
+EFAEC_00769	CDS	876				BglG family transcriptional antiterminator
+EFAEC_00770	tRNA	87				tRNA-Leu(caa)
+EFAEC_00771	tRNA	74				tRNA-Gln(ttg)
+EFAEC_00772	tRNA	74				tRNA-His(gtg)
+EFAEC_00773	tRNA	87				tRNA-Leu(caa)
+EFAEC_00774	tRNA	71				tRNA-Cys(gca)
+EFAEC_00775	tRNA	74				tRNA-Gln(ttg)
+EFAEC_00776	tRNA	74				tRNA-His(gtg)
+EFAEC_00777	tRNA	74				tRNA-Trp(cca)
+EFAEC_00778	tRNA	83				tRNA-Tyr(gta)
+EFAEC_00779	tRNA	76				tRNA-Phe(gaa)
+EFAEC_00780	tRNA	76				tRNA-Asp(gtc)
+EFAEC_00781	tRNA	75				tRNA-Val(tac)
+EFAEC_00782	tRNA	74				tRNA-Glu(ttc)
+EFAEC_00783	tRNA	92				tRNA-Ser(gga)
+EFAEC_00784	tRNA	76				tRNA-Asn(gtt)
+EFAEC_00785	rRNA	111				5S ribosomal RNA
+EFAEC_00786	rRNA	2911				23S ribosomal RNA
+EFAEC_00787	tRNA	73				tRNA-Ala(tgc)
+EFAEC_00788	rRNA	1558				16S ribosomal RNA
+EFAEC_00789	CDS	1506		2.7.13.3		sensor histidine kinase
+EFAEC_00790	CDS	687				DNA-binding response regulator
+EFAEC_00791	CDS	1422	gnd	1.1.1.44		6-phosphogluconate dehydrogenase
+EFAEC_00792	CDS	180	rpmF3			50S ribosomal protein L32
+EFAEC_00793	CDS	570				nucleic acid-binding protein
+EFAEC_00794	CDS	903				LysR family transcriptional regulator
+EFAEC_00795	CDS	1785		2.7.1.40		Pyruvate kinase
+EFAEC_00796	CDS	963	pfkA	2.7.1.11		6-phosphofructokinase
+EFAEC_00797	CDS	3315		2.7.7.7		DNA polymerase III subunit alpha
+EFAEC_00798	CDS	186				hypothetical protein
+EFAEC_00799	CDS	1197				transporter, major facilitator family protein
+EFAEC_00800	CDS	1296		2.7.7.-		ISL3 family transposase
+EFAEC_00801	CDS	1545				xanthine/uracil/vitamin C permease
+EFAEC_00802	CDS	810		3.-.-.-		HAD superfamily hydrolase
+EFAEC_00803	CDS	1296		2.7.7.-		IS1251-like transposase
+EFAEC_00804	CDS	2154		2.4.1.129		Penicillin binding protein transpeptidase domain protein
+EFAEC_00805	CDS	849				RpiR family transcriptional regulator
+EFAEC_00806	CDS	1941	thrS	6.1.1.3		threonyl-tRNA synthetase
+EFAEC_00807	CDS	180		5.3.2.-		4-oxalocrotonate tautomerase
+EFAEC_00808	CDS	1824		3.6.3.3		cadmium-translocating P-type ATPase
+EFAEC_00809	CDS	2280		3.6.1.-		DNA helicase IV
+EFAEC_00810	CDS	648				hypothetical protein
+EFAEC_00811	CDS	1296		2.7.7.-		ISL3 family transposase
+EFAEC_00812	CDS	720	yeeN		COG0217	putative transcriptional regulatory protein YeeN
+EFAEC_00813	CDS	1152		2.7.7.-		nucleotidyltransferase
+EFAEC_00814	CDS	741		2.1.1.-		methyltransferase domain protein
+EFAEC_00815	CDS	261				ribosome-associated protein
+EFAEC_00816	CDS	594				HD domain-containing protein
+EFAEC_00817	CDS	651	nadD	2.7.7.18		nicotinic acid mononucleotide adenylyltransferase
+EFAEC_00818	CDS	312	yhbY			RNA-binding protein YhbY
+EFAEC_00819	CDS	1110	yqeH			ribosome biogenesis GTPase YqeH
+EFAEC_00820	CDS	528		3.-.-.-		HAD superfamily hydrolase
+EFAEC_00821	CDS	786	accA	6.4.1.2		acetyl-CoA carboxylase, carboxyl transferase subunit alpha
+EFAEC_00822	CDS	870	accD	6.4.1.2		acetyl-CoA carboxylase, carboxyl transferase subunit beta
+EFAEC_00823	CDS	1380		6.4.1.2		acetyl-CoA carboxylase, biotin carboxylase subunit
+EFAEC_00824	CDS	420	fabZ2	4.2.1.-		(3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase
+EFAEC_00825	CDS	477				acetyl-CoA carboxylase, biotin carboxyl carrier protein
+EFAEC_00826	CDS	1236		2.3.1.179		beta-ketoacyl-acyl-carrier-protein synthase II
+EFAEC_00827	CDS	738		1.1.1.100		3-oxoacyl-ACP reductase
+EFAEC_00828	CDS	918		2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+EFAEC_00829	CDS	225				acyl carrier protein
+EFAEC_00830	CDS	963		2.3.1.180		3-oxoacyl-ACP synthase
+EFAEC_00831	CDS	441				MarR family transcriptional regulator
+EFAEC_00832	CDS	966		3.1.25.-		excinuclease ABC
+EFAEC_00833	CDS	231	ykuJ		COG4703	putative protein YkuJ
+EFAEC_00834	CDS	888		1.1.1.60		2-hydroxy-3-oxopropionate reductase
+EFAEC_00835	CDS	1224		2.4.-.-		glycosyl transferase family protein
+EFAEC_00836	CDS	1047		2.4.-.-		glycosyl transferase family protein
+EFAEC_00837	CDS	1728	ptsI	2.7.3.9		phosphoenolpyruvate-protein phosphotransferase
+EFAEC_00838	CDS	267	ptsH	2.7.11.-		phosphocarrier protein HPr
+EFAEC_00839	CDS	2097	clpE			UvrB/UvrC protein/AAA ATPase
+EFAEC_00840	CDS	321				hypothetical protein
+EFAEC_00841	CDS	225				hypothetical protein
+EFAEC_00842	CDS	1581	prfC			peptide chain release factor 3
+EFAEC_00843	CDS	1377				hemolysin
+EFAEC_00844	CDS	1119				permease
+EFAEC_00845	CDS	435		2.3.1.-		GNAT family acetyltransferase
+EFAEC_00846	CDS	534				hypothetical protein
+EFAEC_00847	CDS	1179		3.2.2.-		A/G-specific adenine glycosylase
+EFAEC_00848	CDS	798	recX			recombination regulator RecX
+EFAEC_00849	CDS	1383		2.1.1.-		23S rRNA (uracil-5-)-methyltransferase
+EFAEC_00850	CDS	579				chitin binding protein
+EFAEC_00851	CDS	471				TspO/MBR family protein
+EFAEC_00852	CDS	1227				transcriptional regulator
+EFAEC_00853	CDS	201	cspB			major cold shock protein CspA
+EFAEC_00854	CDS	609	sodA	1.15.1.1		superoxide dismutase
+EFAEC_00855	CDS	471				cell wall teichoic acid glycosylation protein GtcA family protein
+EFAEC_00856	CDS	900				cation diffusion facilitator family transporter
+EFAEC_00857	CDS	804				hypothetical protein
+EFAEC_00858	CDS	948		1.1.1.290		4-phosphoerythronate dehydrogenase
+EFAEC_00859	CDS	1548		2.7.7.-		IS66 family transposase
+EFAEC_00860	CDS	354		2.7.7.-		IS66 Orf2-like protein
+EFAEC_00861	CDS	195				hypothetical protein
+EFAEC_00862	CDS	294				HesB-like domain-containing protein
+EFAEC_00863	CDS	666				TrkA-C domain-containing protein
+EFAEC_00864	CDS	633				LuxR family DNA-binding response regulator
+EFAEC_00865	CDS	1068		2.7.13.3		sensor histidine kinase
+EFAEC_00866	CDS	732				membrane protein
+EFAEC_00867	CDS	480	greA			transcription elongation factor GreA
+EFAEC_00868	CDS	1176		4.1.3.38		putative aminodeoxychorismate lyase
+EFAEC_00869	CDS	1161		3.5.2.6		Beta-lactamase
+EFAEC_00870	CDS	1446		2.7.7.-		ISEfa7, transposase
+EFAEC_00871	CDS	948		4.2.1.46		NAD-dependent epimerase/dehydratase
+EFAEC_00872	CDS	1416		2.4.1.-		O-Antigen polymerase
+EFAEC_00873	CDS	1149	pglH_1	2.4.1.292	COG0438	GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1,4-N-acetyl-D-galactosaminyltransferase
+EFAEC_00874	CDS	1536				hypothetical protein
+EFAEC_00875	CDS	975	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+EFAEC_00876	CDS	966	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+EFAEC_00877	CDS	1068	rmlB_1	4.2.1.46		dTDP-glucose 4,6-dehydratase
+EFAEC_00878	CDS	702	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+EFAEC_00879	CDS	876				hypothetical protein
+EFAEC_00880	CDS	825	wbbD	2.4.1.303	COG0463	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase
+EFAEC_00881	CDS	1392		2.7.8.6		undecaprenyl-phosphate galactosephosphotransferase
+EFAEC_00882	CDS	960			COG2826	IS30 family transposase IS6770
+EFAEC_00883	CDS	2139		2.4.-.-		glycosyl transferase family protein
+EFAEC_00884	CDS	1587	metW			methionine biosynthesis protein MetW
+EFAEC_00885	CDS	1221				ABC transporter ATP-binding protein
+EFAEC_00886	CDS	807				ABC transporter
+EFAEC_00887	CDS	1281				hypothetical protein
+EFAEC_00888	CDS	2034				hypothetical protein
+EFAEC_00889	CDS	852		1.1.1.133		dTDP-4-dehydrorhamnose reductase
+EFAEC_00890	CDS	1029	rmlB_2	4.2.1.46		dTDP-glucose 4,6-dehydratase
+EFAEC_00891	CDS	573		5.1.3.13		dTDP-4-dehydrorhamnose 3,5-epimerase
+EFAEC_00892	CDS	867	rmlA	2.7.7.24		glucose-1-phosphate thymidylyltransferase
+EFAEC_00893	CDS	708		2.4.1.-		glycosyl transferase family protein
+EFAEC_00894	CDS	828		2.4.1.-		glycosyl transferase family protein
+EFAEC_00895	CDS	801		2.4.1.-		glycosyl transferase family protein
+EFAEC_00896	CDS	1140		2.4.-.-		glycoside hydrolase family protein
+EFAEC_00897	CDS	924		3.1.-.-		ribonuclease BN
+EFAEC_00898	CDS	765		3.4.11.18		Methionine aminopeptidase, type I
+EFAEC_00899	CDS	441				flavodoxin
+EFAEC_00900	CDS	570				TetR family transcriptional regulator
+EFAEC_00901	CDS	1233	pepS	3.4.11.-		aminopeptidase PepS
+EFAEC_00902	CDS	180				hypothetical protein
+EFAEC_00903	CDS	372				hypothetical protein
+EFAEC_00904	CDS	402				hypothetical protein
+EFAEC_00905	CDS	408				hypothetical protein
+EFAEC_00906	CDS	495		2.7.7.-		ISEnfa3, transposase
+EFAEC_00907	CDS	837		2.7.7.-		ISEfa8, transposase
+EFAEC_00908	CDS	291		2.7.7.-		ISEfa8, transposase
+EFAEC_00909	tRNA	74				tRNA-Met(cat)
+EFAEC_00910	CDS	1026		3.5.1.28		N-acetylmuramoyl-L-alanine amidase
+EFAEC_00911	CDS	225				putative holin
+EFAEC_00912	CDS	294				hypothetical protein
+EFAEC_00913	CDS	138				hypothetical protein
+EFAEC_00914	CDS	447				hypothetical protein
+EFAEC_00915	CDS	2067				hypothetical protein
+EFAEC_00916	CDS	783				hypothetical protein
+EFAEC_00917	CDS	1719				hypothetical protein
+EFAEC_00918	CDS	2832				hypothetical protein
+EFAEC_00919	CDS	789				hypothetical protein
+EFAEC_00920	CDS	3120				hypothetical protein
+EFAEC_00921	CDS	288				hypothetical protein
+EFAEC_00922	CDS	369				hypothetical protein
+EFAEC_00923	CDS	513				hypothetical protein
+EFAEC_00924	CDS	393				hypothetical protein
+EFAEC_00925	CDS	372				hypothetical protein
+EFAEC_00926	CDS	327				hypothetical protein
+EFAEC_00927	CDS	339				hypothetical protein
+EFAEC_00928	CDS	207				hypothetical protein
+EFAEC_00929	CDS	1008				hypothetical protein
+EFAEC_00930	CDS	354				hypothetical protein
+EFAEC_00931	CDS	642				hypothetical protein
+EFAEC_00932	CDS	174				hypothetical protein
+EFAEC_00933	CDS	954				hypothetical protein
+EFAEC_00934	CDS	264				hypothetical protein
+EFAEC_00935	CDS	231				hypothetical protein
+EFAEC_00936	CDS	1635				hypothetical protein
+EFAEC_00937	CDS	1302				hypothetical protein
+EFAEC_00938	CDS	456				hypothetical protein
+EFAEC_00939	CDS	225				hypothetical protein
+EFAEC_00940	CDS	180				prophage Lp2 protein 14
+EFAEC_00941	CDS	414				hypothetical protein
+EFAEC_00942	CDS	276				CRISPR associated protein Cas2
+EFAEC_00943	CDS	153				hypothetical protein
+EFAEC_00944	CDS	414				phage transcriptional regulator, ArpU family
+EFAEC_00945	CDS	297				ArpT protein
+EFAEC_00946	CDS	558				hypothetical protein
+EFAEC_00947	CDS	396				YopX protein
+EFAEC_00948	CDS	174				hypothetical protein
+EFAEC_00949	CDS	312		3.6.1.-		MazG nucleotide pyrophosphohydrolase domain protein
+EFAEC_00950	CDS	291				hypothetical protein
+EFAEC_00951	CDS	312				hypothetical protein
+EFAEC_00952	CDS	162				hypothetical protein
+EFAEC_00953	CDS	303				hypothetical protein
+EFAEC_00954	CDS	165				hypothetical protein
+EFAEC_00955	CDS	270				hypothetical protein
+EFAEC_00956	CDS	852				hypothetical protein
+EFAEC_00957	CDS	516				hypothetical protein
+EFAEC_00958	CDS	693				hypothetical protein
+EFAEC_00959	CDS	672				phage protein
+EFAEC_00960	CDS	342				hypothetical protein
+EFAEC_00961	CDS	147				hypothetical protein
+EFAEC_00962	CDS	174				hypothetical protein
+EFAEC_00963	CDS	189				hypothetical protein
+EFAEC_00964	CDS	285				hypothetical protein
+EFAEC_00965	CDS	300				hypothetical protein
+EFAEC_00966	CDS	204				Helix-turn-helix domain protein
+EFAEC_00967	CDS	747				anti-repressor protein
+EFAEC_00968	CDS	252				hypothetical protein
+EFAEC_00969	CDS	156				hypothetical protein
+EFAEC_00970	CDS	189				hypothetical protein
+EFAEC_00971	CDS	159				hypothetical protein
+EFAEC_00972	CDS	321				helix-turn-helix domain-containing protein
+EFAEC_00973	CDS	423				putative Zn peptidase
+EFAEC_00974	CDS	306				hypothetical protein
+EFAEC_00975	CDS	1140	xerC_5			site-specific tyrosine recombinase XerC-family protein
+EFAEC_00976	CDS	1626	groL			chaperonin GroL
+EFAEC_00977	CDS	285	groS			chaperonin GroS
+EFAEC_00978	CDS	663		3.4.-.-		CAAX amino terminal protease
+EFAEC_00979	CDS	1293		2.7.1.69		PTS system, lactose/cellobiose IIC component
+EFAEC_00980	CDS	630		1.5.1.30		NADH-flavin reductase
+EFAEC_00981	CDS	810	yycJ			metallo-beta-lactamase YycJ
+EFAEC_00982	CDS	870				YycH protein
+EFAEC_00983	CDS	1317				YycH protein
+EFAEC_00984	CDS	1836		2.7.13.3		PAS domain sensory box histidine kinase
+EFAEC_00985	CDS	705				DNA-binding response regulator
+EFAEC_00986	CDS	861				EDD domain-containing protein, DegV family
+EFAEC_00987	CDS	570				hypothetical protein
+EFAEC_00988	tRNA	73				tRNA-Lys(ctt)
+EFAEC_00989	CDS	318				integrase
+EFAEC_00990	CDS	585				Integrase core domain protein
+EFAEC_00991	CDS	147				hypothetical protein
+EFAEC_00992	CDS	339				Enterocin A Immunity protein
+EFAEC_00993	CDS	198				Class II bacteriocin
+EFAEC_00994	CDS	1728				Substrate binding domain of ABC-type glycine betaine transport system
+EFAEC_00995	CDS	1194		3.6.3.32		glycine betaine transporter ATP-binding subunit
+EFAEC_00996	CDS	645				GntR family transcriptional regulator
+EFAEC_00997	CDS	135				hypothetical protein
+EFAEC_00998	CDS	2133				ferrous iron transport protein B
+EFAEC_00999	CDS	474				ferrous iron transport protein A
+EFAEC_01000	CDS	225				glutaredoxin
+EFAEC_01001	CDS	2160		1.17.4.1		ribonucleoside-diphosphate reductase subunit alpha
+EFAEC_01002	CDS	966		1.17.4.1		ribonucleotide-diphosphate reductase, beta subunit
+EFAEC_01003	CDS	1140				pheromone autoinducer 2 transporter
+EFAEC_01004	CDS	714				MgtC family protein
+EFAEC_01005	CDS	702	nagB	3.5.99.6		glucosamine-6-phosphate deaminase
+EFAEC_01006	CDS	1533				ABC transporter ATP-binding protein
+EFAEC_01007	CDS	909		2.7.7.-		ISEfm1, transposase
+EFAEC_01008	CDS	1050				major facilitator family transporter
+EFAEC_01009	CDS	690				hypothetical protein
+EFAEC_01010	CDS	369	rplL			50S ribosomal protein L7/L12
+EFAEC_01011	CDS	504	rplJ			50S ribosomal protein L10
+EFAEC_01012	CDS	690	rplA			50S ribosomal protein L1
+EFAEC_01013	CDS	423	rplK			50S ribosomal protein L11
+EFAEC_01014	CDS	669		4.3.1.17		L-serine dehydratase, iron-sulfur-dependent subunit beta
+EFAEC_01015	CDS	873		4.3.1.17		L-serine dehydratase, iron-sulfur-dependent subunit alpha
+EFAEC_01016	CDS	1020		1.13.12.4		L-lactate oxidase
+EFAEC_01017	CDS	888				hypothetical protein
+EFAEC_01018	CDS	546	nusG			transcription termination/antitermination factor NusG
+EFAEC_01019	CDS	171				Preprotein translocase subunit SecE
+EFAEC_01020	CDS	153	rpmG2			50S ribosomal protein L33
+EFAEC_01021	CDS	645				transcriptional regulator
+EFAEC_01022	CDS	504				integral membrane protein
+EFAEC_01023	CDS	966		2.7.1.107		diacylglycerol kinase catalytic subunit
+EFAEC_01024	CDS	1173				ABC-2 family transporter protein
+EFAEC_01025	CDS	1146				ABC-2 family transporter protein
+EFAEC_01026	CDS	933	sagG			putative ABC transporter, ATP-binding protein SagG
+EFAEC_01027	CDS	1080		2.7.13.3		sensor histidine kinase
+EFAEC_01028	CDS	630				LuxR family DNA-binding response regulator
+EFAEC_01029	CDS	228				hypothetical protein
+EFAEC_01030	CDS	2589				RecD/TraA family helicase
+EFAEC_01031	CDS	660		5.4.2.1		phosphoglycerate mutase family protein
+EFAEC_01032	CDS	504		2.1.1.-		TrmH family RNA methyltransferase
+EFAEC_01033	CDS	867		2.1.1.-		methyltransferase domain protein
+EFAEC_01034	CDS	642	cutC			copper homeostasis protein CutC
+EFAEC_01035	CDS	1362	mgtE			magnesium transporter
+EFAEC_01036	CDS	900		5.4.99.-		ribosomal large subunit pseudouridine synthase
+EFAEC_01037	CDS	798	ppnK	2.7.1.23		inorganic polyphosphate/ATP-NAD kinase
+EFAEC_01038	CDS	705		2.7.6.5		GTP diphosphokinase
+EFAEC_01039	CDS	576		4.6.1.1		adenylate cyclase
+EFAEC_01040	CDS	678		5.3.4.1		dithiol-disulfide isomerase
+EFAEC_01041	CDS	912		2.7.7.-		IS1251-like transposase
+EFAEC_01042	CDS	387		2.7.7.-		IS1251-like transposase
+EFAEC_01043	CDS	1809		3.4.24.-		oligoendopeptidase F
+EFAEC_01044	CDS	999				competence protein CoiA-like family protein
+EFAEC_01045	CDS	654				MecA negative regulator of genetic competence
+EFAEC_01046	CDS	399	spxA			transcriptional regulator Spx
+EFAEC_01047	CDS	708		3.-.-.-		HAD superfamily hydrolase
+EFAEC_01048	CDS	3195				Snf2 family protein
+EFAEC_01049	CDS	3129	sbcC	3.1.11.-		exonuclease SbcC
+EFAEC_01050	CDS	1122	sbcD	3.1.11.-		exonuclease SbcD
+EFAEC_01051	CDS	624		2.3.1.-		acyltransferase
+EFAEC_01052	CDS	735		2.1.1.-		methyltransferase small domain-containing protein
+EFAEC_01053	CDS	285				GIY-YIG nuclease superfamily protein
+EFAEC_01054	CDS	1884		2.3.1.-		acyltransferase
+EFAEC_01055	CDS	876				integral membrane protein
+EFAEC_01056	CDS	1770	aspS	6.1.1.12		aspartyl-tRNA synthetase
+EFAEC_01057	CDS	1293	hisS	6.1.1.21		histidyl-tRNA synthetase
+EFAEC_01058	CDS	948		1.1.1.-		oxidoreductase, aldo/keto reductase family protein
+EFAEC_01059	CDS	1260		1.14.-.-		Cytochrome P450
+EFAEC_01060	CDS	447	dtd	3.1.-.-		D-tyrosyl-tRNA(Tyr) deacylase
+EFAEC_01061	CDS	2214	relA	2.7.6.5		GTP diphosphokinase
+EFAEC_01062	CDS	765	rsmE	2.1.1.-		16S ribosomal RNA methyltransferase RsmE
+EFAEC_01063	CDS	948	prmA	2.1.1.-		50S ribosomal protein L11 methyltransferase
+EFAEC_01064	CDS	489		3.2.2.-		DNA-3-methyladenine glycosylase
+EFAEC_01065	CDS	672		3.2.2.-		DNA-3-methyladenine glycosylase
+EFAEC_01066	CDS	1287	rarA			recombination factor protein RarA
+EFAEC_01067	CDS	285				hypothetical protein
+EFAEC_01068	CDS	480				universal stress protein
+EFAEC_01069	CDS	129				hypothetical protein
+EFAEC_01070	CDS	1584				ABC transporter ATP-binding protein
+EFAEC_01071	CDS	1185	ackA	2.7.2.1		acetate kinase
+EFAEC_01072	CDS	1008		2.1.1.72		adenine-specific methyltransferase
+EFAEC_01073	CDS	360				hypothetical protein
+EFAEC_01074	CDS	426				Competence protein ComGF
+EFAEC_01075	CDS	303				hypothetical protein
+EFAEC_01076	CDS	495				hypothetical protein
+EFAEC_01077	CDS	279				prepilin-type cleavage/methylation domain protein
+EFAEC_01078	CDS	1050				type II secretion system F domain protein
+EFAEC_01079	CDS	930				type II/IV secretion system protein
+EFAEC_01080	CDS	1755		3.5.4.2		adenine deaminase
+EFAEC_01081	CDS	663	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+EFAEC_01082	CDS	783		2.7.-.-		Phosphotransferase
+EFAEC_01083	CDS	1212	ecsB			Bacterial ABC transporter protein EcsB
+EFAEC_01084	CDS	738	ecsA			ABC transporter ATP-binding protein
+EFAEC_01085	CDS	435		3.-.-.-		histidine triad protein
+EFAEC_01086	CDS	345				YtxH-like protein
+EFAEC_01087	CDS	1011		5.2.1.8		Foldase protein prsA
+EFAEC_01088	CDS	945		3.1.-.-		3'-5' exoribonuclease yhaM
+EFAEC_01089	CDS	2721				hypothetical protein
+EFAEC_01090	CDS	1221		3.1.3.16		Ser/Thr protein phosphatase family protein
+EFAEC_01091	CDS	837		3.-.-.-		HAD superfamily hydrolase
+EFAEC_01092	rRNA	111				5S ribosomal RNA
+EFAEC_01093	rRNA	2911				23S ribosomal RNA
+EFAEC_01094	rRNA	1558				16S ribosomal RNA
+EFAEC_01095	CDS	1311		3.2.1.15		polygalacturonase
+EFAEC_01096	CDS	1419				transporter, major facilitator family protein
+EFAEC_01097	CDS	1569		3.2.1.-		glycosyl hydrolase family protein
+EFAEC_01098	CDS	411				hypothetical protein
+EFAEC_01099	CDS	924		3.1.1.11		pectinesterase
+EFAEC_01100	CDS	900		3.1.1.-		alpha/beta hydrolase family protein
+EFAEC_01101	CDS	1338		3.2.1.15		polygalacturonase
+EFAEC_01102	CDS	1104		3.2.1.-		Glycosyl Hydrolase Family 88
+EFAEC_01103	CDS	1509				extracellular solute-binding protein
+EFAEC_01104	CDS	693				integral membrane protein
+EFAEC_01105	CDS	975	yteP			ABC transporter permease
+EFAEC_01106	CDS	873	ytcP			ABC transporter permease
+EFAEC_01107	CDS	2199				AraC family transcriptional regulator
+EFAEC_01108	CDS	993				LacI family transcriptional regulator
+EFAEC_01109	CDS	1422		1.1.1.255		mannitol dehydrogenase protein
+EFAEC_01110	CDS	1500		4.2.1.7		altronate hydrolase
+EFAEC_01111	CDS	1395		5.3.1.12		glucuronate isomerase
+EFAEC_01112	CDS	684		3.1.1.47		GDSL-like Lipase/Acylhydrolase
+EFAEC_01113	CDS	837		4.2.99.18		AP endonuclease
+EFAEC_01114	CDS	1755				ABC transporter ATP-binding protein/permease
+EFAEC_01115	CDS	342				hypothetical protein
+EFAEC_01116	CDS	2172		2.4.2.-		penicillin-binding protein
+EFAEC_01117	CDS	858		5.4.99.-		23S rRNA pseudouridine synthase D
+EFAEC_01118	CDS	858		2.7.1.4		fructokinase
+EFAEC_01119	CDS	2703		3.2.1.-		glycosyl hydrolase family 38 protein
+EFAEC_01120	CDS	1290				hypothetical protein
+EFAEC_01121	CDS	1047				GntR family transcriptional regulator
+EFAEC_01122	CDS	2154		3.2.1.-		alpha-1,2-mannosidase
+EFAEC_01123	CDS	1446				AraC family transcriptional regulator
+EFAEC_01124	CDS	1725		2.7.13.3		sensor histidine kinase
+EFAEC_01125	CDS	615				integral membrane protein
+EFAEC_01126	CDS	1458				extracellular solute-binding protein
+EFAEC_01127	CDS	921				ABC transporter permease
+EFAEC_01128	CDS	948				ABC transporter permease
+EFAEC_01129	CDS	720		5.4.99.-		16S rRNA pseudouridylate synthase A
+EFAEC_01130	CDS	1647				polysaccharide biosynthesis family protein
+EFAEC_01131	CDS	591				integral membrane protein
+EFAEC_01132	CDS	1506		6.3.2.7		UDP-N-acetylmuramoylalanyl-D-glutamate--L- lysine ligase
+EFAEC_01133	CDS	1353		2.7.1.69		PTS system cellobiose-specific transporter subunit IIC
+EFAEC_01134	CDS	519				hypothetical protein
+EFAEC_01135	CDS	327		2.7.1.-		PTS system, cellobiose-specific IIA componenent
+EFAEC_01136	CDS	1980				transcriptional antiterminator bglG
+EFAEC_01137	CDS	315		2.7.1.69		PTS system cellobiose-specific transporter subunit IIB
+EFAEC_01138	CDS	294				antibiotic biosynthesis monooxygenase
+EFAEC_01139	CDS	1071				hypothetical protein
+EFAEC_01140	CDS	1020				B-type Cna protein
+EFAEC_01141	CDS	2793				B-type Cna protein
+EFAEC_01142	CDS	225				putative site-specific integrase-resolvase
+EFAEC_01143	CDS	762				MerR family transcriptional regulator
+EFAEC_01144	CDS	1722				ABC transporter ATP-binding protein
+EFAEC_01145	CDS	1785				ABC transporter ATP-binding protein
+EFAEC_01146	CDS	1554		3.2.1.-		glycosyl hydrolase
+EFAEC_01147	CDS	2415	leuS	6.1.1.4		leucyl-tRNA synthetase
+EFAEC_01148	CDS	2019		3.2.1.17		N-acetylmuramoyl-L-alanine amidase
+EFAEC_01149	CDS	657				PAP2 family protein
+EFAEC_01150	CDS	957				radical SAM protein family protein
+EFAEC_01151	CDS	567				rRNA methylase family protein
+EFAEC_01152	CDS	1770				ABC transporter ATP-binding protein
+EFAEC_01153	CDS	1713				ABC transporter ATP-binding protein
+EFAEC_01154	CDS	669				TetR family transcriptional regulator
+EFAEC_01155	CDS	789		3.1.1.3		esterase
+EFAEC_01156	CDS	1473				major facilitator superfamily transporter
+EFAEC_01157	CDS	1296		2.7.7.-		ISL3 family transposase
+EFAEC_01158	CDS	1194	metK	2.5.1.6		S-adenosylmethionine synthetase
+EFAEC_01159	tRNA	74				tRNA-Glu(ttc)
+EFAEC_01160	tRNA	76				tRNA-Ile(gat)
+EFAEC_01161	tRNA	71				tRNA-Gly(tcc)
+EFAEC_01162	tRNA	75				tRNA-Phe(gaa)
+EFAEC_01163	tRNA	75				tRNA-Asp(gtc)
+EFAEC_01164	tRNA	76				tRNA-Met(cat)
+EFAEC_01165	tRNA	90				tRNA-Ser(tga)
+EFAEC_01166	tRNA	74				tRNA-Glu(ttc)
+EFAEC_01167	tRNA	90				tRNA-Ser(gct)
+EFAEC_01168	tRNA	76				tRNA-Ile(gat)
+EFAEC_01169	tRNA	71				tRNA-Gly(tcc)
+EFAEC_01170	tRNA	76				tRNA-Asp(gtc)
+EFAEC_01171	tRNA	76				tRNA-Met(cat)
+EFAEC_01172	tRNA	90				tRNA-Ser(tga)
+EFAEC_01173	tRNA	76				tRNA-Met(cat)
+EFAEC_01174	tRNA	76				tRNA-Met(cat)
+EFAEC_01175	tRNA	73				tRNA-Ala(tgc)
+EFAEC_01176	tRNA	74				tRNA-Pro(tgg)
+EFAEC_01177	tRNA	76				tRNA-Arg(acg)
+EFAEC_01178	tRNA	86				tRNA-Leu(taa)
+EFAEC_01179	tRNA	72				tRNA-Gly(gcc)
+EFAEC_01180	tRNA	76				tRNA-Thr(tgt)
+EFAEC_01181	tRNA	84				tRNA-Leu(tag)
+EFAEC_01182	tRNA	75				tRNA-Lys(ttt)
+EFAEC_01183	tRNA	75				tRNA-Val(tac)
+EFAEC_01184	rRNA	111				5S ribosomal RNA
+EFAEC_01185	rRNA	2911				23S ribosomal RNA
+EFAEC_01186	tRNA	73				tRNA-Ala(tgc)
+EFAEC_01187	rRNA	1557				16S ribosomal RNA
+EFAEC_01188	CDS	1296		2.7.7.-		ISL3 family transposase
+EFAEC_01189	CDS	1497	lysS	6.1.1.6		lysyl-tRNA synthetase
+EFAEC_01190	CDS	1005		1.-.-.-		tRNA-dihydrouridine synthase
+EFAEC_01191	CDS	888	hslO			chaperonin HslO
+EFAEC_01192	CDS	2112	hflB	3.4.24.-		ATP-dependent metalloprotease
+EFAEC_01193	CDS	546	hpt	2.4.2.8		Hypoxanthine-guanine phosphoribosyltransferase
+EFAEC_01194	CDS	1455		6.3.4.-		tRNA(Ile)-lysidine synthase
+EFAEC_01195	CDS	471				S1 RNA binding domain-containing protein
+EFAEC_01196	CDS	426				septum formation initiator
+EFAEC_01197	CDS	270				S4 RNA-binding domain-containing protein
+EFAEC_01198	CDS	1596				polysaccharide biosynthesis family protein
+EFAEC_01199	CDS	3522		3.6.1.-		transcription-repair coupling factor
+EFAEC_01200	CDS	561		3.1.1.29		Peptidyl-tRNA hydrolase
+EFAEC_01201	CDS	975	ldh1	1.1.1.27		L-lactate dehydrogenase
+EFAEC_01202	CDS	1401				ErfK/YbiS/YcfS/YnhG family protein
+EFAEC_01203	CDS	723			COG0217	putative transcriptional regulatory protein
+EFAEC_01204	CDS	507				integral membrane protein
+EFAEC_01205	CDS	1800		3.4.24.-		oligoendopeptidase, PepF/M3 family
+EFAEC_01206	CDS	1575				NlpC/P60 family lipoprotein
+EFAEC_01207	CDS	510	mreD			rod shape-determining protein MreD
+EFAEC_01208	CDS	855	mreC			rod shape-determining protein MreC
+EFAEC_01209	CDS	639		2.7.6.2		thiamin pyrophosphokinase family protein
+EFAEC_01210	CDS	651		5.1.3.1		Ribulose-phosphate 3-epimerase
+EFAEC_01211	CDS	900	rsgA	3.6.1.-		Putative ribosome biogenesis GTPase RsgA
+EFAEC_01212	CDS	2070		2.7.11.1		serine/threonine-protein kinase
+EFAEC_01213	CDS	741		3.1.3.16		serine/threonine phosphatase
+EFAEC_01214	CDS	1359		2.1.1.-		Ribosomal RNA small subunit methyltransferase B
+EFAEC_01215	CDS	939	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+EFAEC_01216	CDS	492		3.5.1.88		Peptide deformylase
+EFAEC_01217	CDS	2409		3.6.1.-		Primosomal protein N'
+EFAEC_01218	CDS	306	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+EFAEC_01219	CDS	615	gmk	2.7.4.8		guanylate kinase
+EFAEC_01220	CDS	285				hypothetical protein
+EFAEC_01221	CDS	891				hypothetical protein
+EFAEC_01222	CDS	219				hypothetical protein
+EFAEC_01223	CDS	1701		3.1.1.-		phospholipase, patatin family
+EFAEC_01224	CDS	774				hypothetical protein
+EFAEC_01225	CDS	570				membrane protein
+EFAEC_01226	CDS	972	prs1	2.7.6.1		Ribose-phosphate pyrophosphokinase 1
+EFAEC_01227	CDS	1374	glmU	2.7.7.23		bifunctional N-acetylglucosamine-1-phosphate / uridyltransferase/glucosamine-1-phosphate acetyltransferase
+EFAEC_01228	CDS	819				pur operon repressor
+EFAEC_01229	CDS	825				ABC transporter permease
+EFAEC_01230	CDS	681	adcC			ABC transporter ATP-binding protein
+EFAEC_01231	CDS	939				periplasmic solute binding family protein
+EFAEC_01232	CDS	846	ispE	2.7.1.148		4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+EFAEC_01233	CDS	2574		6.1.1.6		ysyl-tRNA synthetase
+EFAEC_01234	CDS	807		1.5.1.2		delta 1-pyrroline-5-carboxylate reductase
+EFAEC_01235	CDS	1557	rny	3.1.4.16		2',3'-cyclic-nucleotide 2'-phosphodiesterase
+EFAEC_01236	CDS	1050	recA	3.1.-.-		DNA recombination protein RecA
+EFAEC_01237	CDS	1242				competence/damage-inducible protein CinA protein
+EFAEC_01238	CDS	579		2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+EFAEC_01239	CDS	885				hypothetical protein
+EFAEC_01240	CDS	1287		3.4.-.-		peptidase M16 inactive domain protein
+EFAEC_01241	CDS	1269		3.4.-.-		Peptidase M16 inactive domain protein
+EFAEC_01242	CDS	462				large conductance mechanosensitive channel protein
+EFAEC_01243	CDS	447		2.3.1.-		GNAT family acetyltransferase
+EFAEC_01244	CDS	246				veg family protein
+EFAEC_01245	CDS	579				RNA polymerase sigma-70 factor family protein
+EFAEC_01246	CDS	531				putative RNA-binding protein containing a PIN domain protein
+EFAEC_01247	CDS	861		2.1.1.-		trmH family tRNA/rRNA methyltransferase
+EFAEC_01248	CDS	396		3.1.26.3		ribonuclease III
+EFAEC_01249	CDS	1413	cysS	6.1.1.16		cysteinyl-tRNA synthetase
+EFAEC_01250	CDS	537		2.3.1.30		Serine O-acetyltransferase
+EFAEC_01251	CDS	1461	gltX	6.1.1.17		glutamyl-tRNA synthetase
+EFAEC_01252	CDS	1158				Integral membrane protein
+EFAEC_01253	CDS	1371	radA			DNA repair protein RadA
+EFAEC_01254	CDS	528		3.6.1.23		deoxyuridine 5'-triphosphate nucleotidohydrolase
+EFAEC_01255	CDS	807	proB	2.7.2.11		glutamate 5-kinase
+EFAEC_01256	CDS	1248	proA	1.2.1.41		gamma-glutamyl phosphate reductase
+EFAEC_01257	CDS	345				hypothetical protein
+EFAEC_01258	CDS	327				hypothetical protein
+EFAEC_01259	CDS	933				major facilitator superfamily transporter
+EFAEC_01260	CDS	270				major facilitator superfamily transporter
+EFAEC_01261	CDS	516				PadR family transcriptional regulator
+EFAEC_01262	CDS	447				hypothetical protein
+EFAEC_01263	CDS	1479				ABC transporter ATP-binding protein
+EFAEC_01264	CDS	240		1.6.99.-		nitroreductase family protein
+EFAEC_01265	CDS	393		1.6.99.-		nitroreductase family protein
+EFAEC_01266	CDS	465				ArsR family transcriptional regulator
+EFAEC_01267	CDS	1269		3.2.1.96		mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase
+EFAEC_01268	CDS	738		1.1.1.-		short chain dehydrogenase/reductase family oxidoreductase
+EFAEC_01269	CDS	570		2.3.1.-		maltose O-acetyltransferase family protein
+EFAEC_01270	CDS	873				LysR family transcriptional regulator
+EFAEC_01271	CDS	873				BglG family transcriptional antiterminator
+EFAEC_01272	CDS	1959		2.7.1.69		PTS system, N-acetylglucosamine-specific IICBA component
+EFAEC_01273	CDS	99				hypothetical protein
+EFAEC_01274	CDS	852				NmrA-like family protein
+EFAEC_01275	CDS	468				Rrf2 family protein
+EFAEC_01276	CDS	483				Bacterial transcription activator
+EFAEC_01277	CDS	864				AraC family transcriptional regulator
+EFAEC_01278	CDS	849				hypothetical protein
+EFAEC_01279	CDS	342		2.7.1.-		D-xylulose kinase
+EFAEC_01280	CDS	708	azlC			azaleucine resistance protein AzlC
+EFAEC_01281	CDS	324				branched-chain amino acid transport protein
+EFAEC_01282	CDS	1038		1.-.-.-		zinc-binding alcohol dehydrogenase family protein
+EFAEC_01283	CDS	984	dus2	1.-.-.-		tRNA-dihydrouridine synthase
+EFAEC_01284	CDS	771	yadH			ABC transporter permease
+EFAEC_01285	CDS	936	yadG			ABC transporter ATP-binding protein
+EFAEC_01286	CDS	108				hypothetical protein
+EFAEC_01287	CDS	1650				DNA mismatch repair protein
+EFAEC_01288	CDS	897		2.7.13.3		sensor histidine kinase
+EFAEC_01289	CDS	660				response regulator receiver domain protein
+EFAEC_01290	CDS	783				ABC-2 family transporter protein
+EFAEC_01291	CDS	918	bcrA			bacitracin transport ATP-binding protein BcrA
+EFAEC_01292	CDS	216				hypothetical protein
+EFAEC_01293	CDS	3228				LPXTG-motif protein cell wall anchor domain protein
+EFAEC_01294	CDS	315				hypothetical protein
+EFAEC_01295	CDS	375				hypothetical protein
+EFAEC_01296	CDS	336				hypothetical protein
+EFAEC_01297	CDS	1146				FtsK/SpoIIIE family protein
+EFAEC_01298	CDS	1860		3.1.25.-		HNH endonuclease domain protein
+EFAEC_01299	CDS	240				FtsK/SpoIIIE family protein
+EFAEC_01300	CDS	675				zeta toxin
+EFAEC_01301	CDS	165				hypothetical protein
+EFAEC_01302	CDS	435				C-5 cytosine-specific DNA methylase
+EFAEC_01303	CDS	708				C-5 cytosine-specific DNA methylase
+EFAEC_01304	CDS	291				hypothetical protein
+EFAEC_01305	CDS	1185				helix-turn-helix domain-containing protein
+EFAEC_01306	CDS	138				hypothetical protein
+EFAEC_01307	CDS	1911		3.1.25.-		HNH endonuclease domain protein
+EFAEC_01308	CDS	504				antirestriction protein
+EFAEC_01309	CDS	390				conjugative transposon membrane protein
+EFAEC_01310	CDS	2448				ATP/GTP-binding protein
+EFAEC_01311	CDS	2124				amino acid transporter
+EFAEC_01312	CDS	1005				NLP/P60 family lipoprotein
+EFAEC_01313	CDS	912				conjugative transposon protein
+EFAEC_01314	CDS	216				hypothetical protein
+EFAEC_01315	CDS	1440				drug resistance MFS transporter, drug:H+ antiporter-2 (DHA2) family protein
+EFAEC_01316	CDS	633				hypothetical protein
+EFAEC_01317	CDS	1452		3.4.-.-		peptidase, M23 family
+EFAEC_01318	CDS	1344		1.-.-.-		pyridine nucleotide-disulfide oxidoreductase
+EFAEC_01319	CDS	5928	esp			Enterococcal surface protein
+EFAEC_01320	CDS	435				hypothetical protein
+EFAEC_01321	CDS	1206				transcriptional regulator, AraC family
+EFAEC_01322	CDS	387				hypothetical protein
+EFAEC_01323	CDS	192				RNA polymerase factor sigma-70
+EFAEC_01324	CDS	195		2.7.7.-		transposase
+EFAEC_01325	CDS	189		2.7.7.-		transposase
+EFAEC_01326	CDS	1128		2.7.7.-		ISL3 family transposase
+EFAEC_01327	CDS	1617				CobW/P47K family protein
+EFAEC_01328	CDS	219				transposase
+EFAEC_01329	CDS	240				hypothetical protein
+EFAEC_01330	CDS	1524				periplasmic solute binding family protein
+EFAEC_01331	CDS	123				hypothetical protein
+EFAEC_01332	CDS	984				cobalamin synthesis protein
+EFAEC_01333	CDS	150	rpmG1			50S ribosomal protein L33
+EFAEC_01334	CDS	378				hypothetical protein
+EFAEC_01335	CDS	180	rpmF2			50S ribosomal protein L32
+EFAEC_01336	CDS	270	rpsN1			30S ribosomal protein S14
+EFAEC_01337	CDS	1743				ABC transporter, ATP-binding protein
+EFAEC_01338	CDS	1755				ABC transporter ATP-binding protein
+EFAEC_01339	CDS	570				hypothetical protein
+EFAEC_01340	CDS	1416				ABC transporter ATP-binding protein
+EFAEC_01341	CDS	669				Cobalt transport protein
+EFAEC_01342	CDS	519				transcriptional regulator
+EFAEC_01343	CDS	93				hypothetical protein
+EFAEC_01344	CDS	234				iron dependent repressor, DNA binding domain protein
+EFAEC_01345	CDS	951	mtsA			adhesion lipoprotein
+EFAEC_01346	CDS	843				metal ion ABC transporter permease
+EFAEC_01347	CDS	1188		2.7.7.-		transposase
+EFAEC_01348	CDS	741				ABC transporter ATP-binding protein
+EFAEC_01349	CDS	1227	xerC_6			site-specific tyrosine recombinase XerC-family protein
+EFAEC_01350	CDS	393	rpsI			30S ribosomal protein S9
+EFAEC_01351	CDS	444	rplM			50S ribosomal protein L13
+EFAEC_01352	CDS	468		1.16.-.-		DNA protection during starvation protein 1
+EFAEC_01353	CDS	1539		2.7.1.12		gluconate kinase
+EFAEC_01354	CDS	687		3.4.-.-		bacterial Peptidase A24 protein
+EFAEC_01355	CDS	528		1.8.4.11		Peptide methionine sulfoxide reductase msrA
+EFAEC_01356	CDS	678		5.4.2.6		beta-phosphoglucomutase
+EFAEC_01357	CDS	1131		2.7.1.31		glycerate kinase
+EFAEC_01358	CDS	2184		3.2.1.-		glycosyl hydrolase family protein
+EFAEC_01359	CDS	1026		1.-.-.-		oxidoreductase family, NAD-binding Rossmann fold protein
+EFAEC_01360	CDS	828	ycjR	4.2.99.18		AP endonuclease
+EFAEC_01361	CDS	1068	ycjQ	1.-.-.-		oxidoreductase, zinc-binding dehydrogenase family protein
+EFAEC_01362	CDS	837	ycjP			ABC transporter permease
+EFAEC_01363	CDS	870	ycjO			ABC transporter permease
+EFAEC_01364	CDS	1284				extracellular solute-binding protein
+EFAEC_01365	CDS	1686				alpha amylase
+EFAEC_01366	CDS	1026				LacI family transcriptional regulator
+EFAEC_01367	CDS	3654	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+EFAEC_01368	CDS	3618	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+EFAEC_01369	CDS	969				ABC transporter substrate-binding protein
+EFAEC_01370	CDS	906				amino acid or sugar ABC transport system, permease protein
+EFAEC_01371	CDS	807				ABC transporter ATP-binding protein
+EFAEC_01372	CDS	969		6.3.4.15		biotin-[acetyl-CoA-carboxylase] ligase
+EFAEC_01373	CDS	525				hypothetical protein
+EFAEC_01374	CDS	1983				cell wall surface adhesion protein
+EFAEC_01375	CDS	987		2.5.1.10		polyprenyl synthetase
+EFAEC_01376	CDS	567		2.5.1.30		Heptaprenyl diphosphate synthase component I
+EFAEC_01377	CDS	417				CobW/P47K family protein
+EFAEC_01378	CDS	1935		1.-.-.-		pyridine nucleotide-disulfide family oxidoreductase
+EFAEC_01379	CDS	957				FMN-binding domain-containing protein
+EFAEC_01380	CDS	1104				ApbE family protein
+EFAEC_01381	CDS	954		2.5.1.-		prenyltransferase, UbiA family
+EFAEC_01382	CDS	1347		1.8.1.7		Glutathione reductase
+EFAEC_01383	CDS	1251		3.4.-.-		peptidase, U32 family
+EFAEC_01384	CDS	924		3.4.-.-		peptidase, U32 family
+EFAEC_01385	CDS	2493				negative regulator of genetic competence ClpC/MecB
+EFAEC_01386	CDS	468				firmicute transcriptional repressor of class III stress
+EFAEC_01387	tRNA	77				tRNA-Arg(acg)
+EFAEC_01388	tRNA	74				tRNA-Pro(tgg)
+EFAEC_01389	tRNA	76				tRNA-Arg(acg)
+EFAEC_01390	tRNA	86				tRNA-Leu(taa)
+EFAEC_01391	tRNA	72				tRNA-Gly(gcc)
+EFAEC_01392	tRNA	76				tRNA-Thr(tgt)
+EFAEC_01393	tRNA	84				tRNA-Leu(tag)
+EFAEC_01394	tRNA	75				tRNA-Lys(ttt)
+EFAEC_01395	tRNA	75				tRNA-Val(tac)
+EFAEC_01396	rRNA	111				5S ribosomal RNA
+EFAEC_01397	rRNA	2911				23S ribosomal RNA
+EFAEC_01398	rRNA	1558				16S ribosomal RNA
+EFAEC_01399	CDS	690	vanR_1			putative regulatory protein VanR
+EFAEC_01400	CDS	1209		2.7.13.3		histidine kinase
+EFAEC_01401	CDS	1272	serS2	6.1.1.11		seryl-tRNA synthetase
+EFAEC_01402	CDS	1485	guaB	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+EFAEC_01403	CDS	696				hypothetical protein
+EFAEC_01404	CDS	1101	engD			translation-associated GTPase
+EFAEC_01405	CDS	192				translation-associated GTPase
+EFAEC_01406	CDS	891				ParB family chromosome partitioning protein
+EFAEC_01407	CDS	768	soj			sporulation initiation inhibitor protein Soj
+EFAEC_01408	CDS	714	rsmG	2.1.1.-		Ribosomal RNA small subunit methyltransferase G
+EFAEC_01409	CDS	1902	gidA			tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+EFAEC_01410	CDS	1398	mnmE	3.6.-.-		tRNA modification GTPase MnmE
+EFAEC_01411	CDS	339				hypothetical protein
+EFAEC_01412	CDS	759				r3H domain protein
+EFAEC_01413	CDS	819	oxaA			putative stage III sporulation protein J
+EFAEC_01414	CDS	357	rnpA	3.1.26.5		Ribonuclease P protein component
+EFAEC_01415	CDS	135				50S ribosomal protein L34
+EFAEC_01416	CDS	1335	dnaA			chromosomal replication initiation protein, DnaA
+EFAEC_01417	CDS	1131	dnaB	2.7.7.7		DNA polymerase III subunit beta, DnaB
+EFAEC_01418	CDS	309	yaaA			S4 domain protein, YaaA
+EFAEC_01419	CDS	1125	recF			recombination protein F, RecF
+EFAEC_01420	CDS	1947	gyrB	5.99.1.3		DNA gyrase subunit B, GyrB
+EFAEC_01421	CDS	2472	gyrA	5.99.1.3		DNA gyrase, A subunit, GyrA
+EFAEC_01422	CDS	300	rpsF			30S ribosomal protein S6
+EFAEC_01423	CDS	513				single-strand binding protein
+EFAEC_01424	CDS	237	rpsR			30S ribosomal protein S18
+EFAEC_01425	CDS	1974				DHH family protein
+EFAEC_01426	CDS	453	rplI			50S ribosomal protein L9
+EFAEC_01427	CDS	1368		3.6.1.-		replicative DNA helicase
+EFAEC_01428	CDS	1293	purA	6.3.4.4		adenylosuccinate synthetase
+EFAEC_01429	CDS	864				DegV family protein
+EFAEC_01430	CDS	1623	ykpA			ABC transporter ATP-binding protein
+EFAEC_01431	CDS	522				acid-resistance membrane protein
+EFAEC_01432	CDS	1731		1.2.3.3		pyruvate oxidase
+EFAEC_01433	CDS	819	zupT			zinc transporter ZupT
+EFAEC_01434	CDS	198				hypothetical protein
+EFAEC_01435	CDS	579				integral membrane protein
+EFAEC_01436	CDS	138				hypothetical protein
+EFAEC_01437	CDS	504				VanZ like family protein
+EFAEC_01438	CDS	1026				hypothetical protein
+EFAEC_01439	CDS	864				hypothetical protein
+EFAEC_01440	CDS	378				hypothetical protein
+EFAEC_01441	CDS	231				hypothetical protein
+EFAEC_01442	CDS	207				hypothetical protein
+EFAEC_01443	CDS	372				hypothetical protein
+EFAEC_01444	CDS	693		3.-.-.-		HAD superfamily hydrolase
+EFAEC_01445	CDS	786				DeoR-like helix-turn-helix protein
+EFAEC_01446	CDS	1401		3.2.1.85		6-phospho-beta-galactosidase
+EFAEC_01447	CDS	318		2.7.1.-		PTS system, lactose/cellobiose-specific IIA component
+EFAEC_01448	CDS	1674		2.7.1.69		PTS system, lactose/cellobiose-specific IICB component
+EFAEC_01449	CDS	1632		3.2.1.-		Glycosyl hydrolase family 53
+EFAEC_01450	CDS	1566		6.3.5.2		GMP synthase
+EFAEC_01451	CDS	924	coaA	2.7.1.33		pantothenate kinase
+EFAEC_01452	CDS	606				16S rRNA small subunit methyltransferase C
+EFAEC_01453	CDS	1017				LacI family transcriptional regulator
+EFAEC_01454	CDS	1302	pdp	2.4.2.2		pyrimidine-nucleoside phosphorylase
+EFAEC_01455	CDS	663	deoC	4.1.2.4		deoxyribose-phosphate aldolase
+EFAEC_01456	CDS	399		3.5.4.5		cytidine deaminase
+EFAEC_01457	CDS	1083				Basic membrane lipopprotein
+EFAEC_01458	CDS	1563	yufO			ABC transporter ATP-binding protein
+EFAEC_01459	CDS	1134				ABC transporter permease
+EFAEC_01460	CDS	957				ABC transporter permease
+EFAEC_01461	CDS	1167	deoB	5.4.2.7		phosphopentomutase
+EFAEC_01462	CDS	819		2.4.2.1		purine nucleoside phosphorylase
+EFAEC_01463	CDS	708		2.4.2.1		purine nucleoside phosphorylase
+EFAEC_01464	CDS	687	gpmA	5.4.2.1		phosphoglycerate mutase
+EFAEC_01465	CDS	582				resolvase family site-specific recombinase
+EFAEC_01466	CDS	684	rpiA	5.3.1.6		ribose 5-phosphate isomerase A
+EFAEC_01467	CDS	414	rpsL			30S ribosomal protein S12
+EFAEC_01468	CDS	471	rpsG			30S ribosomal protein S7
+EFAEC_01469	CDS	2088	fusA			translation elongation factor G
+EFAEC_01470	CDS	1188	tuf_2			elongation factor Tu
+EFAEC_01471	CDS	309	rpsJ			30S ribosomal protein S10
+EFAEC_01472	CDS	630	rplC			50S ribosomal protein L3
+EFAEC_01473	CDS	624	rplD			50S ribosomal protein L4
+EFAEC_01474	CDS	291	rplW			50S ribosomal protein L23
+EFAEC_01475	CDS	834	rplB			50S ribosomal protein L2
+EFAEC_01476	CDS	279	rpsS			30S ribosomal protein S19
+EFAEC_01477	CDS	348	rplV			50S ribosomal protein L22
+EFAEC_01478	CDS	657	rpsC			30S ribosomal protein S3
+EFAEC_01479	CDS	435	rplP			50S ribosomal protein L16
+EFAEC_01480	CDS	189	rpmC			50S ribosomal protein L29
+EFAEC_01481	CDS	267	rpsQ			30S ribosomal protein S17
+EFAEC_01482	CDS	369	rplN			50S ribosomal protein L14
+EFAEC_01483	CDS	309	rplX			50S ribosomal protein L24
+EFAEC_01484	CDS	540	rplE			50S ribosomal protein L5
+EFAEC_01485	CDS	186	rpsZ			30S ribosomal protein S14
+EFAEC_01486	CDS	399	rpsH			30S ribosomal protein S8
+EFAEC_01487	CDS	537	rplF			50S ribosomal protein L6
+EFAEC_01488	CDS	357	rplR			50S ribosomal protein L18
+EFAEC_01489	CDS	501	rpsE			30S ribosomal protein S5
+EFAEC_01490	CDS	180	rpmD			50S ribosomal protein L30
+EFAEC_01491	CDS	441	rplO			50S ribosomal protein L15
+EFAEC_01492	CDS	1296	secY			preprotein translocase subunit SecY
+EFAEC_01493	CDS	648	adk	2.7.4.3		adenylate kinase
+EFAEC_01494	CDS	219	infA			translation initiation factor IF-1
+EFAEC_01495	CDS	117				50S ribosomal protein L36
+EFAEC_01496	CDS	366	rpsM			30S ribosomal protein S13
+EFAEC_01497	CDS	390	rpsK			30S ribosomal protein S11
+EFAEC_01498	CDS	939	rpoA	2.7.7.6		DNA-directed RNA polymerase subunit alpha
+EFAEC_01499	CDS	381	rplQ			50S ribosomal protein L17
+EFAEC_01500	CDS	840	cbiO_1	3.6.3.-		cobalt import ATP-binding protein CbiO
+EFAEC_01501	CDS	870	cbiO_2	3.6.3.-		cobalt import ATP-binding protein CbiO 2
+EFAEC_01502	CDS	798	cbiQ			cobalt transport family protein
+EFAEC_01503	CDS	747		5.4.99.12		tRNA pseudouridine synthase A
+EFAEC_01504	CDS	807				hypothetical protein
+EFAEC_01505	CDS	369	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+EFAEC_01506	CDS	1173				transposase, Mutator family
+EFAEC_01507	CDS	1179		2.7.7.-		ISEf1, transposase
+EFAEC_01508	CDS	339				hypothetical protein
+EFAEC_01509	CDS	549				hypothetical protein
+EFAEC_01510	CDS	660				hypothetical protein
+EFAEC_01511	CDS	909				ISEfm1, transposase
+EFAEC_01512	CDS	2670	yfhO			Bacterial membrane protein YfhO
+EFAEC_01513	CDS	189	rpmB			50S ribosomal protein L28
+EFAEC_01514	CDS	363				alkaline-shock protein
+EFAEC_01515	CDS	1683	yloV			DAK2 domain fusion protein YloV
+EFAEC_01516	CDS	2037	recG	3.6.1.-		ATP-dependent DNA helicase RecG
+EFAEC_01517	CDS	1002	plsX	2.3.1.-		fatty acid/phospholipid synthesis protein PlsX
+EFAEC_01518	CDS	243				acyl carrier protein
+EFAEC_01519	CDS	1188		2.7.7.-		transposase
+EFAEC_01520	CDS	1005		3.6.3.-		peptide ABC transporter ATP-binding protein
+EFAEC_01521	CDS	945	oppF	3.6.3.-		peptide ABC transporter ATP-binding protein
+EFAEC_01522	CDS	963				ABC transporter permease
+EFAEC_01523	CDS	915				ABC transporter permease
+EFAEC_01524	CDS	1782				family 5 extracellular solute-binding protein
+EFAEC_01525	CDS	687	rnc	3.1.26.3		ribonuclease III
+EFAEC_01526	CDS	3582				chromosome partition protein SMC
+EFAEC_01527	CDS	810		3.-.-.-		HAD superfamily hydrolase
+EFAEC_01528	CDS	999	ftsY			signal recognition particle-docking protein FtsY
+EFAEC_01529	CDS	2268		6.3.2.2		bifunctional glutamate--cysteine ligase/glutathione synthetase
+EFAEC_01530	CDS	453	yueI		COG5506	putative protein YueI
+EFAEC_01531	CDS	951				iron ABC transporter system permease
+EFAEC_01532	CDS	960				iron ABC transporter system permease
+EFAEC_01533	CDS	756	yclP	3.6.3.-		iron ABC transporter ATP-binding protein
+EFAEC_01534	CDS	954				iron ABC transporter substrate-binding protein
+EFAEC_01535	CDS	108				hypothetical protein
+EFAEC_01536	CDS	954				Integrase
+EFAEC_01537	CDS	189				hypothetical protein
+EFAEC_01538	CDS	1173				transposase, Mutator family
+EFAEC_01539	CDS	357				hypothetical protein
+EFAEC_01540	CDS	900		3.1.-.-		Calcineurin-like phosphoesterase
+EFAEC_01541	CDS	897		2.7.7.-		ISEfm1, transposase
+EFAEC_01542	CDS	729				hypothetical protein
+EFAEC_01543	CDS	1680				hypothetical protein
+EFAEC_01544	CDS	960			COG2826	IS30 family transposase IS6770
+EFAEC_01545	CDS	735				glycerol uptake facilitator protein
+EFAEC_01546	CDS	411				LrgA family protein
+EFAEC_01547	CDS	702				LrgB family protein
+EFAEC_01548	CDS	1584				M protein trans-acting positive regulator
+EFAEC_01549	CDS	222				hypothetical protein
+EFAEC_01550	CDS	762		1.1.1.121		aldose dehydrogenase
+EFAEC_01551	CDS	510				membrane protein
+EFAEC_01552	CDS	540				BioY family protein
+EFAEC_01553	CDS	612	rpsD			30S ribosomal protein S4
+EFAEC_01554	CDS	834				formate/nitrite transporter
+EFAEC_01555	CDS	636		1.14.11.33		DNA alkylation repair protein
+EFAEC_01556	CDS	774		3.-.-.-		HAD superfamily hydrolase
+EFAEC_01557	CDS	798		3.1.-.-		calcineurin-like phosphoesterase
+EFAEC_01558	CDS	375				hypothetical protein
+EFAEC_01559	CDS	2646	mutS			DNA mismatch repair protein MutS
+EFAEC_01560	CDS	2109				DNA mismatch repair protein
+EFAEC_01561	CDS	561				maf protein
+EFAEC_01562	CDS	1989		2.7.1.69		PTS system, trehalose/maltose-specific, IIBCA component
+EFAEC_01563	CDS	714				GntR family transcriptional regulator
+EFAEC_01564	CDS	447	msrB	1.8.4.12		peptide methionine sulfoxide reductase MsrB
+EFAEC_01565	CDS	603	ruvA	3.6.1.-		Holliday junction DNA helicase RuvA
+EFAEC_01566	CDS	1002	ruvB	3.6.1.-		Holliday junction DNA helicase RuvB
+EFAEC_01567	CDS	579				TetR family dihydroxyacetone kinase regulator
+EFAEC_01568	CDS	483		3.1.3.48		phosphotyrosine protein phosphatase
+EFAEC_01569	CDS	375				hypothetical protein
+EFAEC_01570	CDS	954				Integrase
+EFAEC_01571	CDS	1353				branched-chain amino acid transport system II carrier protein
+EFAEC_01572	CDS	591				integral membrane protein
+EFAEC_01573	CDS	1350	aapA			amino acid permease
+EFAEC_01574	CDS	741		3.6.3.-		amino acid ABC transporter ATP-binding protein
+EFAEC_01575	CDS	1593				amino acid ABC transporter permease
+EFAEC_01576	CDS	192				hypothetical protein
+EFAEC_01577	CDS	297				hypothetical protein
+EFAEC_01578	CDS	726		3.5.1.-		NAD-dependent deacetylase
+EFAEC_01579	CDS	843		2.3.1.79		maltose O-acetyltransferase
+EFAEC_01580	CDS	522				transcriptional regulator
+EFAEC_01581	CDS	564	def	3.5.1.88		peptide deformylase
+EFAEC_01582	CDS	270	rpsO			30S ribosomal protein S15
+EFAEC_01583	CDS	2127	pnp	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+EFAEC_01584	CDS	267				transglycosylase
+EFAEC_01585	CDS	1992	kup			K+ uptake transporter
+EFAEC_01586	CDS	1302				hemolysin-related CBS domain protein
+EFAEC_01587	CDS	1371				MATE efflux family protein
+EFAEC_01588	CDS	324				hypothetical protein
+EFAEC_01589	CDS	609	rplY			50S ribosomal protein L25, Ctc-form
+EFAEC_01590	CDS	717		5.4.99.-		16S rRNA pseudouridine synthase A
+EFAEC_01591	CDS	696		3.-.-.-		HAD superfamily hydrolase
+EFAEC_01592	CDS	630	udk	2.7.1.48		uridine kinase
+EFAEC_01593	CDS	537		2.7.7.-		ISEnfa3, transposase
+EFAEC_01594	CDS	807		2.7.7.-		ISEnfa3, transposase
+EFAEC_01595	CDS	603				hypothetical protein
+EFAEC_01596	CDS	489		2.3.1.-		GNAT family acetyltransferase
+EFAEC_01597	CDS	1374				hypothetical protein
+EFAEC_01598	CDS	468				YaiI/YqxD family protein
+EFAEC_01599	CDS	1746				ABC1 family protein
+EFAEC_01600	CDS	1077	ddl	6.3.2.4		D-alanine--D-alanine ligase
+EFAEC_01601	CDS	1413		6.3.2.10		UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase
+EFAEC_01602	CDS	1512		3.6.1.-		DEAD/DEAH box helicase
+EFAEC_01603	CDS	351		2.7.8.7		holo-[acyl-carrier-protein] synthase
+EFAEC_01604	CDS	1122		5.1.1.1		alanine racemase
+EFAEC_01605	CDS	363	ndoA	3.1.-.-		toxin-antitoxin system, toxin component, MazF family
+EFAEC_01606	CDS	270	rpsN			30S ribosomal protein S14
+EFAEC_01607	CDS	948		1.-.-.-		zinc-containing alcohol dehydrogenase
+EFAEC_01608	CDS	2706	pip			phage infection protein
+EFAEC_01609	CDS	1824				amino acid permease
+EFAEC_01610	CDS	264				toxin-antitoxin system, antitoxin component
+EFAEC_01611	CDS	267				plasmid stabilization system protein
+EFAEC_01612	CDS	489		3.2.1.96		mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase
+EFAEC_01613	CDS	99		3.2.1.96		mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase
+EFAEC_01614	CDS	672	opuCD			ABC transporter permease
+EFAEC_01615	CDS	918				glycine betaine/carnitine/choline ABC transporter
+EFAEC_01616	CDS	642				glycine betaine/carnitine/choline ABC transporter permease
+EFAEC_01617	CDS	1176	opuBA	3.6.3.-		glycine betaine/carnitine/choline transporter ATP-binding protein
+EFAEC_01618	CDS	1032	queA	5.-.-.-		S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+EFAEC_01619	CDS	309		3.6.3.8		calcium-translocating P-type ATPase
+EFAEC_01620	CDS	2292		3.6.3.8		calcium-translocating P-type ATPase
+EFAEC_01621	CDS	699				integral membrane protein
+EFAEC_01622	CDS	1146	tgt	2.4.2.29		queuine tRNA-ribosyltransferase
+EFAEC_01623	CDS	381				preprotein translocase subunit YajC
+EFAEC_01624	CDS	1320		2.7.7.-		IS1380 family transposase
+EFAEC_01625	CDS	2598		1.1.1.1		aldehyde-alcohol dehydrogenase
+EFAEC_01626	CDS	954				Integrase
+EFAEC_01627	CDS	189				hypothetical protein
+EFAEC_01628	CDS	1461		2.7.1.5		rhamnulokinase
+EFAEC_01629	CDS	1257	rhaA	5.3.1.14		L-rhamnose isomerase
+EFAEC_01630	CDS	846	rhaD	4.1.2.19		rhamnulose-1-phosphate aldolase
+EFAEC_01631	CDS	312	rhaM	5.1.3.32	COG3254	L-rhamnose mutarotase
+EFAEC_01632	CDS	1152	fucO	1.1.1.77		Lactaldehyde reductase
+EFAEC_01633	CDS	759				IclR transcriptional regulator
+EFAEC_01634	CDS	645		4.1.3.16		keto-hydroxyglutarate-aldolase/keto-deoxy- phosphogluconate aldolase
+EFAEC_01635	CDS	1008		2.7.1.45		2-dehydro-3-deoxygluconokinase
+EFAEC_01636	CDS	843	kduI1	5.3.1.17		4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase
+EFAEC_01637	CDS	135		1.1.1.69		gluconate 5-dehydrogenase
+EFAEC_01638	CDS	675		1.1.1.69		gluconate 5-dehydrogenase
+EFAEC_01639	CDS	1065		5.3.3.2		isopentenyl-diphosphate delta-isomerase
+EFAEC_01640	CDS	1086		2.7.1.36		phosphomevalonate kinase
+EFAEC_01641	CDS	978		4.1.1.33		diphosphomevalonate decarboxylase
+EFAEC_01642	CDS	945		2.7.1.36		mevalonate kinase
+EFAEC_01643	CDS	654		2.7.1.145		deoxynucleoside kinase
+EFAEC_01644	CDS	906				CorA-like Mg2+ transporter protein
+EFAEC_01645	CDS	633				pentapeptide repeat-containing protein
+EFAEC_01646	CDS	525	infC			translation initiation factor IF-3
+EFAEC_01647	CDS	201	rpmI			50S ribosomal protein L35
+EFAEC_01648	CDS	360	rplT			50S ribosomal protein L20
+EFAEC_01649	CDS	1338				citrate transporter
+EFAEC_01650	CDS	2130		3.5.2.9		hydantoinase/oxoprolinase
+EFAEC_01651	CDS	690				hypothetical protein
+EFAEC_01652	CDS	687				GntR family transcriptional regulator
+EFAEC_01653	CDS	168				hypothetical protein
+EFAEC_01654	CDS	441		3.1.2.-		thioesterase
+EFAEC_01655	CDS	846				YjeF protein
+EFAEC_01656	CDS	1419	pepV	3.4.13.-		dipeptidase PepV
+EFAEC_01657	CDS	291		2.4.1.-		glycosyl transferase family protein
+EFAEC_01658	CDS	318		1.2.1.97		3-sulfolactaldehyde dehydrogenase
+EFAEC_01659	CDS	957		2.4.1.-		glycosyl transferase family protein
+EFAEC_01660	CDS	354				small secreted protein
+EFAEC_01661	CDS	1080		3.4.11.7		glutamyl aminopeptidase
+EFAEC_01662	CDS	321				thioredoxin
+EFAEC_01663	CDS	468				universal stress family protein
+EFAEC_01664	CDS	606				tRNA-binding domain-containing protein
+EFAEC_01665	CDS	1284		3.4.21.-		Serine protease do-like htrA
+EFAEC_01666	CDS	480	rlmH	2.1.1.-		ribosomal RNA large subunit methyltransferase H
+EFAEC_01667	CDS	837		2.7.7.-		ISEfa8, transposase
+EFAEC_01668	CDS	291		2.7.7.-		ISEfa8, transposase
+EFAEC_01669	CDS	1131				hypothetical protein
+EFAEC_01670	CDS	909		2.7.7.-		ISEfm1, transposase
+EFAEC_01671	CDS	855				AraC-like ligand binding domain protein
+EFAEC_01672	CDS	2250		3.2.1.22		alpha-galactosidase
+EFAEC_01673	CDS	1173				major facilitator superfamily transporter
+EFAEC_01674	CDS	1320		2.7.7.-		IS1380 family transposase
+EFAEC_01675	CDS	360		2.7.7.-		ISEf1, transposase
+EFAEC_01676	CDS	840		2.7.7.-		ISEf1, transposase
+EFAEC_01677	CDS	309				hypothetical protein
+EFAEC_01678	CDS	300				hypothetical protein
+EFAEC_01679	CDS	552				hypothetical protein
+EFAEC_01680	CDS	1320		2.7.7.-		IS1380 family transposase
+EFAEC_01681	CDS	294				hypothetical protein
+EFAEC_01682	CDS	297				hypothetical protein
+EFAEC_01683	CDS	891				hypothetical protein
+EFAEC_01684	CDS	1050				hypothetical protein
+EFAEC_01685	CDS	1647				hypothetical protein
+EFAEC_01686	CDS	240				hypothetical protein
+EFAEC_01687	CDS	1374				hypothetical protein
+EFAEC_01688	CDS	1638				hypothetical protein
+EFAEC_01689	CDS	1089				hypothetical protein
+EFAEC_01690	CDS	954				Integrase
+EFAEC_01691	CDS	258				hypothetical protein
+EFAEC_01692	CDS	405		2.1.1.72		type I restriction-modification system, M subunit
+EFAEC_01693	CDS	2658				transcriptional antiterminator bglG:Sigma-54 factor
+EFAEC_01694	CDS	477		2.7.1.-		PTS system mannose-specific transporter subunit IIAB
+EFAEC_01695	CDS	789		2.7.1.69		PTS system mannose-specific transporter subunit IIC
+EFAEC_01696	CDS	798		2.7.1.69		PTS system, mannose/fructose/sorbose-specific IID component
+EFAEC_01697	CDS	396		2.7.1.-		PTS system, mannose/fructose/sorbose-specific IIA component
+EFAEC_01698	CDS	1122				hypothetical protein
+EFAEC_01699	CDS	870		2.7.1.4		fructokinase
+EFAEC_01700	CDS	162				hypothetical protein
+EFAEC_01701	CDS	954				Integrase
+EFAEC_01702	CDS	513				IS630 family transposase ISBs2
+EFAEC_01703	CDS	393				IS630 family transposase IS642
+EFAEC_01704	CDS	1002		3.1.6.-		sulfatase
+EFAEC_01705	CDS	1242				transporter, dicarboxylate/amino acid:cation symporter family protein
+EFAEC_01706	CDS	636				hypothetical protein
+EFAEC_01707	CDS	1635				transcriptional antiterminator bglG
+EFAEC_01708	CDS	432		2.7.1.-		PTS system ascorbate-specific transporter subunit IIA
+EFAEC_01709	CDS	249				hypothetical protein
+EFAEC_01710	CDS	954				Integrase
+EFAEC_01711	CDS	453	yybA			MarR family transcriptional regulator
+EFAEC_01712	CDS	522		2.3.1.-		GNAT family acetyltransferase
+EFAEC_01713	CDS	711				B3/4 domain-containing protein
+EFAEC_01714	CDS	369				glyoxalase family protein
+EFAEC_01715	CDS	225				hypothetical protein
+EFAEC_01716	CDS	1554				hypothetical protein
+EFAEC_01717	CDS	1314				xanthine/uracil permease family protein
+EFAEC_01718	CDS	1638	dexB	3.2.1.70		glucan 1,6-alpha-glucosidase
+EFAEC_01719	CDS	495				MarR family transcriptional regulator
+EFAEC_01720	CDS	1092		1.6.-.-		oxidoreductase FAD/FMN-binding protein
+EFAEC_01721	CDS	678				DJ-1/PfpI family protein
+EFAEC_01722	CDS	1296		1.-.-.-		pyridine nucleotide-disulfide oxidoreductase
+EFAEC_01723	CDS	1461				helix-turn-helix domain-containing protein
+EFAEC_01724	CDS	1497	glpK	2.7.1.30		glycerol kinase
+EFAEC_01725	CDS	1824	glpO	1.1.3.21		alpha-glycerophosphate oxidase
+EFAEC_01726	CDS	717				glycerol uptake facilitator protein
+EFAEC_01727	CDS	1929				DNA mismatch repair protein MutS2
+EFAEC_01728	CDS	555		2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+EFAEC_01729	CDS	315				DsrE/DsrF-like family protein
+EFAEC_01730	CDS	261	frmR			regulator protein FrmR
+EFAEC_01731	CDS	315				rhodanese-like domain protein
+EFAEC_01732	CDS	1656		1.8.1.14		coenzyme A disulfide reductase
+EFAEC_01733	CDS	1851		3.6.1.-		ATP-dependent DNA helicase IV
+EFAEC_01734	CDS	288		3.6.1.-		ATP-dependent DNA helicase IV
+EFAEC_01735	CDS	348				integral membrane protein
+EFAEC_01736	CDS	1305		2.4.-.-		glycosyl transferase
+EFAEC_01737	CDS	858				LPXTG-motif protein cell wall anchor domain protein
+EFAEC_01738	CDS	321				hypothetical protein
+EFAEC_01739	CDS	396		2.7.1.-		dihydroxyacetone kinase, phosphotransfer subunit
+EFAEC_01740	CDS	1011		2.7.-.-		dihydroxyacetone kinase subunit DhaK
+EFAEC_01741	CDS	606		2.7.-.-		dihydroxyacetone kinase, DhaL subunit
+EFAEC_01742	CDS	666		1.1.1.49		glucose-6-phosphate 1-dehydrogenase
+EFAEC_01743	CDS	660				cyclic nucleotide-binding domain-containing protein
+EFAEC_01744	CDS	1611				tetronasin resistance transmembrane protein
+EFAEC_01745	CDS	621				ABC transporter ATP-binding protein
+EFAEC_01746	CDS	954				Integrase
+EFAEC_01747	CDS	249	artM_2		COG1126	Arginine transport ATP-binding protein ArtM
+EFAEC_01748	CDS	600				TetR family transcriptional regulator
+EFAEC_01749	CDS	1302				polysaccharide deacetylase
+EFAEC_01750	CDS	1257	tyrS1	6.1.1.1		tyrosyl-tRNA synthetase
+EFAEC_01751	CDS	1878		4.1.1.25		tyrosine decarboxylase
+EFAEC_01752	CDS	1422				amino acid permease
+EFAEC_01753	CDS	816				Na+/H+ antiporter
+EFAEC_01754	CDS	516				Na+/H+ antiporter
+EFAEC_01755	CDS	1020				LacI family sugar-binding transcriptional regulator
+EFAEC_01756	CDS	1008		5.1.3.3		aldose 1-epimerase
+EFAEC_01757	CDS	666		5.4.2.6		beta-phosphoglucomutase
+EFAEC_01758	CDS	2295		3.2.1.-		glycoside hydrolase, family 65
+EFAEC_01759	CDS	2166		2.7.1.69		PTS system glucose-specific transporter subunit IIABC
+EFAEC_01760	CDS	834				endonuclease/exonuclease/phosphatase family protein
+EFAEC_01761	CDS	1662				hypothetical protein
+EFAEC_01762	CDS	1320		2.7.7.-		IS1380 family transposase
+EFAEC_01763	CDS	969				sortase family protein
+EFAEC_01764	CDS	444		2.3.1.-		GNAT family acetyltransferase
+EFAEC_01765	CDS	531	padC	4.1.1.-		Phenolic acid decarboxylase
+EFAEC_01766	CDS	552				PadR family transcriptional regulator
+EFAEC_01767	CDS	474				MerR family transcriptional regulator
+EFAEC_01768	CDS	1473				major facilitator superfamily transporter
+EFAEC_01769	CDS	666				Urea transporter
+EFAEC_01770	CDS	285				hypothetical protein
+EFAEC_01771	CDS	420				hypothetical protein
+EFAEC_01772	CDS	585		4.1.1.-		aromatic acid decarboxylase
+EFAEC_01773	CDS	1476		4.1.1.-		3-octaprenyl-4-hydroxybenzoate decarboxylase
+EFAEC_01774	CDS	312				hypothetical protein
+EFAEC_01775	CDS	2337		3.6.3.-		ABC transporter ATP-binding protein/permease
+EFAEC_01776	CDS	669				DNA-binding response regulator
+EFAEC_01777	CDS	1044		2.7.13.3		sensor histidine kinase
+EFAEC_01778	CDS	882				LysR family transcriptional regulator
+EFAEC_01779	CDS	729	ydfK		COG1811	putative membrane protein YdfK
+EFAEC_01780	CDS	318				PadR family transcriptional regulator
+EFAEC_01781	CDS	609				membrane protein
+EFAEC_01782	CDS	831				hypothetical protein
+EFAEC_01783	CDS	489				hypothetical protein
+EFAEC_01784	CDS	873				SPFH domain / Band 7 family protein
+EFAEC_01785	CDS	363				hypothetical protein
+EFAEC_01786	CDS	753		3.6.3.-		ABC transporter ATP-binding protein
+EFAEC_01787	CDS	1803				peptide ABC transporter permease/transmembrane protein
+EFAEC_01788	CDS	1041		5.1.3.3		aldose 1-epimerase
+EFAEC_01789	CDS	2145		3.5.1.28		N-acetylmuramoyl-L-alanine amidase
+EFAEC_01790	CDS	1374		2.7.1.69		PTS system, beta-glucoside specific IIABC component
+EFAEC_01791	CDS	396		5.5.1.-		D-ribose pyranase
+EFAEC_01792	CDS	918		2.7.1.15		ribokinase
+EFAEC_01793	CDS	1014				LacI family transcriptional regulator
+EFAEC_01794	CDS	600		3.-.-.-		isochorismatase family protein
+EFAEC_01795	CDS	702				ABC transporter ATP-binding protein
+EFAEC_01796	CDS	2712				efflux ABC transporter, permease protein
+EFAEC_01797	CDS	1629		3.2.1.70		glucan 1,6-alpha-glucosidase
+EFAEC_01798	CDS	1182				putative permease
+EFAEC_01799	CDS	1530				periplasmic solute binding protein
+EFAEC_01800	CDS	729				response regulator receiver domain-containing protein
+EFAEC_01801	CDS	1281		2.7.13.3		sensor histidine kinase
+EFAEC_01802	CDS	111				hypothetical protein
+EFAEC_01803	CDS	603		3.4.-.-		accessory regulator agrBfs protein
+EFAEC_01804	CDS	207				hypothetical protein
+EFAEC_01805	CDS	708		2.7.1.145		deoxynucleoside kinase
+EFAEC_01806	CDS	684				membrane protein
+EFAEC_01807	CDS	2187	pcrA	3.6.1.-		ATP-dependent DNA helicase PcrA
+EFAEC_01808	CDS	411				transcriptional regulator Spx-family protein
+EFAEC_01809	CDS	357				Spx/MgsR family transcriptional regulator
+EFAEC_01810	rRNA	1557				16S ribosomal RNA
+EFAEC_01811	rRNA	2911				23S ribosomal RNA
+EFAEC_01812	rRNA	111				5S ribosomal RNA
+EFAEC_01813	CDS	471		1.11.1.9		glutathione peroxidase
+EFAEC_01814	CDS	459	luxS	4.4.1.21		S-ribosylhomocysteinase
+EFAEC_01815	CDS	1146	metB	2.5.1.48		cystathionine gamma-synthase
+EFAEC_01816	CDS	918	cysM	2.5.1.47		cysteine synthase A
+EFAEC_01817	CDS	564	efp			translation elongation factor P
+EFAEC_01818	CDS	1260		4.1.1.20		diaminopimelate decarboxylase
+EFAEC_01819	CDS	801		5.1.1.7		diaminopimelate epimerase
+EFAEC_01820	CDS	882		4.2.1.52		dihydrodipicolinate synthase
+EFAEC_01821	CDS	717		1.3.1.26		dihydrodipicolinate reductase
+EFAEC_01822	CDS	696		2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase
+EFAEC_01823	CDS	1002		1.2.1.11		aspartate-semialdehyde dehydrogenase
+EFAEC_01824	CDS	1362		2.7.2.4		aspartate kinase
+EFAEC_01825	CDS	1152		3.4.-.-		peptidase M20D
+EFAEC_01826	CDS	1170		2.6.1.-		aromatic amino acid aminotransferase
+EFAEC_01827	CDS	1380		1.11.1.1		NADH peroxidase
+EFAEC_01828	CDS	153				hypothetical protein
+EFAEC_01829	CDS	702		2.7.7.-		ISEfa10, transposase
+EFAEC_01830	CDS	669				membrane protein
+EFAEC_01831	CDS	321				hypothetical protein
+EFAEC_01832	CDS	1383		2.7.7.7		DNA directed DNA polymerase
+EFAEC_01833	CDS	1188		2.7.1.6		galactokinase
+EFAEC_01834	CDS	1032		5.1.3.3		aldose 1-epimerase
+EFAEC_01835	CDS	1467				sodium/galactoside symporter
+EFAEC_01836	CDS	906				AraC-like ligand binding domain protein
+EFAEC_01837	CDS	678		1.6.99.-		NAD(P)H dehydrogenase
+EFAEC_01838	CDS	171				hypothetical protein
+EFAEC_01839	CDS	897				LysM domain-containing protein
+EFAEC_01840	CDS	1371	ybxG			amino acid permease
+EFAEC_01841	CDS	747				ABC transporter ATP-binding protein
+EFAEC_01842	CDS	840				metal ion ABC transporter permease
+EFAEC_01843	CDS	951				periplasmic solute binding protein
+EFAEC_01844	CDS	753				hypothetical protein
+EFAEC_01845	CDS	1152				iron-sulfur cluster-binding protein
+EFAEC_01846	CDS	609				LysM domain-containing protein
+EFAEC_01847	CDS	1638		4.1.1.49		phosphoenolpyruvate carboxykinase
+EFAEC_01848	CDS	1113		1.-.-.-		FAD dependent oxidoreductase
+EFAEC_01849	CDS	1374				major facilitator superfamily transporter
+EFAEC_01850	CDS	618				hypothetical protein
+EFAEC_01851	CDS	456				arginine repressor protein
+EFAEC_01852	CDS	1503		5.4.2.8		phosphoglucomutase/phosphomannomutase family protein
+EFAEC_01853	CDS	207				hypothetical protein
+EFAEC_01854	CDS	402		1.11.1.15		peroxiredoxin, Ohr family protein
+EFAEC_01855	CDS	1332		1.-.-.-		pyridine nucleotide-disulfide oxidoreductase
+EFAEC_01856	CDS	627		3.-.-.-		isochorismatase hydrolase
+EFAEC_01857	CDS	582				TetR family transcriptional regulator
+EFAEC_01858	CDS	348				hypothetical protein
+EFAEC_01859	CDS	216				hypothetical protein
+EFAEC_01860	CDS	339				hypothetical protein
+EFAEC_01861	CDS	231				AbrB family transcriptional regulator
+EFAEC_01862	CDS	342		3.1.-.-		toxin-antitoxin system, toxin component, MazF family
+EFAEC_01863	CDS	186				hypothetical protein
+EFAEC_01864	CDS	195				hypothetical protein
+EFAEC_01865	CDS	831		1.11.1.6		Manganese containing catalase
+EFAEC_01866	CDS	1335				ABC transporter substrate-binding protein
+EFAEC_01867	CDS	912				ABC transporter ATP-binding protein
+EFAEC_01868	CDS	855				ABC transporter permease
+EFAEC_01869	CDS	618				integral membrane protein
+EFAEC_01870	CDS	519		3.6.1.27		undecaprenyl-diphosphatase
+EFAEC_01871	CDS	459				von Willebrand factor domain-containing protein
+EFAEC_01872	CDS	4038				von Willebrand factor domain-containing protein
+EFAEC_01873	CDS	1314				LPXTG-motif protein cell wall anchor domain protein
+EFAEC_01874	CDS	1698				LPXTG-motif protein cell wall anchor domain protein
+EFAEC_01875	CDS	894		3.4.-.-		peptidase C60
+EFAEC_01876	CDS	675				DNA-binding response regulator
+EFAEC_01877	CDS	1026		2.7.13.3		sensor histidine kinase
+EFAEC_01878	CDS	867				glucose uptake protein
+EFAEC_01879	CDS	1377				amino acid permease
+EFAEC_01880	CDS	1197				tellurite resistance protein
+EFAEC_01881	CDS	663				5-bromo-4-chloroindolyl phosphate hydrolysis protein
+EFAEC_01882	CDS	564		3.6.1.-		nudix hydrolase, YffH family
+EFAEC_01883	CDS	285				hypothetical protein
+EFAEC_01884	CDS	693		3.2.2.9		5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+EFAEC_01885	CDS	546		3.-.-.-		isochorismatase family protein
+EFAEC_01886	CDS	3279				LPXTG-motif cell wall anchor domain-containing protein
+EFAEC_01887	CDS	1908		3.4.24.-		Peptidase family M13
+EFAEC_01888	CDS	876				hypothetical protein
+EFAEC_01889	CDS	975	prs2	2.7.6.1		ribose-phosphate pyrophosphokinase
+EFAEC_01890	CDS	1137		2.8.1.7		Putative cysteine desulfurase
+EFAEC_01891	CDS	345				hypothetical protein
+EFAEC_01892	CDS	1287				transporter, major facilitator family protein
+EFAEC_01893	CDS	600		3.1.-.-		Calcineurin-like phosphoesterase
+EFAEC_01894	CDS	1122	mnmA	2.8.1.-		tRNA-specific 2-thiouridylase MnmA
+EFAEC_01895	CDS	1422				amino acid permease
+EFAEC_01896	CDS	1119		2.6.1.1		aspartate aminotransferase
+EFAEC_01897	CDS	1293				major facilitator superfamily transporter
+EFAEC_01898	CDS	561				TetR family transcriptional regulator
+EFAEC_01899	CDS	378				hypothetical protein
+EFAEC_01900	CDS	1971		5.99.1.2		DNA topoisomerase III
+EFAEC_01901	CDS	948		2.4.1.-		glycosyl transferase family protein
+EFAEC_01902	CDS	465		2.1.1.63		methylated-DNA--protein-cysteine methyltransferase
+EFAEC_01903	CDS	1044				membrane protein
+EFAEC_01904	CDS	966				C4-dicarboxylate transporter/malic acid transport protein
+EFAEC_01905	CDS	846				LysR family transcriptional regulator
+EFAEC_01906	CDS	1188				FtsW/RodA/SpoVE family cell cycle protein
+EFAEC_01907	CDS	357				ArsC family protein
+EFAEC_01908	CDS	339				glycine cleavage H-protein
+EFAEC_01909	CDS	1044	metN2	3.6.3.-		ABC transporter ATP-binding protein
+EFAEC_01910	CDS	687				ABC transporter permease
+EFAEC_01911	CDS	849	metQ			putative D-methionine-binding lipoprotein MetQ
+EFAEC_01912	CDS	774				ABC transporter ATP-binding protein
+EFAEC_01913	CDS	1287	sufD			FeS assembly protein SufD
+EFAEC_01914	CDS	1236	csd	2.8.1.7		cysteine desulfurase
+EFAEC_01915	CDS	471				NifU family SUF system FeS assembly protein
+EFAEC_01916	CDS	1392	sufB			FeS assembly protein SufB
+EFAEC_01917	CDS	1143	xerC_7			site-specific tyrosine recombinase XerC-family protein
+EFAEC_01918	CDS	735				Helix-turn-helix domain protein
+EFAEC_01919	CDS	276				Helix-turn-helix domain protein
+EFAEC_01920	CDS	1998				hypothetical protein
+EFAEC_01921	CDS	336				helix-turn-helix domain-containing protein
+EFAEC_01922	CDS	216				helix-turn-helix domain-containing protein
+EFAEC_01923	CDS	366				hypothetical protein
+EFAEC_01924	CDS	327				hypothetical protein
+EFAEC_01925	CDS	726				hypothetical protein
+EFAEC_01926	CDS	1593		2.1.1.72		type I restriction-modification system, M subunit
+EFAEC_01927	CDS	1245				Type I restriction modification DNA specificity domain-containing protein
+EFAEC_01928	CDS	3150	hsdR	3.1.21.3		type I restriction modification site-specific deoxyribonuclease HsdR
+EFAEC_01929	CDS	1446		2.7.7.-		ISEfa7, transposase
+EFAEC_01930	CDS	666				helix-turn-helix domain-containing protein
+EFAEC_01931	CDS	2037				bacteriocin-associated integral membrane protein
+EFAEC_01932	CDS	639				ABC transporter ATP-binding protein
+EFAEC_01933	CDS	429				hypothetical protein
+EFAEC_01934	CDS	912	prsA_2	5.2.1.8		putative foldase protein PrsA
+EFAEC_01935	CDS	438				hypothetical protein
+EFAEC_01936	CDS	885		2.7.1.107		diacylglycerol kinase catalytic subunit
+EFAEC_01937	CDS	3168				hypothetical protein
+EFAEC_01938	CDS	546				cell wall surface anchor family protein
+EFAEC_01939	CDS	456				cell surface protein
+EFAEC_01940	CDS	759				hypothetical protein
+EFAEC_01941	CDS	741				LytTR family transcriptional regulator
+EFAEC_01942	CDS	1254				hypothetical protein
+EFAEC_01943	CDS	228				HxlR-like helix-turn-helix protein
+EFAEC_01944	CDS	327		3.6.1.-		MazG nucleotide pyrophosphohydrolase
+EFAEC_01945	CDS	714				sortase family protein
+EFAEC_01946	CDS	852				BglG family transcriptional antiterminator
+EFAEC_01947	CDS	150				hypothetical protein
+EFAEC_01948	CDS	1866		2.7.1.69		PTS system beta-glucoside-specific transporter subunit IIABC
+EFAEC_01949	CDS	1371		3.2.1.86		6-phospho-beta-glucosidase
+EFAEC_01950	CDS	702				GntR family transcriptional regulator
+EFAEC_01951	CDS	489		2.7.1.69		PTS system fructose-specific transporter subunit IIBC
+EFAEC_01952	CDS	111				hypothetical protein
+EFAEC_01953	CDS	576		4.1.1.18		putative lysine decarboxylase
+EFAEC_01954	CDS	441		2.4.2.6		Nucleoside 2-deoxyribosyltransferase
+EFAEC_01955	CDS	702		2.7.1.145		deoxynucleoside kinase
+EFAEC_01956	CDS	174				hypothetical protein
+EFAEC_01957	CDS	426				hypothetical protein
+EFAEC_01958	CDS	972				LacI family transcriptional regulator
+EFAEC_01959	CDS	1398		3.2.1.86		putative 6-phospho-beta-glucosidase
+EFAEC_01960	CDS	624				hypothetical protein
+EFAEC_01961	CDS	2094		3.1.6.-		sulfatase
+EFAEC_01962	CDS	867				transcriptional activator Rgg/GadR/MutR
+EFAEC_01963	CDS	438		2.7.4.6		nucleoside diphosphate kinase
+EFAEC_01964	CDS	2649		3.6.3.2		magnesium-translocating P-type ATPase
+EFAEC_01965	CDS	672		3.-.-.-		HAD superfamily hydrolase
+EFAEC_01966	CDS	600				hypothetical protein
+EFAEC_01967	CDS	1074	metN1	3.6.3.-		ABC transporter ATP-binding protein
+EFAEC_01968	CDS	681				ABC transporter permease
+EFAEC_01969	CDS	840				YaeC family lipoprotein
+EFAEC_01970	CDS	1224		3.5.1.32		peptidase M20D
+EFAEC_01971	CDS	1419				Na+/H+ antiporter
+EFAEC_01972	CDS	444				hypothetical protein
+EFAEC_01973	CDS	1341				amino acid permease
+EFAEC_01974	CDS	897				hypothetical protein
+EFAEC_01975	CDS	942		1.1.1.169		2-dehydropantoate 2-reductase
+EFAEC_01976	CDS	1122		2.7.1.31		glycerate kinase
+EFAEC_01977	CDS	1503				ABC transporter ATP-binding protein
+EFAEC_01978	CDS	528		5.4.2.1		phosphoglycerate mutase family protein
+EFAEC_01979	CDS	1062				alpha3-beta1 integrin-binding family protein
+EFAEC_01980	CDS	897	murQ	4.2.1.126		N-acetylmuramic acid 6-phosphate etherase
+EFAEC_01981	CDS	1983		2.7.1.69		PTS system, sugar-specific IIBC component
+EFAEC_01982	CDS	447	nrdI			putative flavoprotein NrdI
+EFAEC_01983	CDS	1425				putative arginine/ornithine antiporter
+EFAEC_01984	CDS	774				ABC transporter protein
+EFAEC_01985	CDS	906				ABC transporter ATP-binding protein
+EFAEC_01986	CDS	321				SMR family multidrug resistance protein
+EFAEC_01987	CDS	687				hypothetical protein
+EFAEC_01988	CDS	945				membrane protein
+EFAEC_01989	CDS	645		3.4.19.3		pyrrolidone-carboxylate peptidase
+EFAEC_01990	CDS	1278				hypothetical protein
+EFAEC_01991	CDS	750	pnuC			nicotinamide mononucleotide transporter PnuC
+EFAEC_01992	CDS	381				glyoxylase
+EFAEC_01993	CDS	510				hypothetical protein
+EFAEC_01994	CDS	180				hypothetical protein
+EFAEC_01995	CDS	564		2.3.1.-		GNAT family acetyltransferase
+EFAEC_01996	CDS	516				hypothetical protein
+EFAEC_01997	CDS	870		3.-.-.-		HAD superfamily hydrolase
+EFAEC_01998	CDS	681	ung	3.2.2.27		uracil-DNA glycosylase
+EFAEC_01999	CDS	981		2.3.1.8		phosphate acetyltransferase
+EFAEC_02000	CDS	474		2.-.-.-		ATPase
+EFAEC_02001	CDS	525		2.3.1.-		GNAT family acetyltransferase
+EFAEC_02002	CDS	534		2.7.7.7		exonuclease, DNA polymerase III, epsilon subunit family protein
+EFAEC_02003	CDS	753		3.1.11.2		exodeoxyribonuclease III
+EFAEC_02004	CDS	921		1.-.-.-		oxidoreductase family, NAD-binding Rossmann fold protein
+EFAEC_02005	CDS	936	murB	1.1.1.158		UDP-N-acetylenolpyruvoylglucosamine reductase
+EFAEC_02006	CDS	1479				M protein trans-acting positive regulator
+EFAEC_02007	CDS	2061				hypothetical protein
+EFAEC_02008	CDS	570		2.3.1.-		GNAT family acetyltransferase
+EFAEC_02009	CDS	807				hypothetical protein
+EFAEC_02010	CDS	1515		1.3.99.1		fumarate reductase flavoprotein subunit
+EFAEC_02011	CDS	984		1.-.-.-		NAD(P)H quinone oxidoreductase
+EFAEC_02012	CDS	648		4.2.1.46		NAD dependent epimerase/dehydratase family protein
+EFAEC_02013	CDS	633				integral membrane protein
+EFAEC_02014	CDS	552	coaC	4.1.1.36		phosphopantothenoylcysteine decarboxylase
+EFAEC_02015	CDS	738		6.3.2.5		phosphopantothenate--cysteine ligase
+EFAEC_02016	CDS	990		1.6.5.-		YhdH/YhfP family quinone oxidoreductase
+EFAEC_02017	CDS	543				helix-turn-helix domain-containing protein
+EFAEC_02018	CDS	1086	potA	3.6.3.31		Spermidine/putrescine import ATP-binding protein PotA
+EFAEC_02019	CDS	807				spermidine/putrescine ABC superfamily ATP binding cassette transporter, membrane protein
+EFAEC_02020	CDS	828	potC			spermidine/putrescine transport system permease protein PotC
+EFAEC_02021	CDS	1074				spermidine/putrescine-binding periplasmic protein PotD
+EFAEC_02022	CDS	2619				PRD domain-containing protein
+EFAEC_02023	CDS	423		2.7.1.-		PTS system, mannose/fructose/sorbose-specific IIA component
+EFAEC_02024	CDS	495		2.7.1.69		PTS system, mannose/fructose/sorbose-specific IIB component
+EFAEC_02025	CDS	810		2.7.1.69		PTS system, mannose/fructose/sorbose-specific IIC component
+EFAEC_02026	CDS	822		2.7.1.69		PTS system, mannose/fructose/sorbose-specific IID component
+EFAEC_02027	CDS	2100				hypothetical protein
+EFAEC_02028	CDS	1119				hypothetical protein
+EFAEC_02029	CDS	879		2.7.1.4		fructokinase
+EFAEC_02030	CDS	813				helix-turn-helix domain-containing protein
+EFAEC_02031	CDS	108				helix-turn-helix domain-containing protein
+EFAEC_02032	CDS	1068				replication initiation factor
+EFAEC_02033	CDS	204				hypothetical protein
+EFAEC_02034	CDS	1203	xerC_8			site-specific tyrosine recombinase XerC-family protein
+EFAEC_02035	CDS	1131		2.1.1.13		methionine synthase
+EFAEC_02036	CDS	954				Integrase
+EFAEC_02037	CDS	393				MerR family transcriptional regulator
+EFAEC_02038	CDS	1341	glnA	6.3.1.2		glutamine synthetase, type I
+EFAEC_02039	CDS	246				hypothetical protein
+EFAEC_02040	CDS	1611	pyrG	6.3.4.2		CTP synthase
+EFAEC_02041	CDS	870	fba	4.1.2.13		fructose-bisphosphate aldolase
+EFAEC_02042	CDS	1272	murA1	2.5.1.7		UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+EFAEC_02043	CDS	1296	rho	3.6.1.-		transcription termination factor Rho
+EFAEC_02044	CDS	264	rpmE2			50S ribosomal protein L31
+EFAEC_02045	CDS	450		2.7.1.-		PTS system fructose-specific transporter subunit IIA
+EFAEC_02046	CDS	1419		2.7.1.69		PTS system fructose-specific transporter subunit IIBC
+EFAEC_02047	CDS	861		4.1.2.13		fructose-1,6-bisphosphate aldolase
+EFAEC_02048	CDS	738				DeoR-like helix-turn-helix protein
+EFAEC_02049	CDS	366				hypothetical protein
+EFAEC_02050	CDS	1209				transporter, major facilitator family protein
+EFAEC_02051	CDS	279				hypothetical protein
+EFAEC_02052	CDS	696				CarD family transcriptional regulator
+EFAEC_02053	CDS	798				hypothetical protein
+EFAEC_02054	CDS	1185				hypothetical protein
+EFAEC_02055	CDS	1248				Putative virion core protein
+EFAEC_02056	CDS	1746		2.7.7.7		DNA polymerase III subunits gamma and tau
+EFAEC_02057	CDS	315			COG0718	Nucleoid-associated protein
+EFAEC_02058	CDS	597	recR			recombination protein RecR
+EFAEC_02059	CDS	645	tmk	2.7.4.9		thymidylate kinase
+EFAEC_02060	CDS	330	darA		COG3870	Cyclic di-AMP receptor A
+EFAEC_02061	CDS	939		2.7.7.7		DNA polymerase III subunit delta'
+EFAEC_02062	CDS	825				stage 0 sporulation family protein
+EFAEC_02063	CDS	348	yabA			DNA replication initiation control protein YabA
+EFAEC_02064	CDS	873				tetrapyrrole methylase family protein
+EFAEC_02065	CDS	1122		2.7.7.7		DNA polymerase IV
+EFAEC_02066	CDS	603		1.97.1.-		anaerobic ribonucleoside-triphosphate reductase activating protein
+EFAEC_02067	CDS	2190		1.17.4.2		anaerobic ribonucleoside triphosphate reductase
+EFAEC_02068	CDS	768				ABC transporter ATP-binding protein
+EFAEC_02069	CDS	2043				efflux ABC transporter permease
+EFAEC_02070	CDS	150				hypothetical protein
+EFAEC_02071	CDS	1515		6.1.1.13		D-alanine--poly(phosphoribitol) ligase subunit 1
+EFAEC_02072	CDS	1206		2.3.1.-		membrane bound O-acyl transferase
+EFAEC_02073	CDS	234	dltC	6.1.1.13		D-alanine--poly(phosphoribitol) ligase subunit 2
+EFAEC_02074	CDS	1269	dltD			D-alanyl-lipoteichoic acid synthetase, DltD
+EFAEC_02075	CDS	1083		3.4.11.-		M42 glutamyl aminopeptidase
+EFAEC_02076	CDS	804				integral membrane protein
+EFAEC_02077	CDS	741		3.-.-.-		metallo-beta-lactamase domain-containing protein
+EFAEC_02078	CDS	1005		2.7.7.63		lipoyltransferase and lipoate-protein ligase A
+EFAEC_02079	CDS	1845		2.7.13.3		Signal transduction histidine kinase
+EFAEC_02080	CDS	390		3.4.21.89		signal peptidase I
+EFAEC_02081	CDS	684		2.1.1.-		O-methyltransferase
+EFAEC_02082	tRNA	75				tRNA-Arg(tct)
+EFAEC_02083	CDS	360				membrane protein
+EFAEC_02084	CDS	1632				sulfate transporter/STAS domain-containing protein
+EFAEC_02085	CDS	642				uracil-DNA glycosylase, family 4
+EFAEC_02086	CDS	309	rplU			50S ribosomal protein L21
+EFAEC_02087	CDS	345				putative ribosomal protein
+EFAEC_02088	CDS	294	rpmA			50S ribosomal protein L27
+EFAEC_02089	CDS	2835				transcriptional antiterminator bglG:Sigma-54 factor
+EFAEC_02090	CDS	492		2.7.1.69		PTS system, mannose/fructose/sorbose-specific IIB component
+EFAEC_02091	CDS	990		2.7.1.-		PTS system, mannose/fructose/sorbose-specific IIAB component
+EFAEC_02092	CDS	804		2.7.1.69		PTS system, mannose/fructose/sorbose-specific IIC component
+EFAEC_02093	CDS	915		2.7.1.69		PTS system, mannose/fructose/sorbose-specific IID component
+EFAEC_02094	CDS	375				hypothetical protein
+EFAEC_02095	CDS	246				transglycosylase associated protein
+EFAEC_02096	CDS	1065		3.4.13.9		Xaa-Pro dipeptidase
+EFAEC_02097	CDS	426				putative protein
+EFAEC_02098	CDS	450	nusB			transcription antitermination factor NusB
+EFAEC_02099	CDS	855	folD	1.5.1.5		tetrahydrofolate dehydrogenase/cyclohydrolase, NAD(P)-binding domain protein
+EFAEC_02100	CDS	1338	xseA	3.1.11.6		exodeoxyribonuclease VII large subunit
+EFAEC_02101	CDS	225		3.1.11.6		exodeoxyribonuclease VII small subunit
+EFAEC_02102	CDS	891		2.5.1.10		geranyltranstransferase
+EFAEC_02103	CDS	819				hemolysin A
+EFAEC_02104	CDS	450				arginine repressor protein
+EFAEC_02105	CDS	1683	recN			DNA repair protein RecN
+EFAEC_02106	CDS	117				hypothetical protein
+EFAEC_02107	CDS	957				CorA-like Mg2+ transporter protein
+EFAEC_02108	CDS	369				hypothetical protein
+EFAEC_02109	CDS	432	mraZ			cell division protein MraZ
+EFAEC_02110	CDS	960	mraW	2.1.1.-		S-adenosyl-methyltransferase MraW
+EFAEC_02111	CDS	402	ftsL			cell division protein FtsL
+EFAEC_02112	CDS	2193		2.4.1.129		peptidoglycan glycosyltransferase
+EFAEC_02113	CDS	963	mraY	2.7.8.13		phospho-N-acetylmuramoyl-pentapeptide- transferase
+EFAEC_02114	CDS	1362	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+EFAEC_02115	CDS	1089	murG	2.4.1.227		undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+EFAEC_02116	CDS	1221	ftsQ			cell division protein FtsQ
+EFAEC_02117	CDS	1326	ftsA			cell division protein FtsA
+EFAEC_02118	CDS	1242	ftsZ			cell division protein FtsZ
+EFAEC_02119	CDS	678		5.1.1.1		alanine racemase
+EFAEC_02120	CDS	600	sepF			Cell division protein SepF
+EFAEC_02121	CDS	783				S4 domain-containing protein
+EFAEC_02122	CDS	708				cell division protein DivIVA
+EFAEC_02123	CDS	2799	ileS	6.1.1.5		isoleucyl-tRNA synthetase
+EFAEC_02124	CDS	1527		1.1.1.49		glucose-6-phosphate 1-dehydrogenase
+EFAEC_02125	CDS	648				iron dependent repressor, DNA binding domain protein
+EFAEC_02126	CDS	342				hypothetical protein
+EFAEC_02127	CDS	729	sfsA			sugar fermentation stimulation protein
+EFAEC_02128	CDS	1014		1.-.-.-		oxidoreductase family, NAD-binding Rossmann fold protein
+EFAEC_02129	CDS	1278				DEAD/DEAH box helicase
+EFAEC_02130	CDS	2703				transcriptional antiterminator bglG:Sigma-54 factor
+EFAEC_02131	CDS	318		2.7.1.69		PTS system lactose/cellobiose-specific transporter subunit IIB
+EFAEC_02132	CDS	321		2.7.1.-		PTS system, lactose/cellobiose-specific IIA component
+EFAEC_02133	CDS	1461		2.7.1.69		PTS system lactose/cellobiose-specific transporter subunit IIC
+EFAEC_02134	CDS	222				hypothetical protein
+EFAEC_02135	CDS	183				hypothetical protein
+EFAEC_02136	CDS	414				hypothetical protein
+EFAEC_02137	CDS	1182		2.3.1.-		acetyltransferase
+EFAEC_02138	CDS	165				hypothetical protein
+EFAEC_02139	tRNA	76				tRNA-Arg(cct)
+EFAEC_02140	CDS	1140	xerC_9			site-specific tyrosine recombinase XerC-family protein
+EFAEC_02141	CDS	135				hypothetical protein
+EFAEC_02142	CDS	636				hypothetical protein
+EFAEC_02143	CDS	636				hypothetical protein
+EFAEC_02144	CDS	462				hypothetical protein
+EFAEC_02145	CDS	432				putative Zn peptidase
+EFAEC_02146	CDS	321				helix-turn-helix domain-containing protein
+EFAEC_02147	CDS	777				toxin-antitoxin system, toxin component, Bro family
+EFAEC_02148	CDS	204				Helix-turn-helix domain protein
+EFAEC_02149	CDS	339				hypothetical protein
+EFAEC_02150	CDS	180				hypothetical protein
+EFAEC_02151	CDS	504				hypothetical protein
+EFAEC_02152	CDS	699				phage anti-repressor protein
+EFAEC_02153	CDS	342				hypothetical protein
+EFAEC_02154	CDS	672				phage protein
+EFAEC_02155	CDS	687				hypothetical protein
+EFAEC_02156	CDS	750				hypothetical protein
+EFAEC_02157	CDS	270				hypothetical protein
+EFAEC_02158	CDS	165				hypothetical protein
+EFAEC_02159	CDS	303				hypothetical protein
+EFAEC_02160	CDS	162				hypothetical protein
+EFAEC_02161	CDS	300				hypothetical protein
+EFAEC_02162	CDS	357				prophage pi3 protein 33
+EFAEC_02163	CDS	246				hypothetical protein
+EFAEC_02164	CDS	420	yopX_2			putative phage protein YopX
+EFAEC_02165	CDS	558				hypothetical protein
+EFAEC_02166	CDS	297				ArpT protein
+EFAEC_02167	CDS	414				phage transcriptional regulator, ArpU family
+EFAEC_02168	CDS	153				hypothetical protein
+EFAEC_02169	CDS	276				CRISPR associated protein Cas2
+EFAEC_02170	CDS	168				hypothetical protein
+EFAEC_02171	CDS	345		3.1.25.-		HNH endonuclease domain protein
+EFAEC_02172	CDS	282				hypothetical protein
+EFAEC_02173	CDS	315				Phage terminase, small subunit
+EFAEC_02174	CDS	1695				Phage Terminase
+EFAEC_02175	CDS	1179				phage portal protein, HK97 family
+EFAEC_02176	CDS	687		3.4.21.92		ATP-dependent Clp protease proteolytic subunit
+EFAEC_02177	CDS	1161				Major phage capsid protein
+EFAEC_02178	CDS	876				prophage pi2 protein 34
+EFAEC_02179	CDS	312				hypothetical protein
+EFAEC_02180	CDS	354				putative phage head-tail adaptor
+EFAEC_02181	CDS	402				hypothetical protein
+EFAEC_02182	CDS	414				phage protein, HK97 gp10 family protein
+EFAEC_02183	CDS	609				phage major tail protein B
+EFAEC_02184	CDS	363				hypothetical protein
+EFAEC_02185	CDS	3432				phage tail tape measure protein, TP901 family, core region
+EFAEC_02186	CDS	1296		2.7.7.-		ISL3 family transposase
+EFAEC_02187	CDS	738				phage putative tail component protein
+EFAEC_02188	CDS	2292				phage minor structural protein, region
+EFAEC_02189	CDS	2127				hypothetical protein
+EFAEC_02190	CDS	447				hypothetical protein
+EFAEC_02191	CDS	138				hypothetical protein
+EFAEC_02192	CDS	294				hypothetical protein
+EFAEC_02193	CDS	225				putative holin
+EFAEC_02194	CDS	579		3.5.1.28		N-acetylmuramoyl-L-alanine amidase
+EFAEC_02195	CDS	483		3.5.1.28		N-acetylmuramoyl-L-alanine amidase
+EFAEC_02196	tRNA	74				tRNA-Met(cat)
+EFAEC_02197	CDS	291		2.7.7.-		ISEfa8, transposase
+EFAEC_02198	CDS	837		2.7.7.-		ISEfa8, transposase
+EFAEC_02199	CDS	495		2.7.7.-		ISEnfa3, transposase
+EFAEC_02200	CDS	408				hypothetical protein
+EFAEC_02201	CDS	402				hypothetical protein
+EFAEC_02202	CDS	372				hypothetical protein
+EFAEC_02203	CDS	300				hypothetical protein
+EFAEC_02204	CDS	222				hypothetical protein
+EFAEC_02205	CDS	1188		2.7.7.-		IS16/IS256, transposase
+EFAEC_02206	CDS	273				hypothetical protein
+EFAEC_02207	CDS	924				LacI family transcriptional regulator
+EFAEC_02208	CDS	753				MerR family transcriptional regulator
+EFAEC_02209	CDS	363				hypothetical protein
+EFAEC_02210	CDS	1473		2.4.2.11		Nicotinate phosphoribosyltransferase
+EFAEC_02211	CDS	825	nadE	6.3.1.5		NH(3)-dependent NAD(+) synthetase
+EFAEC_02212	CDS	891				ArsR family transcriptional regulator
+EFAEC_02213	CDS	1518		3.2.1.55		alpha-N-arabinofuranosidase
+EFAEC_02214	CDS	1272				extracellular solute-binding protein
+EFAEC_02215	CDS	897				ABC transporter permease
+EFAEC_02216	CDS	864				inner membrane component transport system
+EFAEC_02217	CDS	564				integral membrane protein
+EFAEC_02218	CDS	1512		3.2.1.55		alpha-N-arabinofuranosidase
+EFAEC_02219	CDS	960		3.2.1.-		Glycosyl hydrolases family 43
+EFAEC_02220	CDS	1080				GntR family transcriptional regulator
+EFAEC_02221	CDS	1401				MFS transporter, sugar porter family protein
+EFAEC_02222	CDS	1662		2.7.1.-		carbohydrate kinase, FGGY family protein
+EFAEC_02223	CDS	699		5.1.3.4		L-ribulose-5-phosphate 4-epimerase
+EFAEC_02224	CDS	1425	araA2	5.3.1.4		L-arabinose isomerase
+EFAEC_02225	CDS	1161		1.1.1.-		D-isomer specific 2-hydroxyacid dehydrogenase
+EFAEC_02226	CDS	1860		3.1.6.1		arylsulfatase
+EFAEC_02227	CDS	435				hypothetical protein
+EFAEC_02228	CDS	162				hypothetical protein
+EFAEC_02229	CDS	1023				3-carboxymuconate cyclase
+EFAEC_02230	CDS	354		2.7.1.-		PTS system glucitol/sorbitol-specific transporter subunit IIA
+EFAEC_02231	CDS	1167				permease
+EFAEC_02232	CDS	621		1.7.-.-		azoreductase
+EFAEC_02233	CDS	297				rhodanese-like domain-containing protein
+EFAEC_02234	CDS	651				TetR family transcriptional regulator
+EFAEC_02235	CDS	1728				ABC transporter ATP-binding protein/permease
+EFAEC_02236	CDS	255				ABC transporter ATP-binding protein/permease
+EFAEC_02237	CDS	1638				ABC transporter ATP-binding protein/permease
+EFAEC_02238	CDS	870				glyoxalase family protein
+EFAEC_02239	CDS	1026		3.5.2.6		Beta-lactamase
+EFAEC_02240	CDS	951		5.3.1.8		mannose-6-phosphate isomerase
+EFAEC_02241	CDS	351		2.7.1.69		PTS system, mannitol-specific IICB component
+EFAEC_02242	CDS	1320		2.7.1.69		PTS system, mannitol-specific IICB component
+EFAEC_02243	CDS	2034				transcriptional antiterminator bglG
+EFAEC_02244	CDS	441		2.7.1.-		PTS system mannitol-specific transporter subunit IIA
+EFAEC_02245	CDS	1128				ABC-2 family transporter protein
+EFAEC_02246	CDS	678				ABC transporter ATP-binding protein
+EFAEC_02247	CDS	1767		2.7.1.69		PTS system, mannitol-specific IICBA component
+EFAEC_02248	CDS	438	mtlF	2.7.1.-		PTS system mannitol-specific transporter subunit IIA
+EFAEC_02249	CDS	1152	mtlD	1.1.1.17		Mannitol-1-phosphate 5-dehydrogenase
+EFAEC_02250	CDS	699				CobB/CobQ-like glutamine amidotransferase domain protein
+EFAEC_02251	CDS	1353				Mur ligase middle domain-containing protein
+EFAEC_02252	CDS	1401				cation transporter
+EFAEC_02253	CDS	738	queH	1.17.99.6		Epoxyqueuosine reductase QueH
+EFAEC_02254	CDS	480				hypothetical protein
+EFAEC_02255	CDS	768				hypothetical protein
+EFAEC_02256	CDS	570		3.4.21.89		signal peptidase I
+EFAEC_02257	CDS	603		2.1.1.-		methyltransferase domain protein
+EFAEC_02258	CDS	231		2.3.1.-		acetyltransferase
+EFAEC_02259	CDS	249		2.3.1.-		acetyltransferase
+EFAEC_02260	CDS	597	tdk	2.7.1.21		Thymidine kinase
+EFAEC_02261	CDS	1074	prfA			peptide chain release factor 1
+EFAEC_02262	CDS	840	hemK			modification methylase HemK
+EFAEC_02263	CDS	1026				Sua5/YciO/YrdC/YwlC family protein
+EFAEC_02264	CDS	162				hypothetical protein
+EFAEC_02265	CDS	1245	glyA	2.1.2.1		serine hydroxymethyltransferase
+EFAEC_02266	CDS	948		3.1.1.-		alpha/beta hydrolase fold protein
+EFAEC_02267	CDS	630	upp	2.4.2.9		uracil phosphoribosyltransferase
+EFAEC_02268	CDS	243				hypothetical protein
+EFAEC_02269	tRNA	73				tRNA-Thr(cgt)
+EFAEC_02270	CDS	639		3.4.-.-		CAAX amino terminal protease family protein
+EFAEC_02271	CDS	633				hypothetical protein
+EFAEC_02272	CDS	300				Enterocin A Immunity
+EFAEC_02273	CDS	2166	acm			Collagen-binding protein
+EFAEC_02274	CDS	486				YbaK/prolyl-tRNA synthetase-associated domain protein
+EFAEC_02275	CDS	642				amino acid ABC transporter permease
+EFAEC_02276	CDS	636				putative glutamine ABC transporter ATP-binding protein
+EFAEC_02277	CDS	816				family 3 extracellular solute-binding protein
+EFAEC_02278	CDS	1437	lacG	3.2.1.85		6-phospho-beta-galactosidase
+EFAEC_02279	CDS	2448				cell division protein FtsK
+EFAEC_02280	CDS	1068	rlmN	2.1.1.-		ribosomal RNA large subunit methyltransferase N
+EFAEC_02281	CDS	1104		1.1.1.6		glycerol dehydrogenase
+EFAEC_02282	CDS	549		2.3.1.-		GNAT family acetyltransferase
+EFAEC_02283	CDS	1662				oligopeptide ABC superfamily ATP binding cassette transporter, binding protein
+EFAEC_02284	CDS	348				hypothetical protein
+EFAEC_02285	CDS	942				oligopeptide ABC superfamily ATP binding cassette transporter, membrane protein
+EFAEC_02286	CDS	1044				oligopeptide ABC transporter, permease protein OppC family protein
+EFAEC_02287	CDS	1071	oppD			ABC transporter ATP-binding protein
+EFAEC_02288	CDS	954				ABC transporter ATP-binding protein
+EFAEC_02289	CDS	1011		2.7.7.-		IS200/IS605 family transposase
+EFAEC_02290	CDS	822		3.6.1.-		NUDIX family hydrolase
+EFAEC_02291	CDS	279				hypothetical protein
+EFAEC_02292	CDS	2010	metG	6.1.1.10		methionyl-tRNA synthetase
+EFAEC_02293	CDS	588				hypothetical protein
+EFAEC_02294	CDS	1323				amino acid permease family protein
+EFAEC_02295	CDS	777		3.1.21.-		TatD family hydrolase
+EFAEC_02296	CDS	570		3.1.26.8		ribonuclease M5
+EFAEC_02297	CDS	885	rsmA	2.1.1.-		ribosomal RNA small subunit methyltransferase A
+EFAEC_02298	CDS	630	niaX			Niacin transporter NiaX
+EFAEC_02299	CDS	1110	msmK			ABC transporter ATP-binding protein
+EFAEC_02300	CDS	423	mgsA	4.2.3.3		methylglyoxal synthase
+EFAEC_02301	CDS	537				membrane protein
+EFAEC_02302	CDS	1764				ABC transporter ATP-binding protein/permease
+EFAEC_02303	CDS	1716				ABC transporter ATP-binding protein/permease
+EFAEC_02304	CDS	225				hypothetical protein
+EFAEC_02305	CDS	2769				transcriptional antiterminator bglG:Sigma-54 factor
+EFAEC_02306	CDS	420		2.7.1.-		PTS system, mannose/fructose/sorbose-specific IIA component
+EFAEC_02307	CDS	471		2.7.1.69		PTS system, mannose/fructose/sorbose-specific IIB component
+EFAEC_02308	CDS	780		2.7.1.69		PTS system, mannose/fructose/sorbose-specific IIC component
+EFAEC_02309	CDS	822		2.7.1.69		PTS system, mannose/fructose/sorbose-specific IID component
+EFAEC_02310	CDS	1050				SIS domain-containing protein
+EFAEC_02311	CDS	1005				SIS domain-containing protein
+EFAEC_02312	CDS	1020	gpsA	1.1.1.94		glycerol-3-phosphate dehydrogenase
+EFAEC_02313	CDS	1251		2.7.7.-		IS116/IS110/IS902 family transposase
+EFAEC_02314	CDS	882		2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase 2
+EFAEC_02315	CDS	378				hypothetical protein
+EFAEC_02316	CDS	615				putative phosphosugar isomerase/binding protein
+EFAEC_02317	CDS	1740				C4-dicarboxylate anaerobic carrier
+EFAEC_02318	CDS	1185		3.4.19.5		beta-aspartyl peptidase
+EFAEC_02319	CDS	204				CsbD-like protein
+EFAEC_02320	CDS	663				ABC transporter ATP-binding protein
+EFAEC_02321	CDS	1503				permease
+EFAEC_02322	CDS	1680		3.1.-.-		Ribonuclease J 2
+EFAEC_02323	CDS	477				putative YbaK/ebsC protein
+EFAEC_02324	CDS	681				metallo-beta-lactamase domain-containing protein
+EFAEC_02325	CDS	1332				DRTGG domain-containing protein
+EFAEC_02326	CDS	963				DHHA1 domain protein
+EFAEC_02327	CDS	339	phnA			putative alkylphosphonate utilization operon protein PhnA
+EFAEC_02328	CDS	708		3.4.24.-		Zn-dependent protease
+EFAEC_02329	CDS	1482				M protein trans-acting positive regulator
+EFAEC_02330	CDS	534				hypothetical protein
+EFAEC_02331	CDS	1371	rsmF	2.1.1.-		rRNA (cytosine-C(5)-)-methyltransferase
+EFAEC_02332	CDS	336				hypothetical protein
+EFAEC_02333	CDS	858				Fis family transcriptional regulator
+EFAEC_02334	CDS	516	tadA	3.5.4.-		cytidine/deoxycytidylate deaminase family protein
+EFAEC_02335	CDS	255				hypothetical protein
+EFAEC_02336	CDS	1386		3.1.3.16		Ser/Thr protein phosphatase family protein
+EFAEC_02337	CDS	678				hypothetical protein
+EFAEC_02338	CDS	765		3.-.-.-		HAD superfamily hydrolase
+EFAEC_02339	CDS	660				integral membrane protein
+EFAEC_02340	CDS	510	yutG	3.1.3.27		phosphatidylglycerophosphatase A
+EFAEC_02341	CDS	999		1.18.1.2		ferredoxin--NADP reductase
+EFAEC_02342	CDS	585		5.2.1.8		cyclophilin type peptidyl-prolyl cis-trans isomerase
+EFAEC_02343	CDS	1176		2.6.1.-		class II aminotransferase
+EFAEC_02344	CDS	381				general stress protein 13
+EFAEC_02345	CDS	363				hypothetical protein
+EFAEC_02346	rRNA	1556				16S ribosomal RNA
+EFAEC_02347	rRNA	2911				23S ribosomal RNA
+EFAEC_02348	rRNA	111				5S ribosomal RNA
+EFAEC_02349	tRNA	76				tRNA-Asn(gtt)
+EFAEC_02350	CDS	837		2.7.7.-		ISEfa8, transposase
+EFAEC_02351	CDS	291		2.7.7.-		ISEfa8, transposase
+EFAEC_02352	CDS	375				hypothetical protein
+EFAEC_02353	CDS	630		3.1.1.-		alpha/beta hydrolase family protein
+EFAEC_02354	tRNA	73				tRNA-Thr(ggt)
+EFAEC_02355	tRNA	76				tRNA-Asn(gtt)
+EFAEC_02356	CDS	165				hypothetical protein
+EFAEC_02357	CDS	1329		3.4.22.40		Aminopeptidase C
+EFAEC_02358	CDS	834		2.7.1.-		Fructosamine kinase
+EFAEC_02359	CDS	738		3.1.2.14		Acyl-ACP thioesterase
+EFAEC_02360	CDS	969		3.5.1.1		L-asparaginase
+EFAEC_02361	CDS	834				hypothetical protein
+EFAEC_02362	CDS	840		3.-.-.-		HAD superfamily hydrolase
+EFAEC_02363	CDS	561				hypothetical protein
+EFAEC_02364	CDS	1722	ezrA			septation ring formation regulator EzrA
+EFAEC_02365	CDS	1143		4.4.1.-		class V aminotransferase
+EFAEC_02366	CDS	1212	thiI	2.8.1.4		thiamine biosynthesis protein ThiI
+EFAEC_02367	CDS	648	rex2			redox-sensing transcriptional repressor Rex
+EFAEC_02368	CDS	2646	valS	6.1.1.9		valyl-tRNA synthetase
+EFAEC_02369	CDS	1314		6.3.2.17		Folylpolyglutamate synthase
+EFAEC_02370	CDS	654		3.-.-.-		HAD-superfamily hydrolase
+EFAEC_02371	CDS	693	radC			DNA repair protein RadC
+EFAEC_02372	CDS	201	cspE			major cold shock protein CspE
+EFAEC_02373	CDS	1680	rnjA	3.1.-.-		Ribonuclease J 1
+EFAEC_02374	CDS	213				hypothetical protein
+EFAEC_02375	CDS	1731				ABC transporter ATP-binding protein/permease
+EFAEC_02376	CDS	1761				ABC transporter ATP-binding protein/permease
+EFAEC_02377	CDS	198				hypothetical protein
+EFAEC_02378	CDS	486		2.3.1.-		Carbonic anhydrase/acetyltransferase
+EFAEC_02379	CDS	594	clpP	3.4.21.92		ATP-dependent Clp protease proteolytic subunit
+EFAEC_02380	CDS	528				hypothetical protein
+EFAEC_02381	CDS	738		3.1.4.44		glycerophosphodiester phosphodiesterase family protein
+EFAEC_02382	CDS	918		2.5.1.75		tRNA dimethylallyltransferase
+EFAEC_02383	CDS	1230	hflX			GTP-binding protein HflX
+EFAEC_02384	CDS	954				Integrase
+EFAEC_02385	CDS	1614		1.-.-.-		pyridine nucleotide-disulfide oxidoreductase
+EFAEC_02386	CDS	900				transcriptional regulator, AraC family
+EFAEC_02387	CDS	1125				Bacterial extracellular solute-binding protein
+EFAEC_02388	CDS	918				ABC transporter permease
+EFAEC_02389	CDS	834				ABC transporter permease
+EFAEC_02390	CDS	1119		3.2.1.-		glycosyl hydrolase family protein
+EFAEC_02391	CDS	1872				hypothetical protein
+EFAEC_02392	CDS	1203		3.2.1.-		glycosyl hydrolase family protein
+EFAEC_02393	CDS	1935				ABC transporter ATP-binding protein
+EFAEC_02394	CDS	657	rex1			redox-sensitive transcriptional regulator
+EFAEC_02395	CDS	354				thioredoxin domain-containing protein
+EFAEC_02396	CDS	930				putative permease
+EFAEC_02397	CDS	837				membrane protein
+EFAEC_02398	CDS	777				LytTr DNA-binding domain protein
+EFAEC_02399	CDS	744				ABC transporter ATP-binding protein
+EFAEC_02400	CDS	1581				hypothetical protein
+EFAEC_02401	CDS	480				hypothetical protein
+EFAEC_02402	CDS	753				hypothetical protein
+EFAEC_02403	tRNA	71				tRNA-Gly(ccc)
+EFAEC_02404	CDS	726				DNA-entry nuclease
+EFAEC_02405	CDS	267				hypothetical protein
+EFAEC_02406	CDS	432		3.1.-.-		Holliday junction resolvase-like protein
+EFAEC_02407	CDS	306				hypothetical protein
+EFAEC_02408	CDS	1146	xerC_10			site-specific tyrosine recombinase XerC-family protein
+EFAEC_02409	CDS	648				helix-turn-helix domain-containing protein
+EFAEC_02410	CDS	294				hypothetical protein
+EFAEC_02411	CDS	312				hypothetical protein
+EFAEC_02412	CDS	240				hypothetical protein
+EFAEC_02413	CDS	405				toxin-antitoxin system, toxin component, Bro domain protein
+EFAEC_02414	CDS	159				hypothetical protein
+EFAEC_02415	CDS	363				hypothetical protein
+EFAEC_02416	CDS	849		2.7.7.-		DNA primase/polymerase
+EFAEC_02417	CDS	1476				Virulence-associated protein E
+EFAEC_02418	CDS	408				hypothetical protein
+EFAEC_02419	CDS	216				hypothetical protein
+EFAEC_02420	CDS	474				phage terminase small subunit
+EFAEC_02421	CDS	1695				phage terminase
+EFAEC_02422	CDS	186				hypothetical protein
+EFAEC_02423	CDS	1176				phage portal protein, HK97 family
+EFAEC_02424	CDS	1524				phage major capsid protein, HK97 family
+EFAEC_02425	CDS	285				Phage gp6-like head-tail connector protein
+EFAEC_02426	CDS	336				putative phage head-tail adaptor
+EFAEC_02427	CDS	627				hypothetical protein
+EFAEC_02428	CDS	837				Sulfite exporter TauE/SafE
+EFAEC_02429	CDS	423		2.3.1.-		GNAT family acetyltransferase
+EFAEC_02430	CDS	1323				CCS family citrate carrier protein
+EFAEC_02431	CDS	1641	mleA	1.-.-.-		malic enzyme, NAD binding domain protein
+EFAEC_02432	CDS	471				hypothetical protein
+EFAEC_02433	CDS	1104		1.13.12.4		L-lactate oxidase
+EFAEC_02434	CDS	681				hypothetical protein
+EFAEC_02435	CDS	1035				cell wall surface anchor family protein
+EFAEC_02436	CDS	336				hypothetical protein
+EFAEC_02437	CDS	2481				hypothetical protein
+EFAEC_02438	CDS	1509				M protein trans-acting positive regulator
+EFAEC_02439	CDS	1365		1.-.-.-		pyridine nucleotide-disulfide oxidoreductase
+EFAEC_02440	CDS	1071				efflux ABC transporter permease
+EFAEC_02441	CDS	669				ABC transporter ATP-binding protein
+EFAEC_02442	CDS	579				TetR family transcriptional regulator
+EFAEC_02443	CDS	912		3.5.1.28		N-acetylmuramoyl-L-alanine amidase
+EFAEC_02444	CDS	918		3.1.26.4		ribonuclease HIII
+EFAEC_02445	CDS	438				cell division protein ZapA
+EFAEC_02446	CDS	549				CvpA family protein
+EFAEC_02447	CDS	2361				recombination and DNA strand exchange inhibitor protein
+EFAEC_02448	CDS	315		1.8.1.8		thioredoxin
+EFAEC_02449	CDS	1779	uvrC	3.1.25.-		excinuclease ABC subunit C
+EFAEC_02450	CDS	900				ABC transporter ATP-binding protein
+EFAEC_02451	CDS	1263	traL			putative type IV conjugative transfer system protein TraL
+EFAEC_02452	CDS	1899		3.1.3.11		fructose-1,6-bisphosphatase
+EFAEC_02453	CDS	720		6.3.5.2		glutamine amidotransferase
+EFAEC_02454	CDS	324				hypothetical protein
+EFAEC_02455	CDS	2004	ntpI	3.6.3.14		V-type ATP synthase subunit I
+EFAEC_02456	CDS	471	ntpK	3.6.3.14		V-type ATP synthase subunit K
+EFAEC_02457	CDS	585				V-type ATPase subunit E
+EFAEC_02458	CDS	987	ntpC			V-type ATPase subunit C
+EFAEC_02459	CDS	312	ntpG	3.6.3.14		V-type ATP synthase subunit G
+EFAEC_02460	CDS	1782	ntpA	3.6.3.14		V-type ATP synthase subunit A
+EFAEC_02461	CDS	1377		3.6.3.14		V-type ATP synthase subunit B
+EFAEC_02462	CDS	636	ntpD	3.6.3.14		V-type ATP synthase subunit D
+EFAEC_02463	CDS	1356	ntpJ	3.6.3.14		V-type sodium ATP synthase subunit J
+EFAEC_02464	CDS	1395				GntR family transcriptional regulator
+EFAEC_02465	CDS	972		4.3.1.12		ornithine cyclodeaminase/mu-crystallin family protein
+EFAEC_02466	CDS	783		5.1.-.-		phenazine biosynthesis protein PhzF family protein
+EFAEC_02467	CDS	372		4.4.1.5		lactoylglutathione lyase
+EFAEC_02468	CDS	444		3.6.1.-		NUDIX family hydrolase
+EFAEC_02469	CDS	810		3.-.-.-		HAD superfamily hydrolase
+EFAEC_02470	CDS	1368				HD domain-containing protein
+EFAEC_02471	CDS	831		2.7.7.63		lipoate-protein ligase A
+EFAEC_02472	CDS	438				hypothetical protein
+EFAEC_02473	CDS	621		2.7.7.6		DNA-directed RNA polymerase subunit delta
+EFAEC_02474	CDS	507				ECF subfamily RNA polymerase sigma-70 region 2
+EFAEC_02475	CDS	900	rsiV			Anti-sigma-V factor RsiV
+EFAEC_02476	CDS	885				polysaccharide deacetylase family protein
+EFAEC_02477	tRNA	74				tRNA-Arg(ccg)
+EFAEC_02478	CDS	1335				RNA polymerase factor sigma-54
+EFAEC_02479	CDS	1038				SorC family transcriptional regulator
+EFAEC_02480	CDS	1002		1.2.1.12		glyceraldehyde-3-phosphate dehydrogenase
+EFAEC_02481	CDS	1191	pgk	2.7.2.3		phosphoglycerate kinase
+EFAEC_02482	CDS	756	tpiA	5.3.1.1		triosephosphate isomerase
+EFAEC_02483	CDS	1299	eno	4.2.1.11		enolase
+EFAEC_02484	CDS	537		2.7.7.-		ISEnfa3, transposase
+EFAEC_02485	CDS	807		2.7.7.-		ISEnfa3, transposase
+EFAEC_02486	CDS	1014		2.7.7.-		ISL3 family transposase
+EFAEC_02487	CDS	1140		3.5.1.18		succinyl-diaminopimelate desuccinylase
+EFAEC_02488	CDS	576				integral membrane protein
+EFAEC_02489	CDS	975		3.2.2.-		inosine-uridine preferring nucleoside hydrolase
+EFAEC_02490	CDS	969				Alpha/beta hydrolase family protein
+EFAEC_02491	CDS	279		2.3.1.-		GNAT family acetyltransferase
+EFAEC_02492	CDS	237				preprotein translocase subunit SecG
+EFAEC_02493	CDS	756		3.1.1.1		carboxylesterase
+EFAEC_02494	CDS	2358		3.1.-.-		ribonuclease R
+EFAEC_02495	CDS	465	smpB			SsrA-binding protein
+EFAEC_02496	CDS	720	atpB	3.6.3.14		ATP synthase subunit C
+EFAEC_02497	CDS	216	atpE	3.6.3.14		ATP synthase F0 subunit C
+EFAEC_02498	CDS	525	atpF	3.6.3.14		ATP synthase F0 subunit B
+EFAEC_02499	CDS	543	atpH	3.6.3.14		ATP synthase F1 subunit delta
+EFAEC_02500	CDS	1557	atpA	3.6.3.14		ATP synthase F1 subunit alpha
+EFAEC_02501	CDS	903	atpG	3.6.3.14		ATP synthase F1 subunit gamma
+EFAEC_02502	CDS	1407	atpD	3.6.3.14		ATP synthase F1 subunit beta
+EFAEC_02503	CDS	423	atpC	3.6.3.14		ATP synthase F1 subunit epsilon
+EFAEC_02504	CDS	231				membrane protein
+EFAEC_02505	CDS	1302	murA2	2.5.1.7		UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+EFAEC_02506	CDS	177				hypothetical protein
+EFAEC_02507	CDS	297			COG0759	Putative membrane protein insertion efficiency factor
+EFAEC_02508	CDS	468		2.3.1.-		GNAT family acetyltransferase
+EFAEC_02509	CDS	885				ROK family protein
+EFAEC_02510	CDS	237				hypothetical protein
+EFAEC_02511	tRNA	81				tRNA-Tyr(gta)
+EFAEC_02512	tRNA	74				tRNA-Gln(ttg)
+EFAEC_02513	CDS	171				hypothetical protein
+EFAEC_02514	CDS	708				GntR family transcriptional regulator
+EFAEC_02515	CDS	645	yigZ		COG1739	IMPACT family member YigZ
+EFAEC_02516	CDS	288				hypothetical protein
+EFAEC_02517	CDS	321		2.7.1.69		PTS system cellobiose-specific transporter subunit IIB
+EFAEC_02518	CDS	1314				helicase
+EFAEC_02519	CDS	720				competence protein ComFC
+EFAEC_02520	CDS	552				ribosomal subunit interface protein
+EFAEC_02521	CDS	2535	secA			Preprotein translocase subunit SecA
+EFAEC_02522	CDS	984	prfB			peptide chain release factor 2
+EFAEC_02523	CDS	687	ftsE			cell division ATP-binding protein FtsE
+EFAEC_02524	CDS	894				efflux ABC transporter permease
+EFAEC_02525	CDS	1449		2.7.8.-		cardiolipin synthetase
+EFAEC_02526	CDS	858				phosphate binding protein
+EFAEC_02527	CDS	921	pstC			phosphate ABC transporter permease PstC
+EFAEC_02528	CDS	885	pstA			phosphate ABC transporter permease PstA
+EFAEC_02529	CDS	807	pstB2	3.6.3.27		phosphate ABC transporter ATP-binding protein
+EFAEC_02530	CDS	759	pstB1	3.6.3.27		phosphate ABC transporter ATP-binding protein
+EFAEC_02531	CDS	678	phoU			phosphate transport system regulatory protein PhoU
+EFAEC_02532	CDS	1032				YibE/F-like protein
+EFAEC_02533	CDS	768				YibE/F-like protein
+EFAEC_02534	CDS	1569				hypothetical protein
+EFAEC_02535	CDS	321				PspC domain-containing protein
+EFAEC_02536	CDS	351				integral membrane protein
+EFAEC_02537	CDS	1296		2.7.7.-		ISL3 family transposase
+EFAEC_02538	CDS	939	hprK	2.7.11.-		HPr kinase/phosphorylase
+EFAEC_02539	CDS	831	lgt	2.4.99.-		prolipoprotein diacylglyceryl transferase
+EFAEC_02540	CDS	1026		1.1.1.94		glycerol-3-phosphate dehydrogenase
+EFAEC_02541	CDS	939		2.7.7.9		UTP-glucose-1-phosphate uridylyltransferase
+EFAEC_02542	CDS	441				extracellular protein
+EFAEC_02543	CDS	603				general stress protein
+EFAEC_02544	CDS	1107		3.4.13.9		Xaa-Pro dipeptidase
+EFAEC_02545	CDS	1002	ccpA			catabolite control protein A
+EFAEC_02546	CDS	2346		2.4.-.-		glycosyl transferase family protein
+EFAEC_02547	CDS	903	nfo	3.1.21.2		endonuclease IV
+EFAEC_02548	CDS	1188		2.7.7.-		transposase
+EFAEC_02549	CDS	1776				hypothetical protein
+EFAEC_02550	CDS	1587				metal ion transporter
+EFAEC_02551	CDS	225				hypothetical protein
+EFAEC_02552	CDS	1752		3.6.3.44		Multidrug resistance-like ATP-binding protein mdlA
+EFAEC_02553	CDS	1785				ABC transporter ATP-binding protein
+EFAEC_02554	CDS	852				transcriptional antiterminator bglG/CAT RNA-binding protein
+EFAEC_02555	CDS	1887		2.7.1.69		PTS system, beta-glucoside-specific IIABC component
+EFAEC_02556	CDS	903				phosphosugar-binding transcriptional regulator
+EFAEC_02557	CDS	1404		3.2.1.22		alpha-galactosidase
+EFAEC_02558	CDS	1434		3.2.1.86		6-phospho-beta-glucosidase
+EFAEC_02559	CDS	927		1.8.1.9		thioredoxin reductase
+EFAEC_02560	CDS	1728		5.4.2.2		phosphoglucomutase/phosphomannomutase family protein
+EFAEC_02561	CDS	294				ArsR family transcriptional regulator
+EFAEC_02562	CDS	861		2.7.-.-		Putative phosphotransferase
+EFAEC_02563	CDS	429				Fur family transcriptional regulator
+EFAEC_02564	CDS	177				30S ribosomal protein S21
+EFAEC_02565	CDS	447		6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit E
+EFAEC_02566	CDS	1380				branched-chain amino acid transport system II carrier protein
+EFAEC_02567	CDS	972				KH domain-containing protein
+EFAEC_02568	CDS	2193				HD domain-containing protein
+EFAEC_02569	CDS	462		3.4.24.-		Putative metalloprotease
+EFAEC_02570	CDS	396		2.7.1.107		diacylglycerol kinase
+EFAEC_02571	CDS	900	era			GTP-binding protein Era
+EFAEC_02572	CDS	813	recO			DNA repair protein RecO
+EFAEC_02573	CDS	918	glyQ	6.1.1.14		glycyl-tRNA synthetase subunit alpha
+EFAEC_02574	CDS	2076	glyS	6.1.1.14		Glycyl-tRNA synthetase beta subunit
+EFAEC_02575	CDS	780				hypothetical protein
+EFAEC_02576	CDS	945	lytR			transcriptional regulator
+EFAEC_02577	CDS	780				lipopolysaccharide biosynthesis protein
+EFAEC_02578	CDS	699				CobQ/CobB/MinD/ParA nucleotide binding protein
+EFAEC_02579	CDS	765		3.1.3.48		protein-tyrosine-phosphatase
+EFAEC_02580	CDS	1818	pglF	4.2.1.135	COG1086	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+EFAEC_02581	CDS	966				hypothetical protein
+EFAEC_02582	CDS	696	gph	3.1.3.18		Phosphoglycolate phosphatase
+EFAEC_02583	CDS	1119		2.6.1.-		DegT/DnrJ/EryC1/StrS aminotransferase
+EFAEC_02584	CDS	621		2.4.1.-		sugar transferase
+EFAEC_02585	CDS	1101	pglA	2.4.1.290		N,N'-diacetylbacillosaminyl-diphospho-undecaprenol alpha-1,3-N-acetylgalactosaminyltransferase
+EFAEC_02586	CDS	273	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+EFAEC_02587	CDS	1002				hypothetical protein
+EFAEC_02588	CDS	1047				hypothetical protein
+EFAEC_02589	CDS	1080	pglH_2	2.4.1.292	COG0438	GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1,4-N-acetyl-D-galactosaminyltransferase
+EFAEC_02590	CDS	1425				hypothetical protein
+EFAEC_02591	CDS	1506				hypothetical protein
+EFAEC_02592	CDS	1173				transposase, Mutator family
+EFAEC_02593	CDS	1092		4.2.1.46		NAD-dependent epimerase/dehydratase
+EFAEC_02594	CDS	1479		1.1.1.22		UDP-glucose 6-dehydrogenase
+EFAEC_02595	CDS	750	glvR		COG1737	HTH-type transcriptional regulator GlvR
+EFAEC_02596	CDS	951		2.7.1.56		1-phosphofructokinase
+EFAEC_02597	CDS	1464		2.7.1.69		PTS system fructose-specific transporter subunit IIBC
+EFAEC_02598	CDS	459		2.7.1.-		PTS system fructose-specific transporter subunit IIA
+EFAEC_02599	CDS	975	lacD1	4.1.2.40		tagatose 1,6-diphosphate aldolase
+EFAEC_02600	CDS	951				putative OxaA-like protein
+EFAEC_02601	CDS	276	acyP	3.6.1.7		acylphosphatase
+EFAEC_02602	CDS	765		2.1.1.-		RNA methyltransferase
+EFAEC_02603	CDS	504				HD domain-containing protein
+EFAEC_02604	CDS	642				fibronectin-binding protein
+EFAEC_02605	CDS	1269				voltage-gated chloride channel family protein
+EFAEC_02606	CDS	1200				integral membrane protein
+EFAEC_02607	CDS	1308		3.4.16.4		D-alanyl-D-alanine carboxypeptidase
+EFAEC_02608	CDS	123				hypothetical protein
+EFAEC_02609	CDS	1119				hypothetical protein
+EFAEC_02610	CDS	321				hypothetical protein
+EFAEC_02611	CDS	165				hypothetical protein
+EFAEC_02612	CDS	201	cspLA			major cold shock protein CspA
+EFAEC_02613	CDS	2790		2.7.7.7		DnaQ family exonuclease/DinG family helicase
+EFAEC_02614	CDS	504				hypothetical protein
+EFAEC_02615	CDS	1191		2.6.1.1		aspartate aminotransferase
+EFAEC_02616	CDS	1299	asnS	6.1.1.22		asparaginyl-tRNA synthetase
+EFAEC_02617	CDS	675		3.1.1.47		GDSL-like lipase/acylhydrolase
+EFAEC_02618	CDS	342				hypothetical protein
+EFAEC_02619	CDS	360	yccF		COG3304	Inner membrane protein YccF
+EFAEC_02620	CDS	2085		3.6.3.3		cadmium-translocating P-type ATPase
+EFAEC_02621	CDS	1467				amino acid permease family protein
+EFAEC_02622	CDS	1296		2.7.7.-		ISL3 family transposase
+EFAEC_02623	CDS	540				hypothetical protein
+EFAEC_02624	CDS	441	copY			CopY/TcrY family copper transport repressor
+EFAEC_02625	CDS	210	copZ			copper chaperone CopZ
+EFAEC_02626	CDS	2187	copA	3.6.3.4		copper-translocating P-type ATPase
+EFAEC_02627	CDS	2172	copB	3.6.3.-		copper-translocating P-type ATPase
+EFAEC_02628	CDS	741		2.3.2.13		transglutaminase
+EFAEC_02629	CDS	1299				Transglutaminase-like superfamily protein
+EFAEC_02630	CDS	753				hypothetical protein
+EFAEC_02631	CDS	324				hypothetical protein
+EFAEC_02632	CDS	849				ATPase family protein
+EFAEC_02633	CDS	813				hypothetical protein
+EFAEC_02634	CDS	324				hypothetical protein
+EFAEC_02635	CDS	570				toxin-antitoxin stability system, antitoxin component
+EFAEC_02636	CDS	693		3.5.1.28		N-acetylmuramoyl-L-alanine amidase
+EFAEC_02637	CDS	807		2.7.7.-		ISEnfa3, transposase
+EFAEC_02638	CDS	537		2.7.7.-		ISEnfa3, transposase
+EFAEC_02639	CDS	1179		2.7.7.-		ISEf1, transposase
+EFAEC_02640	CDS	537		2.7.7.-		ISEnfa3, transposase
+EFAEC_02641	CDS	807		2.7.7.-		ISEnfa3, transposase
+EFAEC_02642	CDS	417				hypothetical protein
+EFAEC_02643	CDS	258				hypothetical protein
+EFAEC_02644	CDS	1251		2.7.7.-		IS116/IS110/IS902 family transposase
+EFAEC_02645	CDS	975		3.5.1.24		choloylglycine hydrolase family protein
+EFAEC_02646	CDS	1296		2.7.7.-		ISL3 family transposase
+EFAEC_02647	CDS	1188		2.7.7.-		IS16/IS256, transposase
+EFAEC_02648	CDS	318				hypothetical protein
+EFAEC_02649	CDS	366				hypothetical protein
+EFAEC_02650	CDS	483				hypothetical protein
+EFAEC_02651	CDS	891				phosphate-binding protein
+EFAEC_02652	CDS	1296		2.7.7.-		IS1251-like transposase
+EFAEC_02653	CDS	1269		2.7.7.-		IS1476 , transposase
+EFAEC_02654	CDS	2472				cation transporter E1-E2 family ATPase
+EFAEC_02655	CDS	1737		2.7.13.3		sensory box histidine kinase
+EFAEC_02656	CDS	705				response regulator receiver domain-containing protein
+EFAEC_02657	CDS	417				hypothetical protein
+EFAEC_02658	CDS	339				DNA-binding protein
+EFAEC_02659	CDS	1419				signal recognition particle protein
+EFAEC_02660	CDS	579				DNA-3-methyladenine glycosylase I
+EFAEC_02661	CDS	522				riboflavin biosynthesis protein RibD protein
+EFAEC_02662	CDS	555		1.5.1.30		flavin reductase
+EFAEC_02663	CDS	276	rpsP			30S ribosomal protein S16
+EFAEC_02664	CDS	252				RNA-binding protein
+EFAEC_02665	CDS	792				hypothetical protein
+EFAEC_02666	CDS	522	rimM			16S rRNA processing protein RimM
+EFAEC_02667	CDS	762	trmD			tRNA (guanine-N1)-methyltransferase
+EFAEC_02668	CDS	348	rplS			50S ribosomal protein L19
+EFAEC_02669	CDS	663				hypothetical protein
+EFAEC_02670	CDS	3228				cell wall surface anchor family protein
+EFAEC_02671	CDS	315				hypothetical protein
+EFAEC_02672	CDS	375				hypothetical protein
+EFAEC_02673	CDS	345				hypothetical protein
+EFAEC_02674	CDS	1146				FtsK/SpoIIIE family protein
+EFAEC_02675	CDS	1860		3.1.25.-		HNH endonuclease domain protein
+EFAEC_02676	CDS	252				FtsK/SpoIIIE family protein
+EFAEC_02677	CDS	1143				C-5 cytosine-specific DNA methylase
+EFAEC_02678	CDS	255				hypothetical protein
+EFAEC_02679	CDS	1185				helix-turn-helix protein
+EFAEC_02680	CDS	138				hypothetical protein
+EFAEC_02681	CDS	1911		3.1.25.-		HNH endonuclease domain protein
+EFAEC_02682	CDS	501				antirestriction protein
+EFAEC_02683	CDS	1848		3.1.-.-		phosphoesterase
+EFAEC_02684	CDS	897				hypothetical protein
+EFAEC_02685	CDS	390				conjugative transposon membrane protein
+EFAEC_02686	CDS	2346				ATP/GTP-binding protein
+EFAEC_02687	CDS	1188		2.7.7.-		IS16/IS256, transposase
+EFAEC_02688	CDS	2130				amino acid transporter
+EFAEC_02689	CDS	1008				NlpC/P60 family lipoprotein
+EFAEC_02690	CDS	912	tcpC			Conjugative transposon protein TcpC
+EFAEC_02691	CDS	729				IstB-like ATP binding protein
+EFAEC_02692	CDS	1419				Integrase core domain protein
+EFAEC_02693	CDS	1122		2.7.7.-		transposase, IS4 family
+EFAEC_02694	CDS	954				Integrase
+EFAEC_02695	CDS	480				MarR family transcriptional regulator
+EFAEC_02696	CDS	291		2.7.7.-		ISEfa8, transposase
+EFAEC_02697	CDS	837		2.7.7.-		ISEfa8, transposase
+EFAEC_02698	CDS	981	scrR_1			sucrose operon repressor ScrR
+EFAEC_02699	CDS	1419		3.2.1.-		glycoside hydrolase, family 32
+EFAEC_02700	CDS	1470		2.7.1.69		PTS system, beta-glucoside-specific IIBC component
+EFAEC_02701	CDS	468		2.7.1.-		PTS system, beta-glucoside-specific IIA component
+EFAEC_02702	CDS	873		2.7.1.4		fructokinase
+EFAEC_02703	CDS	2535				RNA polymerase sigma-54 subunit
+EFAEC_02704	CDS	774		2.7.1.69		PTS system mannose-specific transporter subunit IIC
+EFAEC_02705	CDS	792		2.7.1.69		PTS system mannose-specific transporter subunit IID
+EFAEC_02706	CDS	492		2.7.1.-		PTS system mannose-specific transporter subunit IIAB
+EFAEC_02707	CDS	411		2.7.1.-		PTS system mannose-specific transporter subunit IIA
+EFAEC_02708	CDS	1401		3.2.1.-		glycosyl hydrolase family protein
+EFAEC_02709	CDS	375				Glyoxalase-like domain protein
+EFAEC_02710	CDS	195				hypothetical protein
+EFAEC_02711	CDS	354		2.7.7.-		IS66 Orf2-like protein
+EFAEC_02712	CDS	1548		2.7.7.-		Transposase IS66 family protein
+EFAEC_02713	CDS	429				RNA polymerase sigma-70 factor, region 4
+EFAEC_02714	CDS	252				Helix-turn-helix domain protein
+EFAEC_02715	CDS	216				hypothetical protein
+EFAEC_02716	CDS	309				hypothetical protein
+EFAEC_02717	CDS	1179	xerC_11			site-specific tyrosine recombinase XerC-family protein
+EFAEC_02718	CDS	294				transcriptional regulator
+EFAEC_02719	CDS	2322				LPXTG-motif protein cell wall anchor domain protein
+EFAEC_02720	CDS	459				cell wall surface anchor family protein
+EFAEC_02721	CDS	1014				LPXTG-motif protein cell wall anchor domain protein
+EFAEC_02722	CDS	447				cell wall surface anchor family protein
+EFAEC_02723	CDS	816				LPXTG-motif protein cell wall anchor domain protein
+EFAEC_02724	CDS	1173				sortase family protein
+EFAEC_02725	CDS	198				hypothetical protein
+EFAEC_02726	CDS	495				hypothetical protein
+EFAEC_02727	CDS	423				M protein trans-acting positive regulator HTH domain protein
+EFAEC_02728	CDS	1194				major facilitator superfamily transporter
+EFAEC_02729	CDS	378				MerR family transcriptional regulator
+EFAEC_02730	CDS	306				LysR family transcriptional regulator
+EFAEC_02731	CDS	444				LysR family transcriptional regulator
+EFAEC_02732	CDS	1296		2.7.7.-		ISL3 family transposase
+EFAEC_02733	CDS	816				ABC transporter, permease protein
+EFAEC_02734	CDS	216				hypothetical protein
+EFAEC_02735	CDS	1179		2.7.7.-		ISEf1, transposase
+EFAEC_02736	CDS	1665		2.2.1.6		acetolactate synthase
+EFAEC_02737	CDS	711		4.1.1.5		alpha-acetolactate decarboxylase
+EFAEC_02738	CDS	498				GAF domain-containing protein
+EFAEC_02739	CDS	261				hypothetical protein
+EFAEC_02740	CDS	240				hypothetical protein
+EFAEC_02741	CDS	810		2.7.7.-		ISEf1, transposase
+EFAEC_02742	CDS	417		2.7.7.-		ISEf1, transposase
+EFAEC_02743	tRNA	74				tRNA-Met(cat)
+EFAEC_02744	CDS	705		2.7.7.-		ISL3 family transposase
+EFAEC_02745	CDS	1296		2.7.7.-		ISL3 family transposase
+EFAEC_02746	CDS	1041				Replication initiator protein A
+EFAEC_02747	CDS	333	traE1_1			regulatory protein TraE1
+EFAEC_02748	CDS	156				hypothetical protein
+EFAEC_02749	CDS	123				hypothetical protein
+EFAEC_02750	CDS	240				hypothetical protein
+EFAEC_02751	CDS	690				Sortase family protein
+EFAEC_02752	CDS	1074				hypothetical protein
+EFAEC_02753	CDS	675				sortase family protein
+EFAEC_02754	CDS	1977				cell wall surface anchor family protein
+EFAEC_02755	CDS	753				sortase family protein
+EFAEC_02756	CDS	756				hypothetical protein
+EFAEC_02757	CDS	261				hypothetical protein
+EFAEC_02758	CDS	2091				hypothetical protein
+EFAEC_02759	CDS	435				hypothetical protein
+EFAEC_02760	CDS	243				hypothetical protein
+EFAEC_02761	CDS	303				hypothetical protein
+EFAEC_02762	CDS	2064				hypothetical protein
+EFAEC_02763	CDS	1830				TraG family conjugation protein
+EFAEC_02764	CDS	1899		3.1.25.-		HNH endonuclease domain protein
+EFAEC_02765	CDS	792				TraG family conjugation protein
+EFAEC_02766	CDS	2373				hypothetical protein
+EFAEC_02767	CDS	333				hypothetical protein
+EFAEC_02768	CDS	594				hypothetical protein
+EFAEC_02769	CDS	153				hypothetical protein
+EFAEC_02770	CDS	2025				ATPase
+EFAEC_02771	CDS	1206				peptidase, M23 family
+EFAEC_02772	CDS	645				hypothetical protein
+EFAEC_02773	CDS	807				hypothetical protein
+EFAEC_02774	CDS	135				hypothetical protein
+EFAEC_02775	CDS	1074				hypothetical protein
+EFAEC_02776	CDS	270				hypothetical protein
+EFAEC_02777	CDS	297				hypothetical protein
+EFAEC_02778	CDS	423				hypothetical protein
+EFAEC_02779	CDS	1593				hypothetical protein
+EFAEC_02780	CDS	336				hypothetical protein
+EFAEC_02781	CDS	195				hypothetical protein
+EFAEC_02782	CDS	1251		2.7.7.-		IS116/IS110/IS902 family transposase
+EFAEC_02783	CDS	2373				hypothetical protein
+EFAEC_02784	CDS	1470				hypothetical protein
+EFAEC_02785	CDS	2010				DNA topoisomerase III
+EFAEC_02786	CDS	150				hypothetical protein
+EFAEC_02787	CDS	597				putative transcriptional regulator
+EFAEC_02788	CDS	900				hypothetical protein
+EFAEC_02789	CDS	132	ssb_1			Helix-destabilizing protein
+EFAEC_02790	CDS	306				single-strand binding protein
+EFAEC_02791	CDS	258				hypothetical protein
+EFAEC_02792	CDS	207				hypothetical protein
+EFAEC_02793	CDS	252				hypothetical protein
+EFAEC_02794	CDS	156				hypothetical protein
+EFAEC_02795	CDS	273				hypothetical protein
+EFAEC_02796	CDS	180				hypothetical protein
+EFAEC_02797	CDS	357				hypothetical protein
+EFAEC_02798	CDS	282				hypothetical protein
+EFAEC_02799	CDS	954				Integrase
+EFAEC_02800	CDS	264				hypothetical protein
+EFAEC_02801	CDS	291				hypothetical protein
+EFAEC_02802	CDS	1179		2.7.7.-		ISEf1, transposase
+EFAEC_02803	CDS	1947				transcriptional antiterminator bglG
+EFAEC_02804	CDS	456				hypothetical protein
+EFAEC_02805	CDS	1329		2.7.1.69		PTS system galactitol-specific transporter subunit IIC
+EFAEC_02806	CDS	285				hypothetical protein
+EFAEC_02807	CDS	516				hypothetical protein
+EFAEC_02808	CDS	663		5.1.3.1		Ribulose-phosphate 3-epimerase
+EFAEC_02809	CDS	573	hxlB	5.3.1.27	COG0794	3-hexulose-6-phosphate isomerase
+EFAEC_02810	CDS	1521		2.7.7.-		IS66 family transposase
+EFAEC_02811	CDS	180		2.7.7.-		IS66 Orf2-like protein
+EFAEC_02812	CDS	183				hypothetical protein
+EFAEC_02813	CDS	600				phage integrase family protein
+EFAEC_02814	CDS	600				hypothetical protein
+EFAEC_02815	CDS	420				Integrase core domain protein
+EFAEC_02816	CDS	285				Transposase, IS1216
+EFAEC_02817	CDS	873		2.7.1.4		fructokinase
+EFAEC_02818	CDS	1173				transposase, Mutator family
+EFAEC_02819	CDS	1947		2.7.1.69		PTS system, trehalose/maltose-specific, IIBCA component
+EFAEC_02820	CDS	1440				Glycosyl hydrolase
+EFAEC_02821	CDS	963	scrR_2			sucrose operon repressor ScrR
+EFAEC_02822	CDS	804		2.7.7.-		ISEfa10, transposase
+EFAEC_02823	CDS	582		2.7.7.-		ISEnfa3, transposase
+EFAEC_02824	CDS	456				IS605/IS200 family transposase
+EFAEC_02825	CDS	234				hypothetical protein
+EFAEC_02826	CDS	1320		2.7.7.-		IS1380 family transposase
+EFAEC_02827	CDS	219	bin3_1			Putative transposon Tn552 DNA-invertase bin3
+EFAEC_02828	CDS	819				phosphosugar isomerase transcriptional regulator
+EFAEC_02829	CDS	690		5.1.3.9		N-acetylmannosamine-6-phosphate 2-epimerase
+EFAEC_02830	CDS	1503		2.7.1.69		PTS system, N-acetylglucosamine-specific IIABC component
+EFAEC_02831	CDS	1251		2.7.7.-		IS116/IS110/IS902 family transposase
+EFAEC_02832	CDS	477		2.7.1.69		PTS system, trehalose/maltose-specific, IIBCA component
+EFAEC_02833	CDS	837		2.7.7.-		ISEfa8, transposase
+EFAEC_02834	CDS	519				hypothetical protein
+EFAEC_02835	CDS	1086	xerS			Tyrosine recombinase XerS
+EFAEC_02836	CDS	954				Integrase
+EFAEC_02837	CDS	1251		2.7.1.69		PTS system, lactose/cellobiose-specific IIC component
+EFAEC_02838	CDS	927				hypothetical protein
+EFAEC_02839	CDS	996	lacD_1	4.1.2.40		Tagatose 1,6-diphosphate aldolase
+EFAEC_02840	CDS	1170	agaS	5.3.1.-		sugar isomerase, AgaS family
+EFAEC_02841	CDS	735				transcriptional regulator, GntR family
+EFAEC_02842	CDS	837				integrase core domain protein
+EFAEC_02843	CDS	1428		2.7.7.-		ISEfa7, transposase
+EFAEC_02844	CDS	405				Transposase
+EFAEC_02845	CDS	1149				transposase
+EFAEC_02846	CDS	1386		2.7.1.69		PTS system, trehalose/maltose-specific, IIBCA component
+EFAEC_02847	CDS	1341				Glycosyl hydrolase
+EFAEC_02848	CDS	855				AraC-like ligand binding domain protein
+EFAEC_02849	CDS	2193		3.2.1.22		alpha-galactosidase
+EFAEC_02850	CDS	456		2.7.1.69		PTS system, trehalose/maltose-specific, IIBCA component
+EFAEC_02851	CDS	837		2.7.7.-		ISEfa8, transposase
+EFAEC_02852	CDS	291		2.7.7.-		ISEfa8, transposase
+EFAEC_02853	CDS	537		2.7.7.-		ISEnfa3, transposase
+EFAEC_02854	CDS	807		2.7.7.-		ISEnfa3, transposase
+EFAEC_02855	CDS	864				IS256 family transposase
+EFAEC_02856	CDS	378				IS256 family transposase
+EFAEC_02857	CDS	1296		2.7.7.-		ISL3 family transposase
+EFAEC_02858	CDS	405				Transposase
+EFAEC_02859	CDS	1149				transposase
+EFAEC_02860	CDS	261				hypothetical protein
+EFAEC_02861	CDS	1179		2.7.7.-		ISEf1, transposase
+EFAEC_02862	CDS	1320				hypothetical protein
+EFAEC_02863	CDS	654				DNA-binding response regulator
+EFAEC_02864	CDS	1275		2.7.7.-		IS1476 , transposase
+EFAEC_02865	CDS	1614	guaA	6.3.5.2		GMP synthase
+EFAEC_02866	CDS	933				hypothetical protein
+EFAEC_02867	CDS	1662				hypothetical protein
+EFAEC_02868	CDS	2982	ebgA	3.2.1.23	COG3250	Evolved beta-galactosidase subunit alpha
+EFAEC_02869	CDS	1914				hypothetical protein
+EFAEC_02870	CDS	612				hypothetical protein
+EFAEC_02871	CDS	1473				extracellular solute-binding protein
+EFAEC_02872	CDS	912				ABC transporter permease
+EFAEC_02873	CDS	939				ABC transporter permease
+EFAEC_02874	CDS	1575				hypothetical protein
+EFAEC_02875	CDS	729			COG4753	putative response regulatory protein
+EFAEC_02876	CDS	1275		2.7.7.-		IS1476 , transposase
+EFAEC_02877	CDS	1032				ABC transport system ATP-binding protein
+EFAEC_02878	CDS	831				ABC transporter, permease protein
+EFAEC_02879	CDS	816				ABC transporter, permease protein
+EFAEC_02880	CDS	825				Type I phosphodiesterase / nucleotide pyrophosphatase
+EFAEC_02881	CDS	1101				extracellular solute-binding protein family 1
+EFAEC_02882	CDS	786				histidinol phosphatase
+EFAEC_02883	CDS	288				hydrolase
+EFAEC_02884	CDS	237		5.2.1.8		cyclophilin type peptidyl-prolyl cis-trans isomerase
+EFAEC_02885	CDS	816	pflA	1.97.1.4		Pyruvate formate-lyase 1-activating enzyme
+EFAEC_02886	CDS	696		2.7.7.-		ISEfa7, transposase
+EFAEC_02887	CDS	492				transposase, IS4 family
+EFAEC_02888	CDS	1296		2.7.7.-		ISL3 family transposase
+EFAEC_02889	CDS	1548		2.7.7.-		IS66 family transposase
+EFAEC_02890	CDS	195				hypothetical protein
+EFAEC_02891	CDS	102				IS256 family transposase
+EFAEC_02892	CDS	1377				efflux ABC transporter, permease protein
+EFAEC_02893	CDS	657				ABC transporter, ATP-binding protein
+EFAEC_02894	CDS	1278				efflux ABC transporter, permease protein
+EFAEC_02895	CDS	291				ISEfa8, transposase
+EFAEC_02896	CDS	837		2.7.7.-		ISEfa8, transposase
+EFAEC_02897	CDS	375				thioredoxin family protein
+EFAEC_02898	CDS	543				hypothetical protein
+EFAEC_02899	CDS	291		2.7.7.-		ISEfa8, transposase
+EFAEC_02900	CDS	837		2.7.7.-		ISEfa8, transposase
+EFAEC_02901	CDS	321				transposase
+EFAEC_02902	CDS	960				Integrase core domain protein
+EFAEC_02903	CDS	606				hypothetical protein
+EFAEC_02904	CDS	1149				transposase
+EFAEC_02905	CDS	405				Transposase
+EFAEC_02906	CDS	555				phage integrase family protein
+EFAEC_02907	CDS	909		2.7.7.-		ISEfm1, transposase
+EFAEC_02908	CDS	606	fic			Fic family protein
+EFAEC_02909	CDS	300				hypothetical protein
+EFAEC_02910	CDS	954				Integrase core domain protein
+EFAEC_02911	CDS	651				hypothetical protein
+EFAEC_02912	CDS	510				hypothetical protein
+EFAEC_02913	CDS	564	hsdS		COG0732	Type-1 restriction enzyme EcoKI specificity protein
+EFAEC_02914	CDS	1044				hypothetical protein
+EFAEC_02915	CDS	405		1.11.1.15		peroxiredoxin, Ohr family protein
+EFAEC_02916	CDS	249				transglycosylase associated protein
+EFAEC_02917	CDS	1179		2.7.7.-		ISEf1, transposase
+EFAEC_02918	CDS	612				integrase core domain-containing protein
+EFAEC_02919	CDS	1179		2.7.7.-		ISEf1, transposase
+EFAEC_02920	CDS	297				hypothetical protein
+EFAEC_02921	CDS	879				integral membrane protein
+EFAEC_02922	CDS	960			COG2826	IS30 family transposase IS6770
+EFAEC_02923	CDS	672				Integrase core domain protein
+EFAEC_02924	CDS	1431		2.7.1.69		PTS system beta-glucoside-specific transporter subunit IIABC
+EFAEC_02925	CDS	1296		2.7.7.-		IS1251-like transposase
+EFAEC_02926	CDS	843				BglG family transcriptional antiterminator
+EFAEC_02927	CDS	1467		3.2.1.86		6-phospho-beta-glucosidase
+EFAEC_02928	CDS	1845		2.7.1.69		PTS system beta-glucoside-specific transporter subunit IIABC
+EFAEC_02929	CDS	681				IS1216 transposase
+EFAEC_02930	CDS	810		2.7.1.69		PTS system, mannose/fructose/sorbose-specific IID component
+EFAEC_02931	CDS	747		2.7.1.69		PTS system, mannose/fructose/sorbose-specific IIC component
+EFAEC_02932	CDS	468		2.7.1.69		PTS system, mannose/fructose/sorbose-specific IIB component
+EFAEC_02933	CDS	411		2.7.1.-		PTS system, mannose/fructose/sorbose-specific IIA component
+EFAEC_02934	CDS	1014				SIS domain-containing protein
+EFAEC_02935	CDS	735	yurK		COG2188	putative HTH-type transcriptional regulator YurK
+EFAEC_02936	CDS	699	fadR			Fatty acid metabolism regulator protein
+EFAEC_02937	CDS	156				Transposase, IS1216
+EFAEC_02938	CDS	459				Integrase core domain protein
+EFAEC_02939	CDS	828				hypothetical protein
+EFAEC_02940	CDS	633		3.-.-.-		HAD superfamily hydrolase
+EFAEC_02941	CDS	2724				transcriptional antiterminator bglG:Sigma-54 factor
+EFAEC_02942	CDS	966		5.3.1.9		sugar isomerase
+EFAEC_02943	CDS	813		2.7.1.69		PTS system, mannose/fructose/sorbose-specific IID component
+EFAEC_02944	CDS	774		2.7.1.69		PTS system, mannose/fructose/sorbose-specific IIC component
+EFAEC_02945	CDS	471		2.7.1.69		PTS system, mannose/fructose/sorbose-specific IIB component
+EFAEC_02946	CDS	417				hypothetical protein
+EFAEC_02947	CDS	825				hypothetical protein
+EFAEC_02948	CDS	1149				transposase
+EFAEC_02949	CDS	405				Transposase
+EFAEC_02950	CDS	1425				Integrase core domain protein
+EFAEC_02951	CDS	606				IstB-like ATP binding protein
+EFAEC_02952	CDS	321				Integrase core domain protein
+EFAEC_02953	CDS	360				IS1216 transposase
+EFAEC_02954	CDS	1428		2.7.7.-		ISEfa7, transposase
+EFAEC_02955	CDS	249				hypothetical protein
+EFAEC_02956	CDS	825				hypothetical protein
+EFAEC_02957	CDS	756				sortase family protein
+EFAEC_02958	CDS	1977				cell wall surface anchor family protein
+EFAEC_02959	CDS	672				sortase family protein
+EFAEC_02960	CDS	240				hypothetical protein
+EFAEC_02961	CDS	240				hypothetical protein
+EFAEC_02962	CDS	342				hypothetical protein
+EFAEC_02963	CDS	330				hypothetical protein
+EFAEC_02964	CDS	333	traE1_2			regulatory protein TraE1
+EFAEC_02965	CDS	1086	repA_1			replication initiator protein A
+EFAEC_02966	CDS	555				hypothetical protein
+EFAEC_02967	CDS	843				replication-associated protein
+EFAEC_02968	CDS	294	prgN_1			replication control protein PrgN
+EFAEC_02969	CDS	105				hypothetical protein
+EFAEC_02970	CDS	351				hypothetical protein
+EFAEC_02971	CDS	1326				ImpB/MucB/SamB family protein
+EFAEC_02972	CDS	615	bin3_2			Putative transposon Tn552 DNA-invertase bin3
+EFAEC_02973	CDS	351	pemK	3.1.-.-		Endoribonuclease PemK
+EFAEC_02974	CDS	264				hypothetical protein
+EFAEC_02975	CDS	150				hypothetical protein
+EFAEC_02976	CDS	180				hypothetical protein
+EFAEC_02977	CDS	201				hypothetical protein
+EFAEC_02978	CDS	708				hypothetical protein
+EFAEC_02979	CDS	438				hypothetical protein
+EFAEC_02980	CDS	252				hypothetical protein
+EFAEC_02981	CDS	207				hypothetical protein
+EFAEC_02982	CDS	261				hypothetical protein
+EFAEC_02983	CDS	486	ssb_2			Helix-destabilizing protein
+EFAEC_02984	CDS	900				hypothetical protein
+EFAEC_02985	CDS	594				putative transcriptional regulator
+EFAEC_02986	CDS	150				hypothetical protein
+EFAEC_02987	CDS	2205				DNA topoisomerase III
+EFAEC_02988	CDS	1461				hypothetical protein
+EFAEC_02989	CDS	2178				hypothetical protein
+EFAEC_02990	CDS	138				hypothetical protein
+EFAEC_02991	CDS	456		2.7.7.-		IS116/IS110/IS902 family transposase
+EFAEC_02992	CDS	402				hypothetical protein
+EFAEC_02993	CDS	723				hypothetical protein
+EFAEC_02994	CDS	1251		2.7.7.-		IS116/IS110/IS902 family transposase
+EFAEC_02995	CDS	195				hypothetical protein
+EFAEC_02996	CDS	222				hypothetical protein
+EFAEC_02997	CDS	1590				hypothetical protein
+EFAEC_02998	CDS	423				hypothetical protein
+EFAEC_02999	CDS	309				hypothetical protein
+EFAEC_03000	CDS	231				hypothetical protein
+EFAEC_03001	CDS	807				hypothetical protein
+EFAEC_03002	CDS	645				hypothetical protein
+EFAEC_03003	CDS	627				peptidase, M23 family
+EFAEC_03004	CDS	549				peptidase, M23 family
+EFAEC_03005	CDS	321				ATPase
+EFAEC_03006	CDS	207				hypothetical protein
+EFAEC_03007	CDS	351				hypothetical protein
+EFAEC_03008	CDS	120				ATPase
+EFAEC_03009	CDS	492				ATPase
+EFAEC_03010	CDS	141				hypothetical protein
+EFAEC_03011	CDS	189				hypothetical protein
+EFAEC_03012	CDS	324				hypothetical protein
+EFAEC_03013	CDS	225				hypothetical protein
+EFAEC_03014	CDS	267				hypothetical protein
+EFAEC_03015	CDS	213				hypothetical protein
+EFAEC_03016	CDS	225				hypothetical protein
+EFAEC_03017	CDS	288	rep_1			replication protein
+EFAEC_03018	CDS	843	rep_2			replication protein
+EFAEC_03019	CDS	297	prgN_2			replication control protein PrgN
+EFAEC_03020	CDS	681				Transposase, IS1216
+EFAEC_03021	CDS	696	vanR_2			putative regulatory protein VanR
+EFAEC_03022	CDS	1143	sasA	2.7.-.-		Adaptive-response sensory-kinase SasA
+EFAEC_03023	CDS	969	vanHB_1	1.1.1.-		VanH protein, D-specific alpha-keto acid dehydrogenase
+EFAEC_03024	CDS	1032	vanB_1	6.3.2.-		Vancomycin B-type resistance protein vanB, D-alanine--D-lactate ligase
+EFAEC_03025	CDS	609	vanXB	3.4.13.22		D-alanyl-D-alanine dipeptidase
+EFAEC_03026	CDS	681				Transposase, IS1216
+EFAEC_03027	CDS	399				VanZ like family protein
+EFAEC_03028	CDS	285				hypothetical protein
+EFAEC_03029	CDS	300				hypothetical protein
+EFAEC_03030	CDS	1491	rep_3			replication protein
+EFAEC_03031	CDS	171				hypothetical protein
+EFAEC_03032	CDS	618				Resolvase protein
+EFAEC_03033	CDS	93				hypothetical protein
+EFAEC_03034	CDS	681				Transposase, IS1216
+EFAEC_03035	CDS	453				hypothetical protein
+EFAEC_03036	CDS	690				hypothetical protein
+EFAEC_03037	CDS	2352				hypothetical protein
+EFAEC_03038	CDS	387				hypothetical protein
+EFAEC_03039	CDS	618				resolvase protein
+EFAEC_03040	CDS	300	ligA_2	6.5.1.2		DNA ligase
+EFAEC_03041	CDS	168				hypothetical protein
+EFAEC_03042	CDS	606				recombinase
+EFAEC_03043	CDS	1371				Tn3 family transposase TnBth1
+EFAEC_03044	CDS	681				Transposase, IS1216
+EFAEC_03045	CDS	318				Replication initiation factor
+EFAEC_03046	CDS	594	rep_4			replication initiation factor
+EFAEC_03047	CDS	681				Transposase, IS1216
+EFAEC_03048	CDS	525				Replication initiation factor
+EFAEC_03049	CDS	1416	mob			plasmid recombination enzyme Mob
+EFAEC_03050	CDS	363				hypothetical protein
+EFAEC_03051	CDS	318				hypothetical protein
+EFAEC_03052	CDS	420				hypothetical protein
+EFAEC_03053	CDS	492				Replication initiation factor
+EFAEC_03054	CDS	681				Transposase, IS1216
+EFAEC_03055	CDS	237				integrase
+EFAEC_03056	CDS	276				hypothetical protein
+EFAEC_03057	CDS	954				putative PrgP protein
+EFAEC_03058	CDS	1494	rep_5			replication protein
+EFAEC_03059	CDS	297	prgN_3			replication control protein PrgN
+EFAEC_03060	CDS	681				Transposase, IS1216
+EFAEC_03061	CDS	1458	rssB			Regulator of RpoS
+EFAEC_03062	CDS	366		2.7.13.3		histidine kinase
+EFAEC_03063	CDS	969	vanHB_2	1.1.1.-		VanH protein, D-specific alpha-keto acid dehydrogenase
+EFAEC_03064	CDS	1032	vanB_2	6.3.2.-		Vancomycin B-type resistance protein vanB, D-alanine--D-lactate ligase
+EFAEC_03065	CDS	114				hypothetical protein
+EFAEC_03066	CDS	399				peptidase, M23 family
+EFAEC_03067	CDS	537				peptidase, M23 family
+EFAEC_03068	CDS	261				peptidase, M23 family
+EFAEC_03069	CDS	2025				ATPase
+EFAEC_03070	CDS	153				hypothetical protein
+EFAEC_03071	CDS	594				hypothetical protein
+EFAEC_03072	CDS	333				hypothetical protein
+EFAEC_03073	CDS	2373				hypothetical protein
+EFAEC_03074	CDS	792				TraG family conjugation protein
+EFAEC_03075	CDS	684		3.1.25.-		HNH endonuclease domain protein
+EFAEC_03076	CDS	1203		3.1.25.-		HNH endonuclease domain protein
+EFAEC_03077	CDS	1833				TraG family conjugation protein
+EFAEC_03078	CDS	1257				hypothetical protein
+EFAEC_03079	CDS	645				hypothetical protein
+EFAEC_03080	CDS	186				hypothetical protein
+EFAEC_03081	CDS	303				hypothetical protein
+EFAEC_03082	CDS	201				hypothetical protein
+EFAEC_03083	CDS	369	repA_2			Replication initiator protein A
+EFAEC_03084	CDS	183				replication initiator protein A
+EFAEC_03085	CDS	681				Transposase, IS1216
+EFAEC_03086	CDS	696				hypothetical protein
+EFAEC_03087	CDS	201				hypothetical protein
+EFAEC_03088	CDS	180				hypothetical protein
+EFAEC_03089	CDS	270				toxin-antitoxin system, antitoxin component
+EFAEC_03090	CDS	258	yoeB_1	3.1.-.-		Toxin YoeB
+EFAEC_03091	CDS	105				hypothetical protein
+EFAEC_03092	CDS	825				hypothetical protein
+EFAEC_03093	CDS	615	bin3_3			Putative transposon Tn552 DNA-invertase bin3
+EFAEC_03094	CDS	1326				ImpB/MucB/SamB family protein
+EFAEC_03095	CDS	351				hypothetical protein
+EFAEC_03096	CDS	180				hypothetical protein
+EFAEC_03097	CDS	291	prgN_4			replication control protein PrgN
+EFAEC_03098	CDS	789				plasmid-partitioning protein
+EFAEC_03099	CDS	327				hypothetical protein
+EFAEC_03100	CDS	1041	repA_3			replication initiator protein A
+EFAEC_03101	CDS	321				Integrase core domain protein
+EFAEC_03102	CDS	228				Transposase, IS1216
+EFAEC_03103	CDS	696				hypothetical protein
+EFAEC_03104	CDS	201				hypothetical protein
+EFAEC_03105	CDS	180				hypothetical protein
+EFAEC_03106	CDS	138	yefM			antitoxin YefM
+EFAEC_03107	CDS	258	yoeB_2	3.1.-.-		Toxin YoeB
+EFAEC_03108	CDS	801				hypothetical protein
+EFAEC_03109	CDS	1566				hypothetical protein
+EFAEC_03110	CDS	363				hypothetical protein
+EFAEC_03111	CDS	153				hypothetical protein
+EFAEC_03112	CDS	423				hypothetical protein
+EFAEC_03113	CDS	1416				hypothetical protein
+EFAEC_03114	CDS	831				hypothetical protein
+EFAEC_03115	CDS	798				hypothetical protein
+EFAEC_03116	CDS	363				hypothetical protein
+EFAEC_03117	CDS	147				hypothetical protein
+EFAEC_03118	CDS	222				hypothetical protein
+EFAEC_03119	CDS	276				hypothetical protein
+EFAEC_03120	CDS	1827				hypothetical protein
+EFAEC_03121	CDS	717				hypothetical protein
+EFAEC_03122	CDS	1818				TraG family conjugation protein
+EFAEC_03123	CDS	1899		3.1.25.-		HNH endonuclease domain protein
+EFAEC_03124	CDS	1008				hypothetical protein
+EFAEC_03125	CDS	2670				hypothetical protein
+EFAEC_03126	CDS	336				hypothetical protein
+EFAEC_03127	CDS	618				hypothetical protein
+EFAEC_03128	CDS	468				hypothetical protein
+EFAEC_03129	CDS	1956				ATPase
+EFAEC_03130	CDS	1137				NlpC/P60 family lipoprotein
+EFAEC_03131	CDS	651				hypothetical protein
+EFAEC_03132	CDS	897				hypothetical protein
+EFAEC_03133	CDS	231				hypothetical protein
+EFAEC_03134	CDS	516				ABC transporter ATP-binding protein
+EFAEC_03135	CDS	105				ABC transporter ATP-binding protein
+EFAEC_03136	CDS	138				hypothetical protein
+EFAEC_03137	CDS	381				Bacterial mobilization protein C
+EFAEC_03138	CDS	915				Relaxase/mobilization nuclease domain protein
+EFAEC_03139	CDS	690				hypothetical protein
+EFAEC_03140	CDS	738	repB_1			plasmid replication initiation protein
+EFAEC_03141	CDS	540				putative plasmid replication protein
+EFAEC_03142	CDS	171				hypothetical protein
+EFAEC_03143	CDS	462				helix-turn-helix domain-containing protein
+EFAEC_03144	CDS	375				bacteriocin, lactococcin 972 family
+EFAEC_03145	CDS	2127				bacteriocin-associated integral membrane protein
+EFAEC_03146	CDS	621				ABC transporter ATP-binding protein
+EFAEC_03147	CDS	138				hypothetical protein
+EFAEC_03148	CDS	381				Bacterial mobilization protein C
+EFAEC_03149	CDS	915				Relaxase/mobilization nuclease domain protein
+EFAEC_03150	CDS	702				hypothetical protein
+EFAEC_03151	CDS	738	repB_2			plasmid replication initiation protein
+EFAEC_03152	CDS	558				putative plasmid replication protein
+EFAEC_03153	CDS	171				hypothetical protein
+EFAEC_03154	CDS	135				helix-turn-helix domain-containing protein
